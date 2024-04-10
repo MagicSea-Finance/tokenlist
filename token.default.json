@@ -307,6 +307,14 @@
       "chainId": 148
     },
     {
+      "name": "ApeDAO Token",
+      "symbol": "APEin",
+      "decimals": 18,
+      "address" : "0x264F2e6142CE8bEA68e5C646f8C07db98A9E003A",
+      "logoURI": "https://images.shimmersea.finance/APEin.svg",
+      "chainId": 148
+    },
+    {
       "name" : "Wrapped Iota",
       "symbol": "wIOTA",
       "address": "0x6e47f8d48a01b44DF3fFF35d258A10A3AEdC114c",
