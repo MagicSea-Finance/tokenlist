@@ -321,6 +321,14 @@
       "logoURI": "https://images.shimmersea.finance/IOTA.svg",
       "decimals": 18,
       "chainId": 8822
+    },
+    {
+      "name" : "FOMOFox",
+      "symbol": "FOMO",
+      "address": "0x30a1398cF11cb9E852E5d80aCe7FFd5ec271169E",
+      "logoURI": "https://fomofox.info/wp-content/uploads/2024/04/FOMOFox.svg",
+      "decimals": 18,
+      "chainId": 8822
     }
   ]
 }
