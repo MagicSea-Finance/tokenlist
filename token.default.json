@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2024-06-01T09:40:18.447Z",
+  "timestamp": "2024-06-01T13:24:18.447Z",
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 1,
     "patch": 1
   },
@@ -366,6 +366,14 @@
       "name" : "PathInu",
       "symbol": "INU",
       "address": "0x2D69643C0691c49D8c5B3d1DFeaa5f07361d8442",
+      "logoURI": "https://dummy.info/logo.svg",
+      "decimals": 18,
+      "chainId": 8822
+    },
+    {
+      "name" : "INK Token",
+      "symbol": "INK",
+      "address": "0x2FFe5c149D1BB91E34Ed137B63fE4CE00065AAd3",
       "logoURI": "https://dummy.info/logo.svg",
       "decimals": 18,
       "chainId": 8822
