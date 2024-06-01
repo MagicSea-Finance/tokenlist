@@ -334,7 +334,7 @@
       "name" : "LUM Token",
       "symbol": "LUM",
       "address": "0x34a85ddc4E30818e44e6f4A8ee39d8CBA9A60fB3",
-      "logoURI": "",
+      "logoURI": "https://dummy.info/logo.svg",
       "decimals": 18,
       "chainId": 8822
     },
@@ -342,7 +342,7 @@
       "name" : "MLUM Token",
       "symbol": "MLUM",
       "address": "0xA87666b0Cb3631c49f96CBf1e6A52EBac79A6143",
-      "logoURI": "",
+      "logoURI": "https://dummy.info/logo.svg",
       "decimals": 18,
       "chainId": 8822
     }
