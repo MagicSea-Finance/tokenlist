@@ -3,7 +3,7 @@
   "timestamp": "2024-05-20T05:02:32.173Z",
   "version": {
     "major": 3,
-    "minor": 3,
+    "minor": 4,
     "patch": 1
   },
   "tags": {},
@@ -327,6 +327,22 @@
       "symbol": "FOMO",
       "address": "0x30a1398cF11cb9E852E5d80aCe7FFd5ec271169E",
       "logoURI": "https://fomofox.info/wp-content/uploads/2024/04/FOMOFox.svg",
+      "decimals": 18,
+      "chainId": 8822
+    },
+    {
+      "name" : "LUM Token",
+      "symbol": "LUM",
+      "address": "0x34a85ddc4E30818e44e6f4A8ee39d8CBA9A60fB3",
+      "logoURI": "",
+      "decimals": 18,
+      "chainId": 8822
+    },
+    {
+      "name" : "MLUM Token",
+      "symbol": "MLUM",
+      "address": "0xA87666b0Cb3631c49f96CBf1e6A52EBac79A6143",
+      "logoURI": "",
       "decimals": 18,
       "chainId": 8822
     }
