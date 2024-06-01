@@ -3,7 +3,7 @@
   "timestamp": "2024-05-20T05:02:32.173Z",
   "version": {
     "major": 3,
-    "minor": 4,
+    "minor": 5,
     "patch": 1
   },
   "tags": {},
@@ -342,6 +342,30 @@
       "name" : "MLUM Token",
       "symbol": "MLUM",
       "address": "0xA87666b0Cb3631c49f96CBf1e6A52EBac79A6143",
+      "logoURI": "https://dummy.info/logo.svg",
+      "decimals": 18,
+      "chainId": 8822
+    },
+    {
+      "name" : "Rusty Robot Country Club",
+      "symbol": "RUST",
+      "address": "0x3915b5A673ee6cf126D1042f637Bd10b9931aD08",
+      "logoURI": "https://dummy.info/logo.svg",
+      "decimals": 18,
+      "chainId": 8822
+    },
+    {
+      "name" : "Fusing Failstack Token",
+      "symbol": "FUSE",
+      "address": "0xF3E5109aDFA8957d73d04FD32Fbf2291E9423699",
+      "logoURI": "https://dummy.info/logo.svg",
+      "decimals": 18,
+      "chainId": 8822
+    },
+    {
+      "name" : "PathInu",
+      "symbol": "INU",
+      "address": "0x2D69643C0691c49D8c5B3d1DFeaa5f07361d8442",
       "logoURI": "https://dummy.info/logo.svg",
       "decimals": 18,
       "chainId": 8822
