@@ -377,6 +377,14 @@
       "logoURI": "https://dummy.info/logo.svg",
       "decimals": 18,
       "chainId": 8822
+    },
+    {
+      "name" : "ChicksWifKicks",
+      "symbol": "CHICKS",
+      "address": "0x513E7e050eA8a7606c42B5A4FAB1B4F63c29B898",
+      "logoURI": "https://dummy.info/logo.svg",
+      "decimals": 18,
+      "chainId": 8822
     }
   ]
 }
