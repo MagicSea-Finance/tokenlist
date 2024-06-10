@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2024-06-06T05:49:45.712Z",
+  "timestamp": "2024-06-10T14:07:57.941Z",
   "version": {
-    "major": 8,
+    "major": 9,
     "minor": 1,
     "patch": 1
   },
@@ -382,6 +382,14 @@
       "name" : "ChicksWifKicks",
       "symbol": "CHICKS",
       "address": "0x513E7e050eA8a7606c42B5A4FAB1B4F63c29B898",
+      "logoURI": "https://dummy.info/logo.svg",
+      "decimals": 18,
+      "chainId": 8822
+    },
+    {
+      "name" : "Biotacoin",
+      "symbol": "BiTC",
+      "address": "0x58427e8577F704D71d02ab7716e2AA7C02C4C1a2",
       "logoURI": "https://dummy.info/logo.svg",
       "decimals": 18,
       "chainId": 8822
