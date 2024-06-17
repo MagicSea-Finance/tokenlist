@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2024-06-15T17:52:32.748Z",
+  "timestamp": "2024-06-17T18:15:04.953Z",
   "version": {
-    "major": 11,
+    "major": 12,
     "minor": 1,
     "patch": 1
   },
@@ -382,6 +382,30 @@
       "name" : "ChicksWifKicks",
       "symbol": "CHICKS",
       "address": "0x513E7e050eA8a7606c42B5A4FAB1B4F63c29B898",
+      "logoURI": "https://dummy.info/logo.svg",
+      "decimals": 18,
+      "chainId": 8822
+    },
+    {
+      "name" : "Stargate USDC",
+      "symbol": "USDC",
+      "address": "0xFbDa5F676cB37624f28265A144A48B0d6e87d3b6",
+      "logoURI": "https://dummy.info/logo.svg",
+      "decimals": 6,
+      "chainId": 8822
+    },
+    {
+      "name" : "Stargate USDT",
+      "symbol": "USDT",
+      "address": "0xC1B8045A6ef2934Cf0f78B0dbD489969Fa9Be7E4",
+      "logoURI": "https://dummy.info/logo.svg",
+      "decimals": 6,
+      "chainId": 8822
+    },
+    {
+      "name" : "Stargate ETH",
+      "symbol": "WETH",
+      "address": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8",
       "logoURI": "https://dummy.info/logo.svg",
       "decimals": 18,
       "chainId": 8822
