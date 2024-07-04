@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2024-06-17T20:31:04.953Z",
+  "timestamp": "2024-06-24T15:04:46.268Z",
   "version": {
-    "major": 13,
+    "major": 15,
     "minor": 1,
     "patch": 1
   },
@@ -406,6 +406,22 @@
       "name" : "Stargate ETH",
       "symbol": "WETH",
       "address": "0x160345fC359604fC6e70E3c5fAcbdE5F7A9342d8",
+      "logoURI": "https://dummy.info/logo.svg",
+      "decimals": 18,
+      "chainId": 8822
+    },
+    {
+      "name" : "Audit Token",
+      "symbol": "AUDIT",
+      "address": "0x159366809b6062960c97BC4eDd548BAFCd7812D8",
+      "logoURI": "https://dummy.info/logo.svg",
+      "decimals": 18,
+      "chainId": 8822
+    },
+    {
+      "name" : "GigaFish",
+      "symbol": "GIGA",
+      "address": "0x7c311AD614cA8b7441739cEab8A218587ecc6554",
       "logoURI": "https://dummy.info/logo.svg",
       "decimals": 18,
       "chainId": 8822
