@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2024-06-24T15:04:46.268Z",
+  "timestamp": "2024-07-04T09:12:42.644Z",
   "version": {
-    "major": 15,
+    "major": 16,
     "minor": 1,
     "patch": 1
   },
@@ -350,14 +350,6 @@
       "name" : "Rusty Robot Country Club",
       "symbol": "RUST",
       "address": "0x3915b5A673ee6cf126D1042f637Bd10b9931aD08",
-      "logoURI": "https://dummy.info/logo.svg",
-      "decimals": 18,
-      "chainId": 8822
-    },
-    {
-      "name" : "Fusing Failstack Token",
-      "symbol": "FUSE",
-      "address": "0xF3E5109aDFA8957d73d04FD32Fbf2291E9423699",
       "logoURI": "https://dummy.info/logo.svg",
       "decimals": 18,
       "chainId": 8822
