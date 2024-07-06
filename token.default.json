@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2024-07-04T09:12:42.644Z",
+  "timestamp": "2024-07-06T17:21:04.572Z",
   "version": {
-    "major": 16,
+    "major": 17,
     "minor": 1,
     "patch": 1
   },
@@ -414,6 +414,14 @@
       "name" : "GigaFish",
       "symbol": "GIGA",
       "address": "0x7c311AD614cA8b7441739cEab8A218587ecc6554",
+      "logoURI": "https://dummy.info/logo.svg",
+      "decimals": 18,
+      "chainId": 8822
+    },
+    {
+      "name" : "HODLHamster",
+      "symbol": "HODL",
+      "address": "0xFaBFbc185425dC87E5871D4E8705C5536991fd9a",
       "logoURI": "https://dummy.info/logo.svg",
       "decimals": 18,
       "chainId": 8822
