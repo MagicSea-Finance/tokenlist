@@ -2,7 +2,7 @@
   "name": "MagicSea Default",
   "timestamp": "2024-07-07T16:13:41.776Z",
   "version": {
-    "major": 18,
+    "major": 19,
     "minor": 1,
     "patch": 1
   },
@@ -428,11 +428,19 @@
     },
     {
       "name" : "Wrapped SMR",
-      "symbol": "WSMR",
+      "symbol": "wSMR",
       "address": "0x009BcE26c6812c559aFf5EB5769C8758701673d2",
       "logoURI": "https://dummy.info/logo.svg",
       "decimals": 18,
       "chainId": 8822
+    },
+    {
+      "name" : "Wrapped IOTA",
+      "symbol": "wIOTA",
+      "address": "0xAf5b83063247603d1D042FA2a47c404322255bD4",
+      "logoURI": "https://dummy.info/logo.svg",
+      "decimals": 18,
+      "chainId": 148
     }
   ]
 }
