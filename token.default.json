@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2024-07-08T16:33:18.536Z",
+  "timestamp": "2024-07-12T18:38:22.230Z",
   "version": {
-    "major": 21,
+    "major": 22,
     "minor": 1,
     "patch": 1
   },
@@ -438,6 +438,14 @@
       "name" : "Deepr",
       "symbol": "DEEPR",
       "address": "0x4Eb8E03461360C2AcBb4B5963a18b8f9faEE8221",
+      "logoURI": "https://dummy.info/logo.svg",
+      "decimals": 18,
+      "chainId": 8822
+    },
+    {
+      "name" : "Bivreost",
+      "symbol": "BI",
+      "address": "0x9CcB68dc058158f4f2B09A8145bCd2c7C52bCBD7",
       "logoURI": "https://dummy.info/logo.svg",
       "decimals": 18,
       "chainId": 8822
