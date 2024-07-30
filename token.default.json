@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2024-07-12T18:38:22.230Z",
+  "timestamp": "2024-07-30T18:38:22.230Z",
   "version": {
-    "major": 22,
+    "major": 23,
     "minor": 1,
     "patch": 1
   },
@@ -48,14 +48,6 @@
       "decimals": 6,
       "address" : "0x4f67E9B8e1DA5aBcb52CAb8bf5cB27034393718B",
       "logoURI": "https://images.shimmersea.finance/USDC.svg",
-      "chainId": 1073
-    },
-    {
-      "name": "ApeDAO",
-      "symbol": "APEin",
-      "decimals": 18,
-      "address" : "0xd3dBdB6C49Fd37428aD674075a3bd2c0017Fe52e",
-      "logoURI": "https://images.shimmersea.finance/APEin.svg",
       "chainId": 1073
     },
     {
