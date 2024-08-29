@@ -1,0 +1,366 @@
+{
+  "name": "Swapline Default",
+  "timestamp": "2024-07-31T18:38:22.230Z",
+  "version": {
+    "major": 24,
+    "minor": 1,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://app.swapline.com/logo.png",
+  "keywords": ["swapline", "base", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped Fantom",
+      "symbol": "WFTM",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/FTM.svg",
+      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+      "chainId": 250
+    },
+    {
+      "name": "USD Coin (Multichain)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://images.swapline.com/usd-coin-usdc-logo.svg",
+      "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+      "chainId": 250
+    },
+    {
+      "name": "Bitcoin (Multichain)",
+      "symbol": "wBTC",
+      "decimals": 8,
+      "logoURI": "https://images.swapline.com/btc.svg",
+      "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+      "chainId": 250
+    },
+    {
+      "name": "Ethereum (Multichain)",
+      "symbol": "wETH",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/ethereum-eth.svg",
+      "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+      "chainId": 250
+    },
+    {
+      "name": "Dai StableCoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/dai.svg",
+      "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+      "chainId": 250
+    },
+    {
+      "name": "USD Coin (LayerZero)",
+      "symbol": "USDC.lz",
+      "decimals": 6,
+      "logoURI": "https://images.swapline.com/usd-coin-usdc-logo.svg",
+      "address": "0x28a92dde19D9989F39A49905d7C9C2FAc7799bDf",
+      "chainId": 250
+    },
+    {
+      "name": "Wrapped Bitcoin (LayerZero)",
+      "symbol": "wBTC.lz",
+      "decimals": 8,
+      "logoURI": "https://images.swapline.com/usd-coin-usdc-logo.svg",
+      "address": "0xf1648C50d2863f780c57849D812b4B7686031A3D",
+      "chainId": 250
+    },
+    {
+      "name": "Wrapped Ether (LayerZero)",
+      "symbol": "wETH.lz",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/usd-coin-usdc-logo.svg",
+      "address": "0x695921034f0387eAc4e11620EE91b1b15A6A09fE",
+      "chainId": 250
+    },
+    {
+      "name" : "ChillPill",
+      "symbol" : "CHILL",
+      "decimals" : 18,
+      "address" : "0xe47d957F83F8887063150AaF7187411351643392",
+      "chainId": 250
+    },
+    {
+      "name" : "Fuck Multi",
+      "symbol" : "FCKMC",
+      "decimals" : 18,
+      "address" : "0x6CEbb8cD66Fca7E6aca65841Ae3A04B7884F4de8",
+      "chainId": 250
+    },
+    {
+      "name": "Wrapped Fantom",
+      "symbol": "WFTM",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/FTM.svg",
+      "address": "0x5A5c0C4832828FF878CE3ab4fEc44d21200b1496",
+      "chainId": 4002
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://images.swapline.com/usd-coin-usdc-logo.svg",
+      "address": "0xC6EF3c25eEcB51f2736820Faf1dB31316E600E00",
+      "chainId": 4002
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "wBTC",
+      "decimals": 8,
+      "logoURI": "https://images.swapline.com/btc.svg",
+      "address": "0x8Cce20D17aB9C6F60574e678ca96711D907fD08c",
+      "chainId": 4002
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "wETH",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/ethereum-eth.svg",
+      "address": "0xbc83aea91bE690Cdc9a5eB60a23AD9ea7FeDf71e",
+      "chainId": 4002
+    },
+    {
+      "name": "Dai StableCoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/dai.svg",
+      "address": "0x2443e5165DB8a8A7cff5d66Cb9861806332aCE4D",
+      "chainId": 4002
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://images.swapline.com/USDC.svg",
+      "address": "0x3CF9c2eEdF007cF428B67219DcFb2FD700b1a2C0",
+      "chainId": 420
+    },
+    {
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://images.swapline.com/USDT.svg",
+      "address": "0xC0e21daC392A852B366c40744B1d11e9919300D6",
+      "chainId": 420
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "wBTC",
+      "decimals": 8,
+      "logoURI": "https://images.swapline.com/btc.svg",
+      "address": "0x1e649177be11147947272A6831ee83Bf99611689",
+      "chainId": 420
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "wETH",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/eth.svg",
+      "address": "0xb9b5D39eC0a9996Ec0d92f2fcF6C8B51A51B2d57",
+      "chainId": 420
+    },
+    {
+      "name": "Optimism",
+      "symbol": "OP",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/OP.svg",
+      "address": "0x4bAa24C3D50108cdf8D85Fda023Eda1d933eD6Ef",
+      "chainId": 420
+    },
+
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://images.swapline.com/USDC.svg",
+      "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+      "chainId": 10
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/eth.svg",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 10
+    },
+    {
+      "name": "Optimism",
+      "symbol": "OP",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/OP.svg",
+      "address": "0x4200000000000000000000000000000000000042",
+      "chainId": 10
+    },
+    {
+      "name" : "MUMMY",
+      "symbol": "MMY.lz",
+      "decimals" : 18,
+      "logoURI": "https://images.swapline.com/MMY.svg",
+      "address":"0x385719545Ef34d457A88e723504544A53F0Ad9BC",
+      "chainId": 10
+    },
+    {
+      "name" : "WLD",
+      "symbol": "Worldcoin",
+      "decimals" : 18,
+      "logoURI": "https://images.swapline.com/WLD.svg",
+      "address":"0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1",
+      "chainId": 10
+    },
+    {
+      "name" : "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals" : 8,
+      "logoURI": "https://images.swapline.com/wBTC.svg",
+      "address":"0x68f180fcce6836688e9084f035309e29bf0a2095",
+      "chainId": 10
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/eth.svg",
+      "address": "0x4671AcA0C1fe99fE6779606698E61783d4520a41",
+      "chainId": 1442
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://images.swapline.com/USDC.svg",
+      "address": "0x25b320A7C69e66515D7f6C044eC9AF49Fa1588BB",
+      "chainId": 1442
+    },
+    {
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://images.swapline.com/USDT.svg",
+      "address": "0xAD30c5135468BcC647add3370B505b88219CF1Fe",
+      "chainId": 1442
+    },
+    {
+      "name": "Matic Token",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/MATIC.svg",
+      "address": "0x07D0A530CeFc8Af999921136DaE2fC29DEFabf8e",
+      "chainId": 1442
+    },
+
+    {
+      "name": "Ethereum",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/eth.svg",
+      "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+      "chainId": 1101
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://images.swapline.com/USDC.svg",
+      "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
+      "chainId": 1101
+    },
+    {
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://images.swapline.com/USDT.svg",
+      "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
+      "chainId": 1101
+    },
+    {
+      "name": "Matic Token",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/MATIC.svg",
+      "address": "0xa2036f0538221a77A3937F1379699f44945018d0",
+      "chainId": 1101
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/eth.svg",
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "chainId": 42161
+    },
+    {
+      "name": "USD Coin (Native)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://images.swapline.com/USDC.svg",
+      "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+      "chainId": 42161
+    },
+    {
+      "name": "Bridged USD Coin",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://images.swapline.com/USDC.svg",
+      "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+      "chainId": 42161
+    },
+    {
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/ARB.svg",
+      "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+      "chainId": 42161
+    },
+    {
+      "name": "Camelot Token",
+      "symbol": "GRAIL",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/GRAIL.svg",
+      "address": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8",
+      "chainId": 42161
+    },
+    {
+      "name": "GMX",
+      "symbol": "GMX",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/GMX.svg",
+      "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+      "chainId": 42161
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/eth.svg",
+      "address": "0x4200000000000000000000000000000000000006",
+      "chainId": 8453
+    },
+    {
+      "name": "USD Base Coin",
+      "symbol" : "USDbC",
+      "decimals" : 6,
+      "logoURI" : "https://images.swapline.com/USDbC.svg",
+      "address" : "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+      "chainId": 8453
+    },
+    {
+      "name": "Dai StableCoin",
+      "symbol" : "DAI",
+      "decimals" : 18,
+      "logoURI" : "https://images.swapline.com/DAI.svg",
+      "address" : "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+      "chainId": 8453
+    },
+    {
+      "name": "USD Coin (Circle)",
+      "symbol" : "USDC",
+      "decimals" : 6,
+      "logoURI" : "https://images.swapline.com/USDC.svg",
+      "address" : "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "chainId": 8453
+    }
+  ]
+}
