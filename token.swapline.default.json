@@ -1,8 +1,8 @@
 {
   "name": "Swapline Default",
-  "timestamp": "2024-08-01T15:00:00.000Z",
+  "timestamp": "2024-09-06T21:55:00.000Z",
   "version": {
-    "major": 25,
+    "major": 26,
     "minor": 1,
     "patch": 1
   },
@@ -336,22 +336,6 @@
       "decimals": 18,
       "logoURI": "https://images.swapline.com/eth.svg",
       "address": "0x4200000000000000000000000000000000000006",
-      "chainId": 8453
-    },
-    {
-      "name": "USD Base Coin",
-      "symbol" : "USDbC",
-      "decimals" : 6,
-      "logoURI" : "https://images.swapline.com/USDbC.svg",
-      "address" : "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
-      "chainId": 8453
-    },
-    {
-      "name": "Dai StableCoin",
-      "symbol" : "DAI",
-      "decimals" : 18,
-      "logoURI" : "https://images.swapline.com/DAI.svg",
-      "address" : "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
       "chainId": 8453
     },
     {
