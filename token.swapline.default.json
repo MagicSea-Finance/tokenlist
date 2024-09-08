@@ -1,8 +1,8 @@
 {
   "name": "Swapline Default",
-  "timestamp": "2024-09-06T20:09:00.000Z",
+  "timestamp": "2024-09-08T07:21:15.275Z",
   "version": {
-    "major": 27,
+    "major": 28,
     "minor": 1,
     "patch": 1
   },
@@ -40,6 +40,14 @@
       "decimals" : 6,
       "logoURI" : "https://images.swapline.com/EURC.svg",
       "address" : "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+      "chainId": 8453
+    },
+    {
+      "name": "Wrapped IOTA",
+      "symbol" : "WIOTA",
+      "decimals" : 6,
+      "logoURI" : "https://images.swapline.com/logo.svg",
+      "address" : "0x009BcE26c6812c559aFf5EB5769C8758701673d2",
       "chainId": 8453
     }
   ]
