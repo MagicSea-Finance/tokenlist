@@ -1,8 +1,8 @@
 {
   "name": "Swapline Default",
-  "timestamp": "2024-09-08T13:30:15.275Z",
+  "timestamp": "2024-09-09T20:04:15.275Z",
   "version": {
-    "major": 29,
+    "major": 30,
     "minor": 1,
     "patch": 1
   },
@@ -48,6 +48,30 @@
       "decimals" : 18,
       "logoURI" : "https://images.swapline.com/logo.svg",
       "address" : "0x009BcE26c6812c559aFf5EB5769C8758701673d2",
+      "chainId": 8453
+    },
+    {
+      "name": "Wrapped Solana (Universal)",
+      "symbol" : "uSOL",
+      "decimals" : 18,
+      "logoURI" : "https://images.swapline.com/uSOL.svg",
+      "address" : "0x9B8Df6E244526ab5F6e6400d331DB28C8fdDdb55",
+      "chainId": 8453
+    },
+    {
+      "name": "Base tBTC v2",
+      "symbol" : "tBTC",
+      "decimals" : 18,
+      "logoURI" : "https://images.swapline.com/tBTC.svg",
+      "address" : "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+      "chainId": 8453
+    },
+    {
+      "name": "Radiant",
+      "symbol" : "RDNT",
+      "decimals" : 18,
+      "logoURI" : "https://images.swapline.com/RDNT.svg",
+      "address" : "0xd722E55C1d9D9fA0021A5215Cbb904b92B3dC5d4",
       "chainId": 8453
     }
   ]
