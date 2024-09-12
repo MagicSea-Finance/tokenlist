@@ -73,6 +73,14 @@
       "logoURI" : "https://images.swapline.com/RDNT.svg",
       "address" : "0xd722E55C1d9D9fA0021A5215Cbb904b92B3dC5d4",
       "chainId": 8453
+    },
+    {
+      "name": "Coinbase Wrapped BTC",
+      "symbol" : "cbBTC",
+      "decimals" : 18,
+      "logoURI" : "https://images.swapline.com/cbBTC.svg",
+      "address" : "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+      "chainId": 8453
     }
   ]
 }
