@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Testnet Default",
-  "timestamp": "2024-09-12T14:21:10Z",
+  "timestamp": "2024-09-12T14:28:10Z",
   "version": {
-    "major": 27,
+    "major": 28,
     "minor": 1,
     "patch": 1
   },
@@ -207,7 +207,7 @@
       "symbol" : "wS",
       "decimals": 18,
       "address": "0xceebE42DC2336f5483e026F68fe599cEc3E6f114",
-      "logoURI": "https://images.shimmersea.finance/wS.png",
+      "logoURI": "https://images.shimmersea.finance/wS.svg",
       "chainId": 64165
     }
   ]
