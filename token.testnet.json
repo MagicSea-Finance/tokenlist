@@ -1,0 +1,126 @@
+{
+  "name": "MagicSea Testnet Default",
+  "timestamp": "2024-09-03T12:44:00.760Z",
+  "version": {
+    "major": 25,
+    "minor": 1,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://magicsea.finance/logo.png",
+  "keywords": ["shimmer", "iota", "sonic", "testnet", "magicsea", "default"],
+  "tokens": [
+    {
+      "name": "Shimmer",
+      "symbol" : "SMR",
+      "decimals" : 6,
+      "logoURI" : "https://images.swapline.com/SMR.svg",
+      "address" : "0x1074010000000000000000000000000000000000",
+      "chainId": 1073
+    },
+    {
+      "name": "Wrapped SMR",
+      "symbol" : "wSMR",
+      "decimals" : 18,
+      "logoURI" : "https://images.swapline.com/SMR.svg",
+      "address" : "0xBEb654A116aeEf764988DF0C6B4bf67CC869D01b",
+      "chainId": 1073
+    },
+    {
+      "name": "Wrap IOTA",
+      "symbol" : "sIOTA",
+      "decimals" : 6,
+      "logoURI" : "https://images.swapline.com/SMR.svg",
+      "address" : "0x65e72016a693d72d52EA5099c6697A188F2d2A83",
+      "chainId": 1073
+    },
+    {
+      "name" : "Lum Token",
+      "symbol" : "LUM",
+      "decimals" : 18,
+      "logoURI": "https://images.shimmersea.finance/LUM.svg",
+      "address" : "0x3Cb7e94fEc9aBdA24Dc671D5ba93E08e222FD535",
+      "chainId": 1073
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "address" : "0x4f67E9B8e1DA5aBcb52CAb8bf5cB27034393718B",
+      "logoURI": "https://images.shimmersea.finance/USDC.svg",
+      "chainId": 1073
+    },
+    {
+      "name": "AUR",
+      "symbol": "AUR",
+      "decimals": 18,
+      "address": "0x865aEE8304474cF7cAA3c8168b66feF0BA7e937B",
+      "logoURI": "https://images.shimmersea.finance/AUR.svg",
+      "chainId": 1073
+    },
+    {
+      "name" : "Wrapped Iota",
+      "symbol": "WIOTA",
+      "address": "0xB2E0DfC4820cc55829C71529598530E177968613",
+      "logoURI": "https://images.shimmersea.finance/IOTA.svg",
+      "decimals": 18,
+      "chainId": 1075
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "address" : "0x24b972796274D255b84c2B36e8a29bdAAdb65206",
+      "logoURI": "https://images.shimmersea.finance/USDC.svg",
+      "chainId": 1075
+    },
+    {
+      "name": "MagicLum",
+      "symbol": "MLUM",
+      "decimals": 18,
+      "address" : "0x408ba8dea8b514cc24F81e72795FC3DdbcA8Dbb5",
+      "logoURI": "https://images.shimmersea.finance/MLUM.svg",
+      "chainId": 1075
+    },
+    {
+      "name" : "Dai StableCoin",
+      "symbol" : "DAI",
+      "decimals": 6,
+      "address": "0xB6124F002143bD9182319098acaFBeBc3b6Af919",
+      "logoURI": "https://images.shimmersea.finance/DAI.svg",
+      "chainId": 1075
+    },
+    {
+      "name" : "Tether USD",
+      "symbol" : "USDT",
+      "decimals": 6,
+      "address": "0xd08C98F6409fCAe3E61f3157B4147B6595E60cf3",
+      "logoURI": "https://images.shimmersea.finance/USDT.svg",
+      "chainId": 1075
+    },
+    {
+      "name" : "Bitcoin",
+      "symbol" : "BTC",
+      "decimals": 8,
+      "address": "0x873Aa6beD68d59dD6202DbB176Efc21e91c346b5",
+      "logoURI": "https://images.shimmersea.finance/BTC.svg",
+      "chainId": 1075
+    },
+    {
+      "name" : "Wrapped Sonic",
+      "symbol" : "WS",
+      "decimals": 18,
+      "address": "0xceebE42DC2336f5483e026F68fe599cEc3E6f114",
+      "logoURI": "https://images.shimmersea.finance/WS.svg",
+      "chainId": 64165
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "address" : "0x56eaa884F29620fD6914827AaAE9Ee6a5C383149",
+      "logoURI": "https://images.shimmersea.finance/USDC.svg",
+      "chainId": 64165
+    } 
+  ]
+}
