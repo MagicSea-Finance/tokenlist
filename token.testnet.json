@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Testnet Default",
-  "timestamp": "2024-09-12T14:28:10Z",
+  "timestamp": "2024-09-12T14:42:10Z",
   "version": {
-    "major": 28,
+    "major": 29,
     "minor": 1,
     "patch": 1
   },
@@ -200,14 +200,6 @@
       "decimals": 18,
       "address": "0x72778BA7c44b3bF218954175A9480D8b8f841C08",
       "logoURI": "https://images.shimmersea.finance/TOPAZ.svg",
-      "chainId": 64165
-    },
-    {
-      "name" : "Wrapped Sonic",
-      "symbol" : "wS",
-      "decimals": 18,
-      "address": "0xceebE42DC2336f5483e026F68fe599cEc3E6f114",
-      "logoURI": "https://images.shimmersea.finance/wS.svg",
       "chainId": 64165
     }
   ]
