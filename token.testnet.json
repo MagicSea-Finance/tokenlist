@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Testnet Default",
-  "timestamp": "2024-09-12T14:59:10Z",
+  "timestamp": "2024-09-15T06:10:10Z",
   "version": {
-    "major": 29,
+    "major": 30,
     "minor": 2,
     "patch": 1
   },
@@ -200,6 +200,14 @@
       "decimals": 18,
       "address": "0x72778BA7c44b3bF218954175A9480D8b8f841C08",
       "logoURI": "https://images.shimmersea.finance/TOPAZ.svg",
+      "chainId": 64165
+    },
+    {
+      "name" : "FantomEco",
+      "symbol" : "ECO",
+      "decimals": 18,
+      "address": "0xBC506F58931472EF840502310cB8e25887999E0b",
+      "logoURI": "https://images.shimmersea.finance/ECO.svg",
       "chainId": 64165
     }
   ]
