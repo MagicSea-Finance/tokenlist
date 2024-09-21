@@ -1,8 +1,8 @@
 {
   "name": "Swapline Default",
-  "timestamp": "2024-09-12T15:05:10Z",
+  "timestamp": "2024-09-21T17:57:10Z",
   "version": {
-    "major": 32,
+    "major": 33,
     "minor": 2,
     "patch": 1
   },
@@ -80,6 +80,14 @@
       "decimals" : 8,
       "logoURI" : "https://images.swapline.com/cbBTC.svg",
       "address" : "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+      "chainId": 8453
+    },
+    {
+      "name": "LayerZero",
+      "symbol" : "ZRO",
+      "decimals" : 18,
+      "logoURI" : "https://images.swapline.com/ZRO.svg",
+      "address" : "0x6985884c4392d348587b19cb9eaaf157f13271cd",
       "chainId": 8453
     }
   ]
