@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2024-09-03T12:44:00.760Z",
+  "timestamp": "2024-09-21T09:31:00.760Z",
   "version": {
-    "major": 25,
+    "major": 26,
     "minor": 1,
     "patch": 1
   },
@@ -439,6 +439,14 @@
       "symbol": "IHG",
       "address": "0xbF5f52F479194b713eDd69eD3f68E29FdFCcb10A",
       "logoURI": "https://dummy.info/logo.svg",
+      "decimals": 18,
+      "chainId": 8822
+    },
+    {
+      "name" : "ApeDAO",
+      "symbol": "APEin",
+      "address": "0xe1fD2e5676396B95fcB0F766392E1a277Bc0BeE4",
+      "logoURI": "https://images.magicsea.finance/APEin.svg",
       "decimals": 18,
       "chainId": 8822
     }
