@@ -1,9 +1,9 @@
 {
   "name": "Swapline Default",
-  "timestamp": "2024-09-21T17:57:10Z",
+  "timestamp": "2024-09-21T19:47:10Z",
   "version": {
     "major": 33,
-    "minor": 2,
+    "minor": 3,
     "patch": 1
   },
   "tags": {},
@@ -87,7 +87,7 @@
       "symbol" : "ZRO",
       "decimals" : 18,
       "logoURI" : "https://images.swapline.com/ZRO.svg",
-      "address" : "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+      "address" : "0x6985884C4392D348587B19cb9eAAf157F13271cd",
       "chainId": 8453
     }
   ]
