@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2024-09-21T09:31:00.760Z",
+  "timestamp": "2024-10-25T13:31:00.760Z",
   "version": {
-    "major": 26,
+    "major": 27,
     "minor": 1,
     "patch": 1
   },
@@ -447,6 +447,14 @@
       "symbol": "APEin",
       "address": "0xe1fD2e5676396B95fcB0F766392E1a277Bc0BeE4",
       "logoURI": "https://images.magicsea.finance/APEin.svg",
+      "decimals": 18,
+      "chainId": 8822
+    },
+    {
+      "name" : "Cyberperp",
+      "symbol": "CYB",
+      "address": "0xbc51e6807f31c3e4e21df7fb8e4f94a500d27e8b",
+      "logoURI": "https://images.magicsea.finance/CYB.svg",
       "decimals": 18,
       "chainId": 8822
     }
