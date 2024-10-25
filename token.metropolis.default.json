@@ -1,0 +1,118 @@
+{
+  "name": "Metropolis Default",
+  "timestamp": "2024-10-15T19:31:10Z",
+  "version": {
+    "major": 31,
+    "minor": 2,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://metropolis.exchange/logo.png",
+  "keywords": ["sonic", "testnet", "metropolis", "default"],
+  "tokens": [
+    {
+      "name" : "Wrapped Sonic",
+      "symbol" : "wS",
+      "decimals": 18,
+      "address": "0xceebE42DC2336f5483e026F68fe599cEc3E6f114",
+      "logoURI": "https://images.metropolis.exchange/wS.svg",
+      "chainId": 64165
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "address" : "0x56eaa884F29620fD6914827AaAE9Ee6a5C383149",
+      "logoURI": "https://images.metropolis.exchange/USDC.svg",
+      "chainId": 64165
+    },
+    {
+      "name" : "Coral",
+      "symbol" : "CORAL",
+      "decimals": 18,
+      "address": "0xAF93888cbD250300470A1618206e036E11470149",
+      "logoURI": "https://images.metropolis.exchange/CORAL.svg",
+      "chainId": 64165
+    },
+    {
+      "name" : "Diamond",
+      "symbol" : "DIAM",
+      "decimals": 18,
+      "address": "0x30BF3761147Ef0c86E2f84c3784FBD89E7954670",
+      "logoURI": "https://images.metropolis.exchange/DIAM.svg",
+      "chainId": 64165
+    },
+    {
+      "name" : "Fluorite",
+      "symbol" : "FLE",
+      "decimals": 18,
+      "address": "0x9Fa14D267d331c9E8BB7979bcDC212136915eCE8",
+      "logoURI": "https://images.metropolis.exchange/FLE.svg",
+      "chainId": 64165
+    },
+    {
+      "name" : "Malachite",
+      "symbol" : "MACH",
+      "decimals": 18,
+      "address": "0x50971F8978C431D560ff658a83a8a03fdf199055",
+      "logoURI": "https://images.metropolis.exchange/MACH.svg",
+      "chainId": 64165
+    },
+    {
+      "name" : "Obsidian",
+      "symbol" : "OBS",
+      "decimals": 18,
+      "address": "0x3e6eE2F3f33766294C7148bc85c7d145E70cBD9A",
+      "logoURI": "https://images.metropolis.exchange/OBS.svg",
+      "chainId": 64165
+    },
+    {
+      "name" : "Onyx",
+      "symbol" : "ONYX",
+      "decimals": 18,
+      "address": "0xE73c4f6A0A3B0EF8337fD080b76C08172b3eB958",
+      "logoURI": "https://images.metropolis.exchange/ONYX.svg",
+      "chainId": 64165
+    },
+    {
+      "name" : "Opal",
+      "symbol" : "OPAL",
+      "decimals": 18,
+      "address": "0xdB9a47bB64961E1eE511CB8aB252e6102a1b956C",
+      "logoURI": "https://images.metropolis.exchange/OPAL.svg",
+      "chainId": 64165
+    },
+    {
+      "name" : "Quartz",
+      "symbol" : "QUARTZ",
+      "decimals": 18,
+      "address": "0x36c420131BC14079C01d12D2EA54E05256C42DEf",
+      "logoURI": "https://images.metropolis.exchange/QUARTZ.svg",
+      "chainId": 64165
+    },
+    {
+      "name" : "Ruby",
+      "symbol" : "RUBY",
+      "decimals": 18,
+      "address": "0x75190d6e62B8984b987B2336fD10552eD0e6a538",
+      "logoURI": "https://images.metropolis.exchange/RUBY.svg",
+      "chainId": 64165
+    },
+    {
+      "name" : "Topaz",
+      "symbol" : "TOPAZ",
+      "decimals": 18,
+      "address": "0x72778BA7c44b3bF218954175A9480D8b8f841C08",
+      "logoURI": "https://images.metropolis.exchange/TOPAZ.svg",
+      "chainId": 64165
+    },
+    {
+      "name" : "FantomEco",
+      "symbol" : "ECO",
+      "decimals": 18,
+      "address": "0xBC506F58931472EF840502310cB8e25887999E0b",
+      "logoURI": "https://images.metropolis.exchange/ECO.svg",
+      "chainId": 64165
+    }
+  ]
+}
