@@ -1,6 +1,6 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2024-10-25T13:31:00.760Z",
+  "timestamp": "2024-11-14T8:31:00.760Z",
   "version": {
     "major": 27,
     "minor": 1,
@@ -457,6 +457,14 @@
       "logoURI": "https://images.magicsea.finance/CYB.svg",
       "decimals": 18,
       "chainId": 8822
-    }
+    },
+    {
+      "name": "Tanglebeast Token",
+      "symbol": "BEAST",
+      "decimals": 18,
+      "address" : "0x1175E30CdFEea62e991006ED41FFAA58B541782d",
+      "logoURI": "https://images.shimmersea.finance/BEAST.svg",
+      "chainId": 8822
+    },
   ]
 }
