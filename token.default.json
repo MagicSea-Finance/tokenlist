@@ -1,6 +1,6 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2024-11-14T08:50:00.760Z",
+  "timestamp": "2024-11-17T16:19:00.760Z",
   "version": {
     "major": 29,
     "minor": 1,
@@ -464,6 +464,14 @@
       "decimals": 18,
       "address" : "0x1175E30CdFEea62e991006ED41FFAA58B541782d",
       "logoURI": "https://images.shimmersea.finance/BEAST.svg",
+      "chainId": 8822
+    },
+    {
+      "name": "Leapfrog",
+      "symbol": "LEAP",
+      "decimals": 18,
+      "address" : "0x46E5ce064B357d32b48d56993900830Dd36Ab2CC",
+      "logoURI": "https://images.shimmersea.finance/LEAP.svg",
       "chainId": 8822
     }
   ]
