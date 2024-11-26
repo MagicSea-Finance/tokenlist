@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2024-11-17T16:23:00.760Z",
+  "timestamp": "2024-11-26T20:28:00.760Z",
   "version": {
-    "major": 30,
+    "major": 31,
     "minor": 1,
     "patch": 1
   },
@@ -463,7 +463,7 @@
       "symbol": "BEAST",
       "decimals": 18,
       "address" : "0x1175E30CdFEea62e991006ED41FFAA58B541782d",
-      "logoURI": "https://images.shimmersea.finance/BEAST.svg",
+      "logoURI": "https://images.magicsea.finance/BEAST.svg",
       "chainId": 8822
     },
     {
@@ -471,7 +471,7 @@
       "symbol": "LEAP",
       "decimals": 18,
       "address" : "0x46E5ce064B357d32b48d56993900830Dd36Ab2CC",
-      "logoURI": "https://images.shimmersea.finance/LEAP.svg",
+      "logoURI": "https://images.magicsea.finance/LEAP.svg",
       "chainId": 8822
     }
   ]
