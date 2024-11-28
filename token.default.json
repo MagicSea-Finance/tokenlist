@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2024-11-26T20:28:00.760Z",
+  "timestamp": "2024-11-28T12:37:00.760Z",
   "version": {
-    "major": 31,
+    "major": 32,
     "minor": 1,
     "patch": 1
   },
@@ -472,6 +472,14 @@
       "decimals": 18,
       "address" : "0x46E5ce064B357d32b48d56993900830Dd36Ab2CC",
       "logoURI": "https://images.magicsea.finance/LEAP.svg",
+      "chainId": 8822
+    },
+    {
+      "name": "Golden Uruk",
+      "symbol": "URUK",
+      "decimals": 18,
+      "address" : "0x4ab1edfE2706FCAc991a41183036E62a8f1DAbD3",
+      "logoURI": "https://images.magicsea.finance/URUK.svg",
       "chainId": 8822
     }
   ]
