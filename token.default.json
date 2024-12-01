@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2024-12-01T09:34:00.760Z",
+  "timestamp": "2024-12-01T11:37:00.760Z",
   "version": {
-    "major": 33,
+    "major": 34,
     "minor": 1,
     "patch": 1
   },
@@ -486,7 +486,7 @@
       "name": "Ante",
       "symbol": "ANTE",
       "decimals": 18,
-      "address" : "0xb10bed4c34b7d0428c080fce482bf50208f78167",
+      "address" : "0xc7f7902813907E84170afDeEd45CA9EC287E691f",
       "logoURI": "https://images.magicsea.finance/ANTE.svg",
       "chainId": 8822
     }
