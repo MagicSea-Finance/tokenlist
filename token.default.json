@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2024-11-28T12:37:00.760Z",
+  "timestamp": "2024-12-01T09:34:00.760Z",
   "version": {
-    "major": 32,
+    "major": 33,
     "minor": 1,
     "patch": 1
   },
@@ -480,6 +480,14 @@
       "decimals": 18,
       "address" : "0x4ab1edfE2706FCAc991a41183036E62a8f1DAbD3",
       "logoURI": "https://images.magicsea.finance/URUK.svg",
+      "chainId": 8822
+    },
+    {
+      "name": "Ante",
+      "symbol": "ANTE",
+      "decimals": 18,
+      "address" : "0xb10bed4c34b7d0428c080fce482bf50208f78167",
+      "logoURI": "https://images.magicsea.finance/ANTE.svg",
       "chainId": 8822
     }
   ]
