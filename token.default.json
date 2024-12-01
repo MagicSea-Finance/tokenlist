@@ -483,8 +483,8 @@
       "chainId": 8822
     },
     {
-      "name": "Ante",
-      "symbol": "ANTE",
+      "name": "ANTE",
+      "symbol": "$ANTE",
       "decimals": 18,
       "address" : "0xc7f7902813907E84170afDeEd45CA9EC287E691f",
       "logoURI": "https://images.magicsea.finance/ANTE.svg",
