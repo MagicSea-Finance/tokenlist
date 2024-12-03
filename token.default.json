@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2024-12-01T11:37:00.760Z",
+  "timestamp": "2024-12-03T12:46:00.760Z",
   "version": {
-    "major": 34,
+    "major": 35,
     "minor": 1,
     "patch": 1
   },
@@ -430,14 +430,6 @@
       "name" : "Bivreost",
       "symbol": "BI",
       "address": "0x9CcB68dc058158f4f2B09A8145bCd2c7C52bCBD7",
-      "logoURI": "https://dummy.info/logo.svg",
-      "decimals": 18,
-      "chainId": 8822
-    },
-    {
-      "name" : "Gold",
-      "symbol": "IHG",
-      "address": "0xbF5f52F479194b713eDd69eD3f68E29FdFCcb10A",
       "logoURI": "https://dummy.info/logo.svg",
       "decimals": 18,
       "chainId": 8822
