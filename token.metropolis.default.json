@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-10-15T19:31:10Z",
+  "timestamp": "2024-12-12T19:31:10Z",
   "version": {
-    "major": 31,
+    "major": 33,
     "minor": 2,
     "patch": 1
   },
@@ -113,6 +113,22 @@
       "address": "0xBC506F58931472EF840502310cB8e25887999E0b",
       "logoURI": "https://images.metropolis.exchange/ECO.svg",
       "chainId": 64165
+    },
+    {
+      "name" : "Wrapped Sonic",
+      "symbol" : "WS",
+      "decimals": 18,
+      "address": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
+      "logoURI": "https://images.shimmersea.finance/WS.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Arcade",
+      "symbol" : "ARCADE",
+      "decimals": 18,
+      "address": "0x577FDE1619aE2e1E0A0893E1208DDF2D1864341D",
+      "logoURI": "https://images.shimmersea.finance/ARCADE.svg",
+      "chainId": 146
     }
   ]
 }
