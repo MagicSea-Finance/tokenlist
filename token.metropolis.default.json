@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-12T19:31:10Z",
+  "timestamp": "2024-12-16T19:31:10Z",
   "version": {
-    "major": 33,
+    "major": 34,
     "minor": 2,
     "patch": 1
   },
@@ -128,6 +128,22 @@
       "decimals": 18,
       "address": "0x577FDE1619aE2e1E0A0893E1208DDF2D1864341D",
       "logoURI": "https://images.shimmersea.finance/ARCADE.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Bridged USDC (Sonic Labs)",
+      "symbol" : "USDC.e",
+      "decimals": 6,
+      "address": "0x391071Fe567d609E4af9d32de726d4C33679C7e2",
+      "logoURI": "https://images.shimmersea.finance/USDC.e.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Wrapped Ether on Sonic",
+      "symbol" : "WETH",
+      "decimals": 18,
+      "address": "0x309C92261178fA0CF748A855e90Ae73FDb79EBc7",
+      "logoURI": "https://images.shimmersea.finance/wETH.svg",
       "chainId": 146
     }
   ]
