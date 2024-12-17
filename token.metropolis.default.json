@@ -1,9 +1,9 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-16T19:31:10Z",
+  "timestamp": "2024-12-17T19:21:10Z",
   "version": {
-    "major": 34,
-    "minor": 2,
+    "major": 35,
+    "minor": 1,
     "patch": 1
   },
   "tags": {},
@@ -144,6 +144,14 @@
       "decimals": 18,
       "address": "0x309C92261178fA0CF748A855e90Ae73FDb79EBc7",
       "logoURI": "https://images.shimmersea.finance/wETH.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Goggles",
+      "symbol" : "GOGLZ",
+      "decimals": 18,
+      "address": "0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564",
+      "logoURI": "https://images.metropolis.exchange/GOGLZ.svg",
       "chainId": 146
     }
   ]
