@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-18T14:47:10Z",
+  "timestamp": "2024-12-18T15:22:10Z",
   "version": {
-    "major": 43,
+    "major": 44,
     "minor": 1,
     "patch": 1
   },
@@ -184,6 +184,14 @@
       "decimals": 18,
       "address": "0x690d956D97d3EEe18AB68ED1A28a89d531734F3d",
       "logoURI": "https://images.metropolis.exchange/MOIST.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Toona",
+      "symbol" : "TOONA",
+      "decimals": 18,
+      "address": "0xf4F9C50455C698834Bb645089DbAa89093b93838",
+      "logoURI": "https://images.metropolis.exchange/TOONA.svg",
       "chainId": 146
     }
   ]
