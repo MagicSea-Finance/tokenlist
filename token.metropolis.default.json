@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-18T16:45:10Z",
+  "timestamp": "2024-12-18T17:06:10Z",
   "version": {
-    "major": 47,
+    "major": 48,
     "minor": 1,
     "patch": 1
   },
@@ -215,7 +215,7 @@
       "symbol" : "F",
       "decimals": 18,
       "address": "0xbe422dd2f451348d5d0979d8ab25b4c6eaad1eb2",
-      "logoURI": "https://images.metropolis.exchange/FAMILIO.svg",
+      "logoURI": "https://images.metropolis.exchange/F.svg",
       "chainId": 146
     }
   ]
