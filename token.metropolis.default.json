@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-18T15:57:10Z",
+  "timestamp": "2024-12-18T16:31:10Z",
   "version": {
-    "major": 45,
+    "major": 46,
     "minor": 1,
     "patch": 1
   },
@@ -200,6 +200,14 @@
       "decimals": 18,
       "address": "0x6fB9897896Fe5D05025Eb43306675727887D0B7c",
       "logoURI": "https://images.metropolis.exchange/HEDGY.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Pass The Joint",
+      "symbol" : "JOINT",
+      "decimals": 18,
+      "address": "0xC046dCb16592FBb3F9fA0C629b8D93090dD4cB76",
+      "logoURI": "https://images.metropolis.exchange/JOINT.svg",
       "chainId": 146
     }
   ]
