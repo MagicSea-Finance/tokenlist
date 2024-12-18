@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-18T17:25:10Z",
+  "timestamp": "2024-12-18T17:57:10Z",
   "version": {
-    "major": 49,
+    "major": 50,
     "minor": 1,
     "patch": 1
   },
@@ -216,6 +216,14 @@
       "decimals": 18,
       "address": "0xBe422DD2F451348d5D0979D8ab25B4c6eAAd1eB2",
       "logoURI": "https://images.metropolis.exchange/F.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Sonic Kings",
+      "symbol" : "K",
+      "decimals": 18,
+      "address": "0x7732Cda61C9f7852c8A016B815f07ccD067A918f",
+      "logoURI": "https://images.metropolis.exchange/K.svg",
       "chainId": 146
     }
   ]
