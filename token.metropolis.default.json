@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-18T22:39:10Z",
+  "timestamp": "2024-12-18T23:26:10Z",
   "version": {
-    "major": 53,
+    "major": 54,
     "minor": 1,
     "patch": 1
   },
@@ -244,7 +244,7 @@
     },
     {
       "name" : "SonicEco",
-      "symbol" : "EVO",
+      "symbol" : "ECO",
       "decimals": 18,
       "address": "0x7A08Bf5304094CA4C7b4132Ef62b5EDc4a3478B7",
       "logoURI": "https://images.metropolis.exchange/ECO.svg",
