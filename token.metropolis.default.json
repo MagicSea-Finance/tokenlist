@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-18T15:22:10Z",
+  "timestamp": "2024-12-18T15:57:10Z",
   "version": {
-    "major": 44,
+    "major": 45,
     "minor": 1,
     "patch": 1
   },
@@ -192,6 +192,14 @@
       "decimals": 18,
       "address": "0xf4F9C50455C698834Bb645089DbAa89093b93838",
       "logoURI": "https://images.metropolis.exchange/TOONA.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Hedgy The Hedgehog",
+      "symbol" : "HEDGY",
+      "decimals": 18,
+      "address": "0x6fB9897896Fe5D05025Eb43306675727887D0B7c",
+      "logoURI": "https://images.metropolis.exchange/HEDGY.svg",
       "chainId": 146
     }
   ]
