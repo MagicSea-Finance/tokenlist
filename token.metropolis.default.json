@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-18T16:31:10Z",
+  "timestamp": "2024-12-18T16:45:10Z",
   "version": {
-    "major": 46,
+    "major": 47,
     "minor": 1,
     "patch": 1
   },
@@ -208,6 +208,14 @@
       "decimals": 18,
       "address": "0xC046dCb16592FBb3F9fA0C629b8D93090dD4cB76",
       "logoURI": "https://images.metropolis.exchange/JOINT.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Familio",
+      "symbol" : "F",
+      "decimals": 18,
+      "address": "0xbe422dd2f451348d5d0979d8ab25b4c6eaad1eb2",
+      "logoURI": "https://images.metropolis.exchange/FAMILIO.svg",
       "chainId": 146
     }
   ]
