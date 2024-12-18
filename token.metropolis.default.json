@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-18T17:57:10Z",
+  "timestamp": "2024-12-18T18:43:10Z",
   "version": {
-    "major": 50,
+    "major": 51,
     "minor": 1,
     "patch": 1
   },
@@ -224,6 +224,14 @@
       "decimals": 18,
       "address": "0x7732Cda61C9f7852c8A016B815f07ccD067A918f",
       "logoURI": "https://images.metropolis.exchange/K.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Shrimp Token",
+      "symbol" : "SHRIMP",
+      "decimals": 18,
+      "address": "0x873e509A21b106937472834201d653Ba62951c7E",
+      "logoURI": "https://images.metropolis.exchange/SHRIMP.svg",
       "chainId": 146
     }
   ]
