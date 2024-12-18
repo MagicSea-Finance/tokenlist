@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-18T04:20:10Z",
+  "timestamp": "2024-12-18T08:14:10Z",
   "version": {
-    "major": 37,
+    "major": 38,
     "minor": 1,
     "patch": 1
   },
@@ -150,7 +150,7 @@
       "name" : "Bridged EURC (Sonic Labs)",
       "symbol" : "EURC.e",
       "decimals": 6,
-      "address": "0xe715cbA7B5cCb33790ceBFF1436809d36cb17E57",
+      "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
       "logoURI": "https://images.metropolis.exchange/EURC.svg",
       "chainId": 146
     }
