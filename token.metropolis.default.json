@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-18T13:11:10Z",
+  "timestamp": "2024-12-18T13:49:10Z",
   "version": {
-    "major": 41,
+    "major": 42,
     "minor": 1,
     "patch": 1
   },
@@ -168,6 +168,14 @@
       "decimals": 18,
       "address": "0x4EEC869d847A6d13b0F6D1733C5DEC0d1E741B4f",
       "logoURI": "https://images.metropolis.exchange/INDI.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Tin Hat Cat",
+      "symbol" : "THC",
+      "decimals": 18,
+      "address": "0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5",
+      "logoURI": "https://images.metropolis.exchange/THC.svg",
       "chainId": 146
     }
   ]
