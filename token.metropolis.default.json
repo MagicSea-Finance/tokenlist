@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-18T22:15:10Z",
+  "timestamp": "2024-12-18T22:39:10Z",
   "version": {
-    "major": 52,
+    "major": 53,
     "minor": 1,
     "patch": 1
   },
@@ -240,6 +240,14 @@
       "decimals": 18,
       "address": "0x50Bc6e1DfF8039A4b967c1BF507ba5eA13fa18B6",
       "logoURI": "https://images.metropolis.exchange/sDOG.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "SonicEco",
+      "symbol" : "EVO",
+      "decimals": 18,
+      "address": "0x7A08Bf5304094CA4C7b4132Ef62b5EDc4a3478B7",
+      "logoURI": "https://images.metropolis.exchange/ECO.svg",
       "chainId": 146
     }
   ]
