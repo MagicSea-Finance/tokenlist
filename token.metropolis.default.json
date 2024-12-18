@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-17T19:43:10Z",
+  "timestamp": "2024-12-18T04:20:10Z",
   "version": {
-    "major": 36,
+    "major": 37,
     "minor": 1,
     "patch": 1
   },
@@ -144,6 +144,14 @@
       "decimals": 18,
       "address": "0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564",
       "logoURI": "https://images.metropolis.exchange/GOGLZ.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Bridged EURC (Sonic Labs)",
+      "symbol" : "EURC.e",
+      "decimals": 6,
+      "address": "0xe715cbA7B5cCb33790ceBFF1436809d36cb17E57",
+      "logoURI": "https://images.metropolis.exchange/EURC.svg",
       "chainId": 146
     }
   ]
