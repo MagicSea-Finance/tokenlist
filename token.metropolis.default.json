@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-18T13:49:10Z",
+  "timestamp": "2024-12-18T14:47:10Z",
   "version": {
-    "major": 42,
+    "major": 43,
     "minor": 1,
     "patch": 1
   },
@@ -176,6 +176,14 @@
       "decimals": 18,
       "address": "0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5",
       "logoURI": "https://images.metropolis.exchange/THC.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "DiddyScrotumFree",
+      "symbol" : "MOIST",
+      "decimals": 18,
+      "address": "0x690d956D97d3EEe18AB68ED1A28a89d531734F3d",
+      "logoURI": "https://images.metropolis.exchange/MOIST.svg",
       "chainId": 146
     }
   ]
