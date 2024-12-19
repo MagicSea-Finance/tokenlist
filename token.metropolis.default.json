@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-19T13:22:10Z",
+  "timestamp": "2024-12-19T14:31:10Z",
   "version": {
-    "major": 55,
+    "major": 56,
     "minor": 1,
     "patch": 1
   },
@@ -256,6 +256,14 @@
       "decimals": 18,
       "address": "0xc1ac6d480966ced520eff0e9b081b8ec30548790",
       "logoURI": "https://images.metropolis.exchange/SANIC.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Thank You Sonic God",
+      "symbol" : "TYSG",
+      "decimals": 18,
+      "address": "0x56192E94434c4fd3278b4Fa53039293fB00DE3DB",
+      "logoURI": "https://images.metropolis.exchange/TYSG.svg",
       "chainId": 146
     }
   ]
