@@ -270,7 +270,7 @@
       "name" : "Sonic USD (Rings Protocol)",
       "symbol" : "scUSD",
       "decimals": 6,
-      "address": "0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE",
+      "address": "",
       "logoURI": "https://images.metropolis.exchange/scUSD.svg",
       "chainId": 146
     },
@@ -278,7 +278,7 @@
       "name" : "Sonic ETH (Rings Protocol)",
       "symbol" : "scETH",
       "decimals": 18,
-      "address": "0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812",
+      "address": "",
       "logoURI": "https://images.metropolis.exchange/scETH.svg",
       "chainId": 146
     }
