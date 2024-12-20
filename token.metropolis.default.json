@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-20T11:26:10Z",
+  "timestamp": "2024-12-20T11:29:10Z",
   "version": {
-    "major": 59,
+    "major": 61,
     "minor": 1,
     "patch": 1
   },
@@ -270,7 +270,7 @@
       "name" : "Sonic USD (Rings Protocol)",
       "symbol" : "scUSD",
       "decimals": 6,
-      "address": "",
+      "address": "0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE",
       "logoURI": "https://images.metropolis.exchange/scUSD.svg",
       "chainId": 146
     },
@@ -278,7 +278,7 @@
       "name" : "Sonic ETH (Rings Protocol)",
       "symbol" : "scETH",
       "decimals": 18,
-      "address": "",
+      "address": "0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812",
       "logoURI": "https://images.metropolis.exchange/scETH.svg",
       "chainId": 146
     }
