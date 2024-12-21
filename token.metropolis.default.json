@@ -1,6 +1,6 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-21T07:7:10Z",
+  "timestamp": "2024-12-21T09:29:10Z",
   "version": {
     "major": 64,
     "minor": 1,
@@ -290,6 +290,13 @@
       "logoURI": "https://images.metropolis.exchange/atETH.svg",
       "chainId": 146
     }
- 
+   /* {
+      "name" : "Surv Token",
+      "symbol" : "SURV",
+      "decimals": 18,
+      "address": "0xb161Fe49dEB1BDa8e3A4a484D5CcD927a35A7DDe",
+      "logoURI": "https://images.metropolis.exchange/SURV.svg",
+      "chainId": 146
+    }*/
   ]
 }
