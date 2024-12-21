@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-20T11:43:10Z",
+  "timestamp": "2024-12-21T06:08:10Z",
   "version": {
-    "major": 62,
+    "major": 63,
     "minor": 1,
     "patch": 1
   },
@@ -280,6 +280,14 @@
       "decimals": 18,
       "address": "0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812",
       "logoURI": "https://images.metropolis.exchange/scETH.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Atoll ETH",
+      "symbol" : "atETH",
+      "decimals": 18,
+      "address": "0x284D81e48fBc782Aa9186a03a226690aEA5cBe0E",
+      "logoURI": "https://images.metropolis.exchange/atETH.svg",
       "chainId": 146
     }
   ]
