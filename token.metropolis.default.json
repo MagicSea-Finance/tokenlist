@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-22T07:26:10Z",
+  "timestamp": "2024-12-22T13:51:10Z",
   "version": {
-    "major": 66,
+    "major": 67,
     "minor": 1,
     "patch": 1
   },
@@ -304,6 +304,14 @@
       "decimals": 18,
       "address": "0x8A3b1cd8d0DEcF649262e56EcE6B339E59f350db",
       "logoURI": "https://images.metropolis.exchange/MGEM.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Sonic X",
+      "symbol" : "SonicX",
+      "decimals": 18,
+      "address": "0x495D3A3A954185b876A63B023f13b7f4B0ce35d2",
+      "logoURI": "https://images.metropolis.exchange/SONICX.svg",
       "chainId": 146
     }
   ]
