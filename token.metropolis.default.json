@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-21T09:29:10Z",
+  "timestamp": "2024-12-22T06:36:10Z",
   "version": {
-    "major": 64,
+    "major": 65,
     "minor": 1,
     "patch": 1
   },
@@ -296,6 +296,14 @@
       "decimals": 18,
       "address": "0xb161Fe49dEB1BDa8e3A4a484D5CcD927a35A7DDe",
       "logoURI": "https://images.metropolis.exchange/SURV.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Metropolis Gem",
+      "symbol" : "MGEM",
+      "decimals": 18,
+      "address": "0x8A3b1cd8d0DEcF649262e56EcE6B339E59f350db",
+      "logoURI": "https://images.metropolis.exchange/MGEM.svg",
       "chainId": 146
     }
   ]
