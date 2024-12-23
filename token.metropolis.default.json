@@ -1,9 +1,9 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-23T14:08:10Z",
+  "timestamp": "2024-12-23T15:05:10Z",
   "version": {
     "major": 70,
-    "minor": 1,
+    "minor": 2,
     "patch": 1
   },
   "tags": {},
@@ -188,7 +188,7 @@
     },
     {
       "name" : "Toona",
-      "symbol" : "TOONA",
+      "symbol" : "toona",
       "decimals": 18,
       "address": "0xf4F9C50455C698834Bb645089DbAa89093b93838",
       "logoURI": "https://images.metropolis.exchange/TOONA.svg",
