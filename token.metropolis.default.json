@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-23T06:33:10Z",
+  "timestamp": "2024-12-23T13:37:10Z",
   "version": {
-    "major": 68,
+    "major": 69,
     "minor": 1,
     "patch": 1
   },
@@ -320,6 +320,14 @@
       "decimals": 18,
       "address": "0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44",
       "logoURI": "https://images.metropolis.exchange/BRUSH.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "HeyAnon",
+      "symbol" : "ANON",
+      "decimals": 18,
+      "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+      "logoURI": "https://images.metropolis.exchange/ANON.svg",
       "chainId": 146
     }
   ]
