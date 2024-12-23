@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-23T13:37:10Z",
+  "timestamp": "2024-12-23T14:08:10Z",
   "version": {
-    "major": 69,
+    "major": 70,
     "minor": 1,
     "patch": 1
   },
@@ -182,7 +182,7 @@
       "name" : "DiddyScrotumFree",
       "symbol" : "MOIST",
       "decimals": 18,
-      "address": "",
+      "address": "0x690d956D97d3EEe18AB68ED1A28a89d531734F3d",
       "logoURI": "https://images.metropolis.exchange/MOIST.svg",
       "chainId": 146
     },
@@ -190,7 +190,7 @@
       "name" : "Toona",
       "symbol" : "TOONA",
       "decimals": 18,
-      "address": "",
+      "address": "0xf4F9C50455C698834Bb645089DbAa89093b93838",
       "logoURI": "https://images.metropolis.exchange/TOONA.svg",
       "chainId": 146
     },
@@ -310,7 +310,7 @@
       "name" : "Sonic X",
       "symbol" : "SonicX",
       "decimals": 18,
-      "address": "",
+      "address": "0x495D3A3A954185b876A63B023f13b7f4B0ce35d2",
       "logoURI": "https://images.metropolis.exchange/SONICX.svg",
       "chainId": 146
     },
