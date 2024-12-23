@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-22T13:51:10Z",
+  "timestamp": "2024-12-23T06:33:10Z",
   "version": {
-    "major": 67,
+    "major": 68,
     "minor": 1,
     "patch": 1
   },
@@ -312,6 +312,14 @@
       "decimals": 18,
       "address": "0x495D3A3A954185b876A63B023f13b7f4B0ce35d2",
       "logoURI": "https://images.metropolis.exchange/SONICX.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "PaintSwap",
+      "symbol" : "BRUSH",
+      "decimals": 18,
+      "address": "0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44",
+      "logoURI": "https://images.metropolis.exchange/BRUSH.svg",
       "chainId": 146
     }
   ]
