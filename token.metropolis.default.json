@@ -1,9 +1,9 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-25T17:39:45Z",
+  "timestamp": "2024-12-25T19:05:45Z",
   "version": {
-    "major": 71,
-    "minor": 2,
+    "major": 72,
+    "minor": 1,
     "patch": 1
   },
   "tags": {},
@@ -328,6 +328,14 @@
       "decimals": 18,
       "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
       "logoURI": "https://images.metropolis.exchange/ANON.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Beets",
+      "symbol" : "BEETS",
+      "decimals": 18,
+      "address": "0x2D0E0814E62D80056181F5cd932274405966e4f0",
+      "logoURI": "https://images.metropolis.exchange/BEETS.svg",
       "chainId": 146
     }
   ]
