@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2024-12-24T14:14:00.760Z",
+  "timestamp": "2024-12-27T20:27:00.760Z",
   "version": {
-    "major": 36,
+    "major": 37,
     "minor": 1,
     "patch": 1
   },
@@ -488,6 +488,14 @@
       "decimals": 18,
       "address" : "0x6c3dE54B2131832B93b4284815219c9a65Aa4B47",
       "logoURI": "https://images.magicsea.finance/PUNKS.svg",
+      "chainId": 8822
+    },
+    {
+      "name": "Wukong",
+      "symbol": "WUKONG",
+      "decimals": 18,
+      "address" : "0x0cf1804C7B0c65A1efB7cD7cA36481B8Eec1a3EF",
+      "logoURI": "https://images.magicsea.finance/WUKONG.svg",
       "chainId": 8822
     }
   ]
