@@ -1,9 +1,9 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-28T17:30:45Z",
+  "timestamp": "2024-12-28T17:38:45Z",
   "version": {
     "major": 73,
-    "minor": 1,
+    "minor": 2,
     "patch": 1
   },
   "tags": {},
@@ -339,7 +339,7 @@
       "chainId": 146
     },
     {
-      "name" : "Ludwing",
+      "name" : "Ludwig",
       "symbol" : "LUDWIG",
       "decimals": 18,
       "address": "0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5",
