@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-25T19:05:45Z",
+  "timestamp": "2024-12-28T17:30:45Z",
   "version": {
-    "major": 72,
+    "major": 73,
     "minor": 1,
     "patch": 1
   },
@@ -336,6 +336,14 @@
       "decimals": 18,
       "address": "0x2D0E0814E62D80056181F5cd932274405966e4f0",
       "logoURI": "https://images.metropolis.exchange/BEETS.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Ludwing",
+      "symbol" : "LUDWIG",
+      "decimals": 18,
+      "address": "0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5",
+      "logoURI": "https://images.metropolis.exchange/LUDWIG.svg",
       "chainId": 146
     }
   ]
