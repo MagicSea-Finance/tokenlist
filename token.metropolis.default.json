@@ -1,9 +1,9 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-28T17:38:45Z",
+  "timestamp": "2024-12-29T18:32:45Z",
   "version": {
-    "major": 73,
-    "minor": 2,
+    "major": 74,
+    "minor": 1,
     "patch": 1
   },
   "tags": {},
@@ -344,6 +344,14 @@
       "decimals": 18,
       "address": "0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5",
       "logoURI": "https://images.metropolis.exchange/LUDWIG.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Lazy Bear River",
+      "symbol" : "LBR",
+      "decimals": 18,
+      "address": "0xE96159Ca91a183e727a95568134Ca71566386a40",
+      "logoURI": "https://images.metropolis.exchange/LBR.svg",
       "chainId": 146
     }
   ]
