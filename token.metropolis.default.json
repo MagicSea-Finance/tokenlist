@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-30T13:59:45Z",
+  "timestamp": "2024-12-30T14:04:45Z",
   "version": {
-    "major": 76,
+    "major": 77,
     "minor": 1,
     "patch": 1
   },
@@ -379,10 +379,10 @@
       "chainId": 146
     },
     {
-      "name" : "Sacra Gem",
-      "symbol" : "SacraGEM",
+      "name" : "Sacra Token",
+      "symbol" : "Sacra",
       "decimals": 18,
-      "address": "0xfC0dd337b92Baa949bC5D25FD9A99Cb3b6873204",
+      "address": "0x7AD5935EA295c4E743e4f2f5B4CDA951f41223c2",
       "logoURI": "https://images.metropolis.exchange/SacraGEM.svg",
       "chainId": 146
     }
