@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-29T18:32:45Z",
+  "timestamp": "2024-12-30T09:07:45Z",
   "version": {
-    "major": 74,
+    "major": 75,
     "minor": 1,
     "patch": 1
   },
@@ -352,6 +352,14 @@
       "decimals": 18,
       "address": "0xE96159Ca91a183e727a95568134Ca71566386a40",
       "logoURI": "https://images.metropolis.exchange/LBR.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Moon Bay",
+      "symbol" : "MOON",
+      "decimals": 18,
+      "address": "0x486B6Fa0419b33a0c7A6e4698c231D7E2f2D5299",
+      "logoURI": "https://images.metropolis.exchange/MOON.svg",
       "chainId": 146
     }
   ]
