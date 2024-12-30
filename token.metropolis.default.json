@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-30T15:41:45Z",
+  "timestamp": "2024-12-30T15:42:45Z",
   "version": {
-    "major": 78,
+    "major": 79,
     "minor": 1,
     "patch": 1
   },
@@ -392,6 +392,14 @@
       "decimals": 18,
       "address": "0xfC0dd337b92Baa949bC5D25FD9A99Cb3b6873204",
       "logoURI": "https://images.metropolis.exchange/SacraGEM.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Sonic Kitty",
+      "symbol" : "SKITTY",
+      "decimals": 18,
+      "address": "0x387C3a994c715f19050E0E133C97E923B8BA172c",
+      "logoURI": "https://images.metropolis.exchange/SKITTY.svg",
       "chainId": 146
     }
   ]
