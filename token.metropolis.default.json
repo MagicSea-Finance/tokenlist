@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-12-30T15:42:45Z",
+  "timestamp": "2024-01-03T12:12:45Z",
   "version": {
-    "major": 79,
+    "major": 80,
     "minor": 1,
     "patch": 1
   },
@@ -400,6 +400,14 @@
       "decimals": 18,
       "address": "0x387C3a994c715f19050E0E133C97E923B8BA172c",
       "logoURI": "https://images.metropolis.exchange/SKITTY.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Beanie Zombie",
+      "symbol" : "BZ",
+      "decimals": 18,
+      "address": "0xc48c34fcB7328c443e735F3E7Ac393c703b192aD",
+      "logoURI": "https://images.metropolis.exchange/BZ.svg",
       "chainId": 146
     }
   ]
