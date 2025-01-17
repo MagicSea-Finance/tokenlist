@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-01-11T20:40:45Z",
+  "timestamp": "2024-01-17T18:43:45Z",
   "version": {
-    "major": 82,
+    "major": 83,
     "minor": 1,
     "patch": 1
   },
@@ -424,6 +424,14 @@
       "decimals": 18,
       "address": "0x3aAd6aabeC76f00Ee82392503D2cbc2B599d08C6",
       "logoURI": "https://images.metropolis.exchange/LAIRA.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Gravity Finance",
+      "symbol" : "GFI",
+      "decimals": 18,
+      "address": "0xbF5899166AC476370B3117c9256B7fc45624f4eA",
+      "logoURI": "https://images.metropolis.exchange/GFI.svg",
       "chainId": 146
     }
   ]
