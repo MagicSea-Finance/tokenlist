@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-01-26T18:17:45Z",
+  "timestamp": "2024-01-26T21:40:45Z",
   "version": {
-    "major": 84,
+    "major": 85,
     "minor": 1,
     "patch": 1
   },
@@ -440,6 +440,14 @@
       "decimals": 18,
       "address": "0x71E99522EaD5E21CF57F1f542Dc4ad2E841F7321",
       "logoURI": "https://images.metropolis.exchange/METRO.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Equalizer",
+      "symbol" : "EQUAL",
+      "decimals": 18,
+      "address": "0xddF26B42C1d903De8962d3F79a74a501420d5F19",
+      "logoURI": "https://images.metropolis.exchange/EQUAL.svg",
       "chainId": 146
     }
   ]
