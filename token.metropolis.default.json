@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-01-26T21:40:45Z",
+  "timestamp": "2024-01-27T10:30:45Z",
   "version": {
-    "major": 85,
+    "major": 86,
     "minor": 1,
     "patch": 1
   },
@@ -416,14 +416,6 @@
       "decimals": 18,
       "address": "0x9c1380658fE2fDa22A574B269b71E7e066562821",
       "logoURI": "https://images.metropolis.exchange/BLUR.svg",
-      "chainId": 146
-    },
-    {
-      "name" : "0xLaira",
-      "symbol" : "LAIRA",
-      "decimals": 18,
-      "address": "0x3aAd6aabeC76f00Ee82392503D2cbc2B599d08C6",
-      "logoURI": "https://images.metropolis.exchange/LAIRA.svg",
       "chainId": 146
     },
     {
