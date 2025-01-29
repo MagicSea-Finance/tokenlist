@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2024-12-27T20:27:00.760Z",
+  "timestamp": "2024-01-29T07:12:00.760Z",
   "version": {
-    "major": 37,
+    "major": 38,
     "minor": 1,
     "patch": 1
   },
@@ -496,6 +496,14 @@
       "decimals": 18,
       "address" : "0x0cf1804C7B0c65A1efB7cD7cA36481B8Eec1a3EF",
       "logoURI": "https://images.magicsea.finance/WUKONG.svg",
+      "chainId": 8822
+    },
+    {
+      "name": "PUNKS",
+      "symbol": "$PUNK",
+      "decimals": 18,
+      "address" : "0x6c3dE54B2131832B93b4284815219c9a65Aa4B47",
+      "logoURI": "https://images.magicsea.finance/$PUNK.svg",
       "chainId": 8822
     }
   ]
