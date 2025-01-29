@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-01-17T18:43:45Z",
+  "timestamp": "2024-01-27T10:30:45Z",
   "version": {
-    "major": 83,
+    "major": 86,
     "minor": 1,
     "patch": 1
   },
@@ -419,19 +419,27 @@
       "chainId": 146
     },
     {
-      "name" : "0xLaira",
-      "symbol" : "LAIRA",
-      "decimals": 18,
-      "address": "0x3aAd6aabeC76f00Ee82392503D2cbc2B599d08C6",
-      "logoURI": "https://images.metropolis.exchange/LAIRA.svg",
-      "chainId": 146
-    },
-    {
       "name" : "Gravity Finance",
       "symbol" : "GFI",
       "decimals": 18,
       "address": "0xbF5899166AC476370B3117c9256B7fc45624f4eA",
       "logoURI": "https://images.metropolis.exchange/GFI.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Metropolis",
+      "symbol" : "METRO",
+      "decimals": 18,
+      "address": "0x71E99522EaD5E21CF57F1f542Dc4ad2E841F7321",
+      "logoURI": "https://images.metropolis.exchange/METRO.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Equalizer",
+      "symbol" : "EQUAL",
+      "decimals": 18,
+      "address": "0xddF26B42C1d903De8962d3F79a74a501420d5F19",
+      "logoURI": "https://images.metropolis.exchange/EQUAL.svg",
       "chainId": 146
     }
   ]
