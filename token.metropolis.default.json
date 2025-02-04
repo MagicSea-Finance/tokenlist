@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-01-27T10:30:45Z",
+  "timestamp": "2024-02-04T18:47:45Z",
   "version": {
-    "major": 86,
+    "major": 87,
     "minor": 1,
     "patch": 1
   },
@@ -440,6 +440,14 @@
       "decimals": 18,
       "address": "0xddF26B42C1d903De8962d3F79a74a501420d5F19",
       "logoURI": "https://images.metropolis.exchange/EQUAL.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "To The Tits!",
+      "symbol" : "TTT",
+      "decimals": 18,
+      "address": "0xB5FFB8b1a6832de1ba6b0c484da8541d87987439",
+      "logoURI": "https://images.metropolis.exchange/TTT.svg",
       "chainId": 146
     }
   ]
