@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-02-04T18:47:45Z",
+  "timestamp": "2024-02-07T14:33:45Z",
   "version": {
-    "major": 87,
+    "major": 88,
     "minor": 1,
     "patch": 1
   },
@@ -447,6 +447,14 @@
       "symbol" : "TTT",
       "decimals": 18,
       "address": "0xB5FFB8b1a6832de1ba6b0c484da8541d87987439",
+      "logoURI": "https://images.metropolis.exchange/TTT.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Origin Sonic",
+      "symbol" : "OS",
+      "decimals": 18,
+      "address": "0xb1e25689D55734FD3ffFc939c4C3Eb52DFf8A794",
       "logoURI": "https://images.metropolis.exchange/TTT.svg",
       "chainId": 146
     }
