@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-02-07T14:33:45Z",
+  "timestamp": "2024-02-10T18:08:45Z",
   "version": {
-    "major": 88,
+    "major": 89,
     "minor": 1,
     "patch": 1
   },
@@ -456,6 +456,14 @@
       "decimals": 18,
       "address": "0xb1e25689D55734FD3ffFc939c4C3Eb52DFf8A794",
       "logoURI": "https://images.metropolis.exchange/TTT.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Bridged USDT (Sonic Labs)",
+      "symbol" : "USDT",
+      "decimals": 18,
+      "address": "0x6047828dc181963ba44974801FF68e538dA5eaF9",
+      "logoURI": "https://images.metropolis.exchange/USDT.svg",
       "chainId": 146
     }
   ]
