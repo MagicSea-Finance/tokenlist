@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-02-10T18:47:45Z",
+  "timestamp": "2024-02-11T21:10:45Z",
   "version": {
-    "major": 91,
+    "major": 92,
     "minor": 1,
     "patch": 1
   },
@@ -472,6 +472,14 @@
       "decimals": 18,
       "address": "0xd94aAb9465C8b203B2c8437ad5AFB879b0c7AFb8",
       "logoURI": "https://images.metropolis.exchange/AA.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Uppies",
+      "symbol" : "UPPIES",
+      "decimals": 18,
+      "address": "0x9bCeA390ff97e0d3362bf726820776a4dF8AdD9a",
+      "logoURI": "https://images.metropolis.exchange/UPPIES.svg",
       "chainId": 146
     }
   ]
