@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-02-11T21:10:45Z",
+  "timestamp": "2024-02-17T20:57:45Z",
   "version": {
-    "major": 92,
+    "major": 93,
     "minor": 1,
     "patch": 1
   },
@@ -480,6 +480,14 @@
       "decimals": 18,
       "address": "0x9bCeA390ff97e0d3362bf726820776a4dF8AdD9a",
       "logoURI": "https://images.metropolis.exchange/UPPIES.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Sonic BTC (Rings Protocol)",
+      "symbol" : "scBTC",
+      "decimals": 8,
+      "address": "0xBb30e76d9Bb2CC9631F7fC5Eb8e87B5Aff32bFbd",
+      "logoURI": "https://images.metropolis.exchange/scBTC.svg",
       "chainId": 146
     }
   ]
