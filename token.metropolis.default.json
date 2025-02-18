@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-02-17T20:57:45Z",
+  "timestamp": "2024-02-18T18:10:45Z",
   "version": {
-    "major": 93,
+    "major": 94,
     "minor": 1,
     "patch": 1
   },
@@ -488,6 +488,14 @@
       "decimals": 8,
       "address": "0xBb30e76d9Bb2CC9631F7fC5Eb8e87B5Aff32bFbd",
       "logoURI": "https://images.metropolis.exchange/scBTC.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Ruggie's Pizza",
+      "symbol" : "RUGGIE",
+      "decimals": 18,
+      "address": "0xB2a909b8bCce9B30BbC9d4c748fD897d6AD9c285",
+      "logoURI": "https://images.metropolis.exchange/RUGGIE.svg",
       "chainId": 146
     }
   ]
