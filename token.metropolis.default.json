@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-02-18T18:10:45Z",
+  "timestamp": "2024-02-18T20:23:45Z",
   "version": {
-    "major": 94,
+    "major": 95,
     "minor": 1,
     "patch": 1
   },
@@ -496,6 +496,14 @@
       "decimals": 18,
       "address": "0xB2a909b8bCce9B30BbC9d4c748fD897d6AD9c285",
       "logoURI": "https://images.metropolis.exchange/RUGGIE.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Aurum",
+      "symbol" : "AUR",
+      "decimals": 18,
+      "address": "0x7F144F8691CbA3d2EfD8e5bcf042f9303EE31a46",
+      "logoURI": "https://images.metropolis.exchange/AUR.svg",
       "chainId": 146
     }
   ]
