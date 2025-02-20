@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-02-18T20:23:45Z",
+  "timestamp": "2024-02-20T14:12:45Z",
   "version": {
-    "major": 95,
+    "major": 96,
     "minor": 1,
     "patch": 1
   },
@@ -504,6 +504,14 @@
       "decimals": 18,
       "address": "0x7F144F8691CbA3d2EfD8e5bcf042f9303EE31a46",
       "logoURI": "https://images.metropolis.exchange/AUR.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Froq",
+      "symbol" : "FROQ",
+      "decimals": 18,
+      "address": "0x131F5AE1CBfEFe8EFbDf93dA23fa4d39F14a817c",
+      "logoURI": "https://images.metropolis.exchange/FROQ.svg",
       "chainId": 146
     }
   ]
