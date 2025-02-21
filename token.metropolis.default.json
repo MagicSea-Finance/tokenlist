@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-02-20T14:12:45Z",
+  "timestamp": "2024-02-21T19:41:45Z",
   "version": {
-    "major": 96,
+    "major": 97,
     "minor": 1,
     "patch": 1
   },
@@ -512,6 +512,14 @@
       "decimals": 18,
       "address": "0x131F5AE1CBfEFe8EFbDf93dA23fa4d39F14a817c",
       "logoURI": "https://images.metropolis.exchange/FROQ.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Jerboa",
+      "symbol" : "JERBOA",
+      "decimals": 18,
+      "address": "0x03941cB90CE45A56Ee38fDb73d3e457Dd056ed9c",
+      "logoURI": "https://images.metropolis.exchange/JERBOA.svg",
       "chainId": 146
     }
   ]
