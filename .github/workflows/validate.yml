@@ -21,3 +21,6 @@ jobs:
         uses: GrantBirki/json-yaml-validate@v2.6.2
         with:
           json_schema: src/tokenlist.schema.json
+          files: |
+            **/*.json
+            !marketMakers.json
