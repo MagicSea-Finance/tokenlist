@@ -30,5 +30,9 @@
     {
         "address" : "0xbB61b6CD82E4a90467014EE095B34dEf6AFc9625",
         "name" : "Undercroft"
+    },
+    {
+        "address" : "0x544291F82fD621E1B76DC9afD17F682b4183E9F5",
+        "name" : "SIMP"
     }
 ]
