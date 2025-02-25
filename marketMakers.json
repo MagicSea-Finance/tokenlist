@@ -1,8 +1,4 @@
 [
-     {
-        "address" : "0xdedcd39e4d5f2fcf2fb0c69dcdb133fd1e78a888",
-        "name" : "Metropolis"
-    },
     {
         "address" : "0x5c61F8E060b0C0a9E69B1431CA10451477fb94B1",
         "name" : "Metropolis"
@@ -30,5 +26,9 @@
     {
         "address" : "0x5c0cf42208c6a9647aab91fcd38b3e77c7a3a36c",
         "name" : "LULU"
+    },
+    {
+        "address" : "0xbB61b6CD82E4a90467014EE095B34dEf6AFc9625",
+        "name" : "Undercroft"
     }
 ]
