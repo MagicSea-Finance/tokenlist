@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-02-25T05:00:45Z",
+  "timestamp": "2024-02-25T19:06:45Z",
   "version": {
-    "major": 98,
+    "major": 99,
     "minor": 1,
     "patch": 1
   },
@@ -536,6 +536,14 @@
       "decimals": 18,
       "address": "0x6881B80ea7C858E4aEEf63893e18a8A36f3682f3",
       "logoURI": "https://images.metropolis.exchange/NAVI.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "HedgePot",
+      "symbol" : "HPOT",
+      "decimals": 18,
+      "address": "0x98118a5B3ced2390607c1E1BE46406F0356b069d",
+      "logoURI": "https://images.metropolis.exchange/HPOT.svg",
       "chainId": 146
     }
   ]
