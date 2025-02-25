@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2024-02-21T19:41:45Z",
+  "timestamp": "2024-02-25T05:00:45Z",
   "version": {
-    "major": 97,
+    "major": 98,
     "minor": 1,
     "patch": 1
   },
@@ -520,6 +520,22 @@
       "decimals": 18,
       "address": "0x03941cB90CE45A56Ee38fDb73d3e457Dd056ed9c",
       "logoURI": "https://images.metropolis.exchange/JERBOA.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "YE On Chain",
+      "symbol" : "YE",
+      "decimals": 18,
+      "address": "0xf2fC4c21F1B69fd4B633b4be532DEDEd6ab68715",
+      "logoURI": "https://images.metropolis.exchange/YE.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Navi",
+      "symbol" : "NAVI",
+      "decimals": 18,
+      "address": "0x6881B80ea7C858E4aEEf63893e18a8A36f3682f3",
+      "logoURI": "https://images.metropolis.exchange/NAVI.svg",
       "chainId": 146
     }
   ]
