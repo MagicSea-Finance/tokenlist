@@ -38,5 +38,9 @@
     {
         "address" : "0x492dc7C903c4Af432fB67ef843D4EF8B0dA0AAD5",
         "name" : "WUKONG"
+    }, 
+    {
+        "address" : "0x01d0762AFD8faF6748554C78a3330A1e17402176",
+        "name" : "Printer"
     }
 ]
