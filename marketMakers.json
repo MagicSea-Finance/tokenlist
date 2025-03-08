@@ -42,5 +42,9 @@
     {
         "address" : "0x01d0762AFD8faF6748554C78a3330A1e17402176",
         "name" : "Printer"
+    }, 
+    {
+        "address" : "0x86e4C00C5A7e7FB456D2A5f75fcb68998004BD87",
+        "name" : "Fanatik"
     }
 ]
