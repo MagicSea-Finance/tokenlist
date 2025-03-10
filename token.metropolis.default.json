@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-03-04T09:44:45Z",
+  "timestamp": "2025-03-10T08:51:45Z",
   "version": {
-    "major": 101,
+    "major": 102,
     "minor": 1,
     "patch": 1
   },
@@ -552,6 +552,14 @@
       "decimals": 18,
       "address": "0x78a76316F66224CBaCA6e70acB24D5ee5b2Bd2c7",
       "logoURI": "https://images.metropolis.exchange/STBL.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Audit",
+      "symbol" : "AUDIT",
+      "decimals": 18,
+      "address": "0x57223D89fE4c8C52023D06E7D30aD10cc441F84e",
+      "logoURI": "https://images.metropolis.exchange/AUDIT.svg",
       "chainId": 146
     }
   ]
