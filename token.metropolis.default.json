@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-03-10T08:51:45Z",
+  "timestamp": "2025-03-10T15:11:45Z",
   "version": {
-    "major": 102,
+    "major": 103,
     "minor": 1,
     "patch": 1
   },
@@ -560,6 +560,14 @@
       "decimals": 18,
       "address": "0x57223D89fE4c8C52023D06E7D30aD10cc441F84e",
       "logoURI": "https://images.metropolis.exchange/AUDIT.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Hedgedoge",
+      "symbol" : "HEDGED",
+      "decimals": 9,
+      "address": "0xF732a845DC59349004bF8f7BFf414a103d353AEb",
+      "logoURI": "https://images.metropolis.exchange/HEDGED.svg",
       "chainId": 146
     }
   ]
