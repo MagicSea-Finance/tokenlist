@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-03-10T15:11:45Z",
+  "timestamp": "2025-03-13T12:03:45Z",
   "version": {
-    "major": 103,
+    "major": 104,
     "minor": 1,
     "patch": 1
   },
@@ -568,6 +568,14 @@
       "decimals": 9,
       "address": "0xF732a845DC59349004bF8f7BFf414a103d353AEb",
       "logoURI": "https://images.metropolis.exchange/HEDGED.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Eliteness Network",
+      "symbol" : "ELITE",
+      "decimals": 9,
+      "address": "0x30C8Cf6B46AA4DF3F9fbC2857aca92F10a6cAd7f",
+      "logoURI": "https://images.metropolis.exchange/ELITE.svg",
       "chainId": 146
     }
   ]
