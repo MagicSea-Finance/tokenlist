@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-03-13T12:03:45Z",
+  "timestamp": "2025-03-14T05:03:45Z",
   "version": {
-    "major": 104,
+    "major": 105,
     "minor": 1,
     "patch": 1
   },
@@ -573,7 +573,7 @@
     {
       "name" : "Eliteness Network",
       "symbol" : "ELITE",
-      "decimals": 9,
+      "decimals": 18,
       "address": "0x30C8Cf6B46AA4DF3F9fbC2857aca92F10a6cAd7f",
       "logoURI": "https://images.metropolis.exchange/ELITE.svg",
       "chainId": 146
