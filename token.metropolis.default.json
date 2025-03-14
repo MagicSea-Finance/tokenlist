@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-03-14T05:03:45Z",
+  "timestamp": "2025-03-14T12:07:45Z",
   "version": {
-    "major": 105,
+    "major": 106,
     "minor": 1,
     "patch": 1
   },
@@ -576,6 +576,14 @@
       "decimals": 18,
       "address": "0x30C8Cf6B46AA4DF3F9fbC2857aca92F10a6cAd7f",
       "logoURI": "https://images.metropolis.exchange/ELITE.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Usury",
+      "symbol" : "US",
+      "decimals": 18,
+      "address": "0x0143B64c5f0B83ebDb227A9C6c655284D1393674",
+      "logoURI": "https://images.metropolis.exchange/US.svg",
       "chainId": 146
     }
   ]
