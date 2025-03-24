@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-03-14T12:07:45Z",
+  "timestamp": "2025-03-24T15:49:45Z",
   "version": {
-    "major": 106,
+    "major": 107,
     "minor": 1,
     "patch": 1
   },
@@ -584,6 +584,14 @@
       "decimals": 18,
       "address": "0x0143B64c5f0B83ebDb227A9C6c655284D1393674",
       "logoURI": "https://images.metropolis.exchange/US.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Sonic IndeX",
+      "symbol" : "fSIX",
+      "decimals": 18,
+      "address": "0x94B999e05D1361A802aD6690c1b1aE3426A4e1a6",
+      "logoURI": "https://images.metropolis.exchange/FSIX.svg",
       "chainId": 146
     }
   ]
