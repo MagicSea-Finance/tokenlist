@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-03-24T15:49:45Z",
+  "timestamp": "2025-03-24T17:41:45Z",
   "version": {
-    "major": 107,
+    "major": 108,
     "minor": 1,
     "patch": 1
   },
@@ -591,6 +591,14 @@
       "symbol" : "fSIX",
       "decimals": 18,
       "address": "0x94B999e05D1361A802aD6690c1b1aE3426A4e1a6",
+      "logoURI": "https://images.metropolis.exchange/FSIX.svg",
+      "chainId": 146
+    },
+    {
+      "name" : "Coal",
+      "symbol" : "COAL",
+      "decimals": 18,
+      "address": "0xcbFE13919530cB054b9cAbBF9cdA1dd1d811E3e6",
       "logoURI": "https://images.metropolis.exchange/FSIX.svg",
       "chainId": 146
     }
