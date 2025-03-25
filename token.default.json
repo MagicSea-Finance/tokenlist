@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2024-01-29T07:15:00.760Z",
+  "timestamp": "2024-03-25T16:06:00.760Z",
   "version": {
-    "major": 38,
+    "major": 39,
     "minor": 1,
     "patch": 1
   },
@@ -496,6 +496,14 @@
       "decimals": 18,
       "address" : "0x0cf1804C7B0c65A1efB7cD7cA36481B8Eec1a3EF",
       "logoURI": "https://images.magicsea.finance/WUKONG.svg",
+      "chainId": 8822
+    },
+    {
+      "name": "IOTATO",
+      "symbol": "TAT",
+      "decimals": 18,
+      "address" : "0x16f0ACC03e8bb6cB4D2C791cc664d7eb033a6f45",
+      "logoURI": "https://images.magicsea.finance/TAT.svg",
       "chainId": 8822
     }
   ]
