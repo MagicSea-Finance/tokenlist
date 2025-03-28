@@ -1,0 +1,47 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "description": "VIP pools configuration for Sonic and Sonic Blaze",
+  "required": ["sonic_blaze", "sonic"],
+  "properties": {
+    "sonic_blaze": {
+      "type": "object",
+      "required": ["vipPools"],
+      "properties": {
+        "vipPools": {
+          "type": "object",
+          "description": "VIP pools configuration with their weights for Sonic Blaze",
+          "patternProperties": {
+            "^0x[a-f0-9]{40}$": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 1
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+    "sonic": {
+      "type": "object",
+      "required": ["vipPools"],
+      "properties": {
+        "vipPools": {
+          "type": "object",
+          "description": "VIP pools configuration with their weights for Sonic",
+          "patternProperties": {
+            "^0x[a-f0-9]{40}$": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 1
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
