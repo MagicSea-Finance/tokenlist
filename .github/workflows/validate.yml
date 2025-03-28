@@ -37,5 +37,4 @@ jobs:
         with:
           json_schema: src/config.vip-pools.schema.json
           files: |
-            src/config.vip-pools.json
-          
+            config.vip-pools.json
