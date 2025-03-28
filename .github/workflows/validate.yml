@@ -24,3 +24,18 @@ jobs:
           files: |
             token.*.json
             token.json
+
+
+  validate-vip-pools:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: validate-vip-pools
+        id: validate-vip-pools
+        uses: GrantBirki/json-yaml-validate@v2.6.2
+        with:
+          json_schema: src/config.vip-pools.schema.json
+          files: |
+            src/config.vip-pools.json
+          
