@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2024-03-25T16:06:00.760Z",
+  "timestamp": "2024-04-09T05:29:00.760Z",
   "version": {
-    "major": 39,
+    "major": 40,
     "minor": 1,
     "patch": 1
   },
@@ -504,6 +504,14 @@
       "decimals": 18,
       "address" : "0x16f0ACC03e8bb6cB4D2C791cc664d7eb033a6f45",
       "logoURI": "https://images.magicsea.finance/TAT.svg",
+      "chainId": 8822
+    },
+    {
+      "name": "Gold",
+      "symbol": "IHG",
+      "decimals": 18,
+      "address" : "0xbF5f52F479194b713eDd69eD3f68E29FdFCcb10A",
+      "logoURI": "https://images.magicsea.finance/IHG.svg",
       "chainId": 8822
     }
   ]
