@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-04-04T16:36:45Z",
+  "timestamp": "2025-04-14T09:02:45Z",
   "version": {
-    "major": 110,
+    "major": 111,
     "minor": 1,
     "patch": 1
   },
@@ -616,6 +616,14 @@
       "decimals": 18,
       "address": "0xf2968631D02330Dc5E420373f083b7B4F8B24E17",
       "logoURI": "https://images.metropolis.exchange/RELIC.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "address" : "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+      "logoURI": "https://images.magicsea.finance/wBTC.svg",
       "chainId": 146
     }
   ]
