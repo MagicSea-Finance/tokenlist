@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-04-14T09:02:45Z",
+  "timestamp": "2025-04-16T18:33:45Z",
   "version": {
-    "major": 111,
+    "major": 112,
     "minor": 1,
     "patch": 1
   },
@@ -624,6 +624,14 @@
       "decimals": 8,
       "address" : "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
       "logoURI": "https://images.magicsea.finance/wBTC.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Fartcoin",
+      "symbol": "Fartcoin",
+      "decimals": 18,
+      "address" : "0x9ad04e818f5917e481453FEb62f18455b039A807",
+      "logoURI": "https://images.magicsea.finance/Fartcoin.svg",
       "chainId": 146
     }
   ]
