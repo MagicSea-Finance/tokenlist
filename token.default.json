@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2024-04-09T05:29:00.760Z",
+  "timestamp": "2025-04-16T18:40:00.760Z",
   "version": {
-    "major": 40,
+    "major": 41,
     "minor": 1,
     "patch": 1
   },
@@ -512,6 +512,14 @@
       "decimals": 18,
       "address" : "0xbF5f52F479194b713eDd69eD3f68E29FdFCcb10A",
       "logoURI": "https://images.magicsea.finance/IHG.svg",
+      "chainId": 8822
+    },
+    {
+      "name": "Catapus",
+      "symbol": "CATA",
+      "decimals": 18,
+      "address" : "0x857cC04a937E1b0bC590567797b561115C36F07a",
+      "logoURI": "https://images.magicsea.finance/CATA.svg",
       "chainId": 8822
     }
   ]
