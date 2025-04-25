@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-04-16T18:33:45Z",
+  "timestamp": "2025-04-25T09:50:45Z",
   "version": {
-    "major": 112,
+    "major": 113,
     "minor": 1,
     "patch": 1
   },
@@ -632,6 +632,14 @@
       "decimals": 18,
       "address" : "0x9ad04e818f5917e481453FEb62f18455b039A807",
       "logoURI": "https://images.magicsea.finance/Fartcoin.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Yehrold",
+      "symbol": "YEH",
+      "decimals": 18,
+      "address" : "0x2Ac457d7f225Ac6E89EdB6AC2CB21293D77dDFc9",
+      "logoURI": "https://images.magicsea.finance/YEH.svg",
       "chainId": 146
     }
   ]
