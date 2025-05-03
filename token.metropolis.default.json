@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-04-26T09:50:45Z",
+  "timestamp": "2025-05-03T014:01:45Z",
   "version": {
-    "major": 114,
+    "major": 115,
     "minor": 1,
     "patch": 1
   },
@@ -648,6 +648,14 @@
       "decimals": 18,
       "address" : "0xE8C962493104b71F1bf22bC415e02eD3eF685c26",
       "logoURI": "https://images.magicsea.finance/wSAFU.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Shadow",
+      "symbol": "SHADOW",
+      "decimals": 18,
+      "address" : "0x3333b97138D4b086720b5aE8A7844b1345a33333",
+      "logoURI": "https://images.magicsea.finance/SHADOW.svg",
       "chainId": 146
     }
   ]
