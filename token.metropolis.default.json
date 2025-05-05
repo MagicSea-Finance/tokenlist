@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-05-03T14:01:45Z",
+  "timestamp": "2025-05-05T14:41:45Z",
   "version": {
-    "major": 115,
+    "major": 116,
     "minor": 1,
     "patch": 1
   },
@@ -656,6 +656,14 @@
       "decimals": 18,
       "address" : "0x3333b97138D4b086720b5aE8A7844b1345a33333",
       "logoURI": "https://images.magicsea.finance/SHADOW.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Infinity",
+      "symbol": "8",
+      "decimals": 18,
+      "address" : "0x888852d1c63c7b333efEb1c4C5C79E36ce918888",
+      "logoURI": "https://images.magicsea.finance/8.svg",
       "chainId": 146
     }
   ]
