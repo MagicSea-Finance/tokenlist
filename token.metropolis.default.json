@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-05-05T14:41:45Z",
+  "timestamp": "2025-05-11T16:34:45Z",
   "version": {
-    "major": 116,
+    "major": 117,
     "minor": 1,
     "patch": 1
   },
@@ -664,6 +664,14 @@
       "decimals": 18,
       "address" : "0x888852d1c63c7b333efEb1c4C5C79E36ce918888",
       "logoURI": "https://images.magicsea.finance/8.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Whale",
+      "symbol": "WHALE",
+      "decimals": 18,
+      "address" : "0x068e9e009fDa970fA953E1f6a43D982cA991F4bA",
+      "logoURI": "https://images.magicsea.finance/WHALE.svg",
       "chainId": 146
     }
   ]
