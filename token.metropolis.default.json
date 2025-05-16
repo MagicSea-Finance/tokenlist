@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-05-15T21:34:45Z",
+  "timestamp": "2025-05-16T21:18:45Z",
   "version": {
-    "major": 118,
+    "major": 119,
     "minor": 1,
     "patch": 1
   },
@@ -680,6 +680,14 @@
       "decimals": 18,
       "address" : "0x16a0BfC1C6e331788E0A5096911cDCd9943D2C9c",
       "logoURI": "https://images.magicsea.finance/sDeamon.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Foxify",
+      "symbol": "FOX",
+      "decimals": 18,
+      "address" : "0x261DFA2528dfa19011F10B168c856E02baaF0eb6",
+      "logoURI": "https://images.magicsea.finance/FOX.svg",
       "chainId": 146
     }
   ]
