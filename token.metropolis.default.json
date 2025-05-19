@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-05-16T21:18:45Z",
+  "timestamp": "2025-05-19T05:19:45Z",
   "version": {
-    "major": 119,
+    "major": 120,
     "minor": 1,
     "patch": 1
   },
@@ -688,6 +688,14 @@
       "decimals": 18,
       "address" : "0x261DFA2528dfa19011F10B168c856E02baaF0eb6",
       "logoURI": "https://images.magicsea.finance/FOX.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Moth",
+      "symbol": "MOTH",
+      "decimals": 18,
+      "address" : "0xD259C1ae13e4AcD745556913D044f08542418875",
+      "logoURI": "https://images.magicsea.finance/MOTH.svg",
       "chainId": 146
     }
   ]
