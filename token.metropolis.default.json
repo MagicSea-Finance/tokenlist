@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-05-19T05:19:45Z",
+  "timestamp": "2025-05-23T05:19:45Z",
   "version": {
-    "major": 120,
+    "major": 121,
     "minor": 1,
     "patch": 1
   },
@@ -696,6 +696,14 @@
       "decimals": 18,
       "address" : "0xD259C1ae13e4AcD745556913D044f08542418875",
       "logoURI": "https://images.magicsea.finance/MOTH.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Andrelio",
+      "symbol": "ANDR",
+      "decimals": 18,
+      "address" : "0x22Ab0F58D80f7bfEc1D3CF0beeBA54e6bBeF8442",
+      "logoURI": "https://images.magicsea.finance/ANDR.svg",
       "chainId": 146
     }
   ]
