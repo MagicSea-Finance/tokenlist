@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-05-23T05:19:45Z",
+  "timestamp": "2025-05-26T15:45:45Z",
   "version": {
-    "major": 121,
+    "major": 122,
     "minor": 1,
     "patch": 1
   },
@@ -704,6 +704,14 @@
       "decimals": 18,
       "address" : "0x22Ab0F58D80f7bfEc1D3CF0beeBA54e6bBeF8442",
       "logoURI": "https://images.magicsea.finance/ANDR.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Rush",
+      "symbol": "RUSH",
+      "decimals": 18,
+      "address" : "0x0e346e34165c831018F98414cAF2689D0D3aa3E6",
+      "logoURI": "https://images.magicsea.finance/RUSH.svg",
       "chainId": 146
     }
   ]
