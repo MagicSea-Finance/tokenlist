@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-05-26T15:45:45Z",
+  "timestamp": "2025-05-30T07:51:45Z",
   "version": {
-    "major": 122,
+    "major": 123,
     "minor": 1,
     "patch": 1
   },
@@ -712,6 +712,14 @@
       "decimals": 18,
       "address" : "0x0e346e34165c831018F98414cAF2689D0D3aa3E6",
       "logoURI": "https://images.magicsea.finance/RUSH.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Blade",
+      "symbol": "BLADE",
+      "decimals": 18,
+      "address" : "0x9caC81C2ac71615a61d124fe3c4Af632BEA660FE",
+      "logoURI": "https://images.magicsea.finance/BLADE.svg",
       "chainId": 146
     }
   ]
