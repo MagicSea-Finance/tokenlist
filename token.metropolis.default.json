@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-05-30T07:51:45Z",
+  "timestamp": "2025-06-07T07:51:45Z",
   "version": {
-    "major": 123,
+    "major": 124,
     "minor": 1,
     "patch": 1
   },
@@ -720,6 +720,14 @@
       "decimals": 18,
       "address" : "0x9caC81C2ac71615a61d124fe3c4Af632BEA660FE",
       "logoURI": "https://images.magicsea.finance/BLADE.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Sundial Token",
+      "symbol": "SD",
+      "decimals": 18,
+      "address" : "0x40696242Ec04813a8CCbC86dd8E4d09a7179C63c",
+      "logoURI": "https://images.magicsea.finance/SD.svg",
       "chainId": 146
     }
   ]
