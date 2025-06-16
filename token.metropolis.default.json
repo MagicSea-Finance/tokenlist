@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-06-07T07:51:45Z",
+  "timestamp": "2025-06-16T11:48:45Z",
   "version": {
-    "major": 124,
+    "major": 125,
     "minor": 1,
     "patch": 1
   },
@@ -710,7 +710,7 @@
       "name": "Rush",
       "symbol": "RUSH",
       "decimals": 18,
-      "address" : "0x0e346e34165c831018F98414cAF2689D0D3aa3E6",
+      "address" : "0x7EAAB999b5924bfDAdDBB3d13281A2aE14Cc365C",
       "logoURI": "https://images.magicsea.finance/RUSH.svg",
       "chainId": 146
     },
