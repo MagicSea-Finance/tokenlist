@@ -50,5 +50,9 @@
     {
         "address" : "0x451125253F45Ed0c22e74C060008F96201b44695",
         "name" : "Pantera"
+    }, 
+    {
+        "address" : "0xf2c737786326Bc616dEF44E8F9CD4Ec8b0A8924D",
+        "name" : "LUST"
     }
 ]
