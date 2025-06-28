@@ -24,10 +24,6 @@
         "name" : "BN21 #1"
     },
     {
-        "address" : "0x5c0cf42208c6a9647aab91fcd38b3e77c7a3a36c",
-        "name" : "LULU"
-    },
-    {
         "address" : "0xbB61b6CD82E4a90467014EE095B34dEf6AFc9625",
         "name" : "Undercroft"
     },
@@ -35,10 +31,6 @@
         "address" : "0x544291F82fD621E1B76DC9afD17F682b4183E9F5",
         "name" : "ENVY"
     },
-    {
-        "address" : "0x492dc7C903c4Af432fB67ef843D4EF8B0dA0AAD5",
-        "name" : "WUKONG"
-    }, 
     {
         "address" : "0x01d0762AFD8faF6748554C78a3330A1e17402176",
         "name" : "Printer"
