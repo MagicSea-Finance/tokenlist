@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-06-20T06:53:45Z",
+  "timestamp": "2025-07-01T18:24:45Z",
   "version": {
-    "major": 126,
+    "major": 127,
     "minor": 1,
     "patch": 1
   },
@@ -736,6 +736,14 @@
       "decimals": 18,
       "address" : "0x9793729C20E53F899f21d42df133Cf88818f2Cf0",
       "logoURI": "https://images.magicsea.finance/RWAONE.svg",
+      "chainId": 146
+    },
+    {
+      "name": "UnRekt",
+      "symbol": "REKT",
+      "decimals": 18,
+      "address" : "0xc5333ea05c2f64e0749E3c4E8ac9eb3510355617",
+      "logoURI": "https://images.magicsea.finance/REKT.svg",
       "chainId": 146
     }
   ]
