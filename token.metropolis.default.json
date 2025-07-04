@@ -741,7 +741,7 @@
     {
       "name": "UnRekt",
       "symbol": "REKT",
-      "decimals": 18,
+      "decimals": 9,
       "address" : "0xc5333ea05c2f64e0749E3c4E8ac9eb3510355617",
       "logoURI": "https://images.magicsea.finance/REKT.svg",
       "chainId": 146
