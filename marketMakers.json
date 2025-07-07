@@ -62,5 +62,9 @@
     {
         "address" : "0xdfbf4216833f534950e0f7704c31b7708be73865",
         "name" : "REKT"
+    }, 
+    {
+        "address" : "0x54c7084ce57ea0b399603919f6bf263692de3929",
+        "name" : "Sergeant"
     }
 ]
