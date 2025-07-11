@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-07-11T14:23:45Z",
+  "timestamp": "2025-07-11T15:23:45Z",
   "version": {
-    "major": 128,
+    "major": 129,
     "minor": 1,
     "patch": 1
   },
@@ -746,12 +746,334 @@
       "logoURI": "https://images.magicsea.finance/REKT.svg",
       "chainId": 146
     },
+
+    
     {
-      "name": "Tesla Inc Tokenized By Sailing",
+      "name": "Circle Internet Group Inc Tokenized by Sailing",
+      "symbol": "CRCLs",
+      "decimals": 18,
+      "address": "0x9D0e5F5683DC2Ae2A910D52265586BDB1BF8f14B",
+      "logoURI": "https://images.metropolis.exchange/CRCLs.o5B",
+      "chainId": 146
+    },
+    {
+      "name": "Roundhill S&P 500 0DTE Covered Call Strategy ETF Tokenized by Sailing",
+      "symbol": "XDTEs",
+      "decimals": 18,
+      "address": "0x90c0aad69C3CFd9e441c6B1BED90e509e6D01852",
+      "logoURI": "https://images.metropolis.exchange/XDTEs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "YieldMax Short COIN Option Income Strategy ETF Tokenized by Sailing",
+      "symbol": "FIATs",
+      "decimals": 18,
+      "address": "0x0837f2C7763B77d7b3D1DE8616edFC42a05d3aC6",
+      "logoURI": "https://images.metropolis.exchange/FIATs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "YieldMax COIN Option Income Strategy ETF Tokenized by Sailing",
+      "symbol": "CONYs",
+      "decimals": 18,
+      "address": "0x597048A98135833BFfE355E2e44860ac79774D38",
+      "logoURI": "https://images.metropolis.exchange/CONYs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "YieldMax Universe Fund of Option Income ETFs Tokenized by Sailing",
+      "symbol": "YMAXs",
+      "decimals": 18,
+      "address": "0x49AdBc6d203dc3653eAfF4C83A119cd003548434",
+      "logoURI": "https://images.metropolis.exchange/YMAXs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "NEOS S&P 500 High Income ETF Tokenized by Sailing",
+      "symbol": "SPYIs",
+      "decimals": 18,
+      "address": "0xE04613Fb55A20F0E2f527Da4F63B1Ea759Cdd910",
+      "logoURI": "https://images.metropolis.exchange/SPYIs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "YPF S.A. Tokenized by Sailing",
+      "symbol": "YPFs",
+      "decimals": 18,
+      "address": "0xB596B9deD86571C2C21E5c57F018dD03ca04AA67",
+      "logoURI": "https://images.metropolis.exchange/YPFs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "MercadoLibre Inc. Tokenized by Sailing",
+      "symbol": "MELIs",
+      "decimals": 18,
+      "address": "0x00A6b76E7f22da6a167Bd67Ee8AB4F226e0178D8",
+      "logoURI": "https://images.metropolis.exchange/MELIs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Paramount Global Tokenized by Sailing",
+      "symbol": "PARAs",
+      "decimals": 18,
+      "address": "0x5d137232A6b6678F745F7a8EeB12CAD5fA6678b1",
+      "logoURI": "https://images.metropolis.exchange/PARAs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Nvidia Corporation Tokenized by Sailing",
+      "symbol": "NVDAs",
+      "decimals": 18,
+      "address": "0x6cEED18bCEdB2e29cA8dD59C7874d98eaEC5ab3b",
+      "logoURI": "https://images.metropolis.exchange/NVDAs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Lockheed Martin Corporation Tokenized by Sailing",
+      "symbol": "LMTs",
+      "decimals": 18,
+      "address": "0x8e32B5499E7c2Bd1AF7204C2EE4F7e0b0015e6BA",
+      "logoURI": "https://images.metropolis.exchange/LMTs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Boeing Company Tokenized by Sailing",
+      "symbol": "BAs",
+      "decimals": 18,
+      "address": "0xd907eD2948868056ffdcBdA9800Db749FB7fa8b6",
+      "logoURI": "https://images.metropolis.exchange/BAs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Warner Bros. Discovery Inc Tokenized by Sailing",
+      "symbol": "WBDs",
+      "decimals": 18,
+      "address": "0x6BF1e079f80C05C8386ce2e66EB8336CaDF96820",
+      "logoURI": "https://images.metropolis.exchange/WBDs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Upstart Holdings Inc Tokenized by Sailing",
+      "symbol": "UPSTs",
+      "decimals": 18,
+      "address": "0xdE35d352E479643Dff75E2291144076Ce76497FB",
+      "logoURI": "https://images.metropolis.exchange/UPSTs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Coinbase Global Inc Tokenized by Sailing",
+      "symbol": "COINs",
+      "decimals": 18,
+      "address": "0x3E64D09f8C7BB2DF27f445131C526EE1d07e4BA7",
+      "logoURI": "https://images.metropolis.exchange/COINs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "SPDR S&P 500 ETF Trust Tokenized by Sailing",
+      "symbol": "SPYs",
+      "decimals": 18,
+      "address": "0x7937C305b8c40BA8b933EBf3d20E09c62f5f574f",
+      "logoURI": "https://images.metropolis.exchange/SPYs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Grupo Supervielle SA Tokenized by Sailing",
+      "symbol": "SUPVs",
+      "decimals": 18,
+      "address": "0x2C2549F7fbc95502441f98DBaC934eCb0739FAd0",
+      "logoURI": "https://images.metropolis.exchange/SUPVs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Apple Inc Tokenized by Sailing",
+      "symbol": "AAPLs",
+      "decimals": 18,
+      "address": "0x853D15841a66EeDEA17E5322c1e40c8f69461b71",
+      "logoURI": "https://images.metropolis.exchange/AAPLs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "DLocal Ltd Tokenized by Sailing",
+      "symbol": "DLOs",
+      "decimals": 18,
+      "address": "0xDf12A17abf91C225e8074D2C38e9459A109DB82E",
+      "logoURI": "https://images.metropolis.exchange/DLOs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "ARK Innovation ETF Tokenized by Sailing",
+      "symbol": "ARKKs",
+      "decimals": 18,
+      "address": "0x5d5Fc0b4932263F7c64F88d57d61C173F9f9cCd8",
+      "logoURI": "https://images.metropolis.exchange/ARKKs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Tesla Inc Tokenized by Sailing",
       "symbol": "TSLAs",
       "decimals": 18,
-      "address" : "0xbB57cE23f5F9C4c09e91B6DEC1D2517E15AcF6D7",
-      "logoURI": "https://images.magicsea.finance/TSLAs.svg",
+      "address": "0xbB57cE23f5F9C4c09e91B6DEC1D2517E15AcF6D7",
+      "logoURI": "https://images.metropolis.exchange/TSLAs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Meta Platforms Inc Tokenized by Sailing",
+      "symbol": "METAs",
+      "decimals": 18,
+      "address": "0xDEde6fa58829D1d7cf03a2D32F4317588a6a7683",
+      "logoURI": "https://images.metropolis.exchange/METAs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Amazon.com Inc Tokenized by Sailing",
+      "symbol": "AMZNs",
+      "decimals": 18,
+      "address": "0xf0802331BD2D4eae1E27E0B12dD73b80fFdC677E",
+      "logoURI": "https://images.metropolis.exchange/AMZNs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "AMC Entertainment Holdings Inc Tokenized by Sailing",
+      "symbol": "AMCs",
+      "decimals": 18,
+      "address": "0x95fA2DBC0Ca054666922652f5eB394B27D9CBA02",
+      "logoURI": "https://images.metropolis.exchange/AMCs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "GameStop Corp Tokenized by Sailing",
+      "symbol": "GMEs",
+      "decimals": 18,
+      "address": "0x6f7b3745cb3DB0bB651741F7785079E420B7f599",
+      "logoURI": "https://images.metropolis.exchange/GMEs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "The Walt Disney Company Tokenized by Sailing",
+      "symbol": "DISs",
+      "decimals": 18,
+      "address": "0x4e630f665A5e911EbA14b4e850375613D6A05C06",
+      "logoURI": "https://images.metropolis.exchange/DISs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "MicroStrategy Inc Tokenized by Sailing",
+      "symbol": "MSTRs",
+      "decimals": 18,
+      "address": "0xcd33fAE80Fd04f3767740D3AcC38c69bb66A462c",
+      "logoURI": "https://images.metropolis.exchange/MSTRs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Goldman Sachs Physical Gold ETF Tokenized by Sailing",
+      "symbol": "AAAUs",
+      "decimals": 18,
+      "address": "0x612e8909dc4de2d5954E4CF1D2c5F8a9286e40DF",
+      "logoURI": "https://images.metropolis.exchange/AAAUs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Invesco QQQ Trust Tokenized by Sailing",
+      "symbol": "QQQs",
+      "decimals": 18,
+      "address": "0x1650FE9Bd3Dc741986C168Aa167628865109766c",
+      "logoURI": "https://images.metropolis.exchange/QQQs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Airbnb Inc Tokenized by Sailing",
+      "symbol": "ABNBs",
+      "decimals": 18,
+      "address": "0x1BA24aFC90d41E86F7F722659F68F4b176e3116B",
+      "logoURI": "https://images.metropolis.exchange/ABNBs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Ginkgo Bioworks Inc Tokenized by Sailing",
+      "symbol": "DNAs",
+      "decimals": 18,
+      "address": "0x96b806e1E324eaa42EF83A77959F9cCc768486f2",
+      "logoURI": "https://images.metropolis.exchange/DNAs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "McDonald's Tokenized by Sailing",
+      "symbol": "MCDs",
+      "decimals": 18,
+      "address": "0x9E52A97f2F018F32c3E237c5B72265c33af21179",
+      "logoURI": "https://images.metropolis.exchange/MCDs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Dynatrace Inc Tokenized by Sailing",
+      "symbol": "DTs",
+      "decimals": 18,
+      "address": "0xe1988610f507914251e9DA39C0Db31f0110F551d",
+      "logoURI": "https://images.metropolis.exchange/DTs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Palantir Technologies Inc Tokenized by Sailing",
+      "symbol": "PLTRs",
+      "decimals": 18,
+      "address": "0x4Bcc72B8cBd9bA193bE4760ed3D5016Dea2A6AC4",
+      "logoURI": "https://images.metropolis.exchange/PLTRs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Microsoft Corporation Tokenized by Sailing",
+      "symbol": "MSFTs",
+      "decimals": 18,
+      "address": "0xC80EE14c97Ac8242Be0EF500E4E4b1e9F9D94b9b",
+      "logoURI": "https://images.metropolis.exchange/MSFTs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "The Goldman Sachs Group Inc Tokenized by Sailing",
+      "symbol": "GSs",
+      "decimals": 18,
+      "address": "0xD07dd056c2C2073565C992B4aC2321b6A2e4a112",
+      "logoURI": "https://images.metropolis.exchange/GSs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Uber Technologies Inc Tokenized by Sailing",
+      "symbol": "UBERs",
+      "decimals": 18,
+      "address": "0x8c20d3E7259d5E4bFf1da04D9288AdBBfD4ffA8d",
+      "logoURI": "https://images.metropolis.exchange/UBERs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "BlackRock Inc Tokenized by Sailing",
+      "symbol": "BLKs",
+      "decimals": 18,
+      "address": "0x9aaCceAb23d5e800bB17a824C8436A95F45DD878",
+      "logoURI": "https://images.metropolis.exchange/BLKs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "BYD Company Limited Tokenized by Sailing",
+      "symbol": "BYDs",
+      "decimals": 18,
+      "address": "0xFd93AaD5C7B9adF695496887279272aED607AF43",
+      "logoURI": "https://images.metropolis.exchange/BYDs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "United States Natural Gas Fund LP Tokenized by Sailing",
+      "symbol": "UNGs",
+      "decimals": 18,
+      "address": "0x47a663C082926d0d913cAcB89240c3f4bc409a88",
+      "logoURI": "https://images.metropolis.exchange/UNGs.png",
+      "chainId": 146
+    },
+    {
+      "name": "Sailing",
+      "symbol": "SAIL",
+      "decimals": 18,
+      "address": "0xb6A222943Bbd717FEf61728461207ec0c6756A85",
+      "logoURI": "https://images.metropolis.exchange/SAIL.png",
       "chainId": 146
     }
   ]
