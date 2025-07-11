@@ -746,6 +746,7 @@
       "logoURI": "https://images.magicsea.finance/REKT.svg",
       "chainId": 146
     },
+
     
     {
       "name": "Circle Internet Group Inc Tokenized by Sailing",
@@ -756,7 +757,7 @@
       "chainId": 146
     },
     {
-      "name": "Roundhill S&P 500 0DTE Covered Call Strategy ETF Tokenized by Sailing",
+      "name": "Roundhill S&P 500 0DTE Covered Call Strategy ETF Tokenized",
       "symbol": "XDTEs",
       "decimals": 18,
       "address": "0x90c0aad69C3CFd9e441c6B1BED90e509e6D01852",
@@ -764,7 +765,7 @@
       "chainId": 146
     },
     {
-      "name": "YieldMax Short COIN Option Income Strategy ETF Tokenized by Sailing",
+      "name": "YieldMax Short COIN Option Income Strategy ETF Tokenized",
       "symbol": "FIATs",
       "decimals": 18,
       "address": "0x0837f2C7763B77d7b3D1DE8616edFC42a05d3aC6",
@@ -772,7 +773,7 @@
       "chainId": 146
     },
     {
-      "name": "YieldMax COIN Option Income Strategy ETF Tokenized by Sailing",
+      "name": "YieldMax COIN Option Income Strategy ETF Tokenized",
       "symbol": "CONYs",
       "decimals": 18,
       "address": "0x597048A98135833BFfE355E2e44860ac79774D38",
@@ -780,7 +781,7 @@
       "chainId": 146
     },
     {
-      "name": "YieldMax Universe Fund of Option Income ETFs Tokenized by Sailing",
+      "name": "YieldMax Universe Fund of Option Income ETFs Tokenized",
       "symbol": "YMAXs",
       "decimals": 18,
       "address": "0x49AdBc6d203dc3653eAfF4C83A119cd003548434",
