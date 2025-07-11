@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-07-01T18:24:45Z",
+  "timestamp": "2025-07-11T14:23:45Z",
   "version": {
-    "major": 127,
+    "major": 128,
     "minor": 1,
     "patch": 1
   },
@@ -747,11 +747,11 @@
       "chainId": 146
     },
     {
-      "name": "TSLAs",
+      "name": "Tesla Inc Tokenized By Sailing",
       "symbol": "TSLAs",
       "decimals": 18,
       "address" : "0xbB57cE23f5F9C4c09e91B6DEC1D2517E15AcF6D7",
-      "logoURI": "https://s3-symbol-logo.tradingview.com/tesla.svg",
+      "logoURI": "https://images.magicsea.finance/TSLAs.svg",
       "chainId": 146
     }
   ]
