@@ -745,6 +745,14 @@
       "address" : "0xc5333ea05c2f64e0749E3c4E8ac9eb3510355617",
       "logoURI": "https://images.magicsea.finance/REKT.svg",
       "chainId": 146
+    },
+    {
+      "name": "TSLAs",
+      "symbol": "TSLAs",
+      "decimals": 18,
+      "address" : "0xbB57cE23f5F9C4c09e91B6DEC1D2517E15AcF6D7",
+      "logoURI": "https://s3-symbol-logo.tradingview.com/tesla.svg",
+      "chainId": 146
     }
   ]
 }
