@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-07-11T16:57:45Z",
+  "timestamp": "2025-07-14T21:03:45Z",
   "version": {
-    "major": 130,
+    "major": 131,
     "minor": 1,
     "patch": 1
   },
@@ -752,6 +752,14 @@
       "decimals": 18,
       "address" : "0xbB57cE23f5F9C4c09e91B6DEC1D2517E15AcF6D7",
       "logoURI": "https://images.magicsea.finance/TSLAs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "MGEM2",
+      "symbol": "MGEM2",
+      "decimals": 18,
+      "address" : "0x1AE89cc21e1cF2d1E95bA5ebd5b3b1cF89E37A5e",
+      "logoURI": "https://images.magicsea.finance/MGEM2.svg",
       "chainId": 146
     }
   ]
