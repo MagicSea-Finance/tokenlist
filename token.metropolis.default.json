@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-07-11T16:57:45Z",
+  "timestamp": "2025-07-16T08:32:45Z",
   "version": {
-    "major": 130,
+    "major": 132,
     "minor": 1,
     "patch": 1
   },
@@ -1074,6 +1074,22 @@
       "decimals": 18,
       "address": "0xb6A222943Bbd717FEf61728461207ec0c6756A85",
       "logoURI": "https://images.metropolis.exchange/SAIL.svg",
+      "chainId": 146
+    },
+    {
+      "name": "MGEM2",
+      "symbol": "MGEM2",
+      "decimals": 18,
+      "address" : "0x1AE89cc21e1cF2d1E95bA5ebd5b3b1cF89E37A5e",
+      "logoURI": "https://images.magicsea.finance/MGEM2.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Wrapped Stability USD",
+      "symbol": "wmetaUSD",
+      "decimals": 18,
+      "address" : "0xAaAaaAAac311D0572Bffb4772fe985A750E88805",
+      "logoURI": "https://images.magicsea.finance/wmetaUSD.svg",
       "chainId": 146
     }
   ]
