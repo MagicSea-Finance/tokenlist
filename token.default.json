@@ -1,8 +1,8 @@
 {
   "name": "MagicSea Default",
-  "timestamp": "2025-04-16T18:40:00.760Z",
+  "timestamp": "2025-07-16T12:16:00.760Z",
   "version": {
-    "major": 41,
+    "major": 42,
     "minor": 1,
     "patch": 1
   },
@@ -520,6 +520,14 @@
       "decimals": 18,
       "address" : "0x857cC04a937E1b0bC590567797b561115C36F07a",
       "logoURI": "https://images.magicsea.finance/CATA.svg",
+      "chainId": 8822
+    },
+    {
+      "name": "Virtue USD",
+      "symbol": "VUSD",
+      "decimals": 6,
+      "address" : "0x10740259a1860aF3327Dd0642EE35d6e8E7143fF",
+      "logoURI": "https://images.magicsea.finance/VUSD.svg",
       "chainId": 8822
     }
   ]
