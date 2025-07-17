@@ -1,6 +1,6 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-07-16T08:32:45Z",
+  "timestamp": "2025-07-17T05:27:45Z",
   "version": {
     "major": 132,
     "minor": 1,
@@ -296,14 +296,6 @@
       "decimals": 18,
       "address": "0xb161Fe49dEB1BDa8e3A4a484D5CcD927a35A7DDe",
       "logoURI": "https://images.metropolis.exchange/SURV.svg",
-      "chainId": 146
-    },
-    {
-      "name" : "Metropolis Gem",
-      "symbol" : "MGEM",
-      "decimals": 18,
-      "address": "0x8A3b1cd8d0DEcF649262e56EcE6B339E59f350db",
-      "logoURI": "https://images.metropolis.exchange/MGEM.svg",
       "chainId": 146
     },
     {
@@ -750,7 +742,7 @@
       "name": "Tesla Inc Tokenized By Sailing",
       "symbol": "TSLAs",
       "decimals": 18,
-      "address" : "0xbB57cE23f5F9C4c09e91B6DEC1D2517E15AcF6D7",
+      "address" : "0xa6057499b23c476E6a5204c7D5A5C014E7921204",
       "logoURI": "https://images.magicsea.finance/TSLAs.svg",
       "chainId": 146
     },
