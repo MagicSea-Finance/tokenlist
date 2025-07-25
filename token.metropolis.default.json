@@ -1,6 +1,6 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-07-25T19:41:45Z",
+  "timestamp": "2025-07-25T20:07:45Z",
   "version": {
     "major": 134,
     "minor": 1,
@@ -447,7 +447,7 @@
       "symbol" : "OS",
       "decimals": 18,
       "address": "0xb1e25689D55734FD3ffFc939c4C3Eb52DFf8A794",
-      "logoURI": "https://images.metropolis.exchange/TTT.svg",
+      "logoURI": "https://images.metropolis.exchange/OS.svg",
       "chainId": 146
     },
     {
@@ -591,7 +591,7 @@
       "symbol" : "COAL",
       "decimals": 18,
       "address": "0xcbFE13919530cB054b9cAbBF9cdA1dd1d811E3e6",
-      "logoURI": "https://images.metropolis.exchange/FSIX.svg",
+      "logoURI": "https://images.metropolis.exchange/COAL.svg",
       "chainId": 146
     },
     {
