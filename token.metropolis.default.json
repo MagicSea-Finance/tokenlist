@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-07-25T20:52:39Z",
+  "timestamp": "2025-07-25T21:03:39Z",
   "version": {
-    "major": 138,
+    "major": 139,
     "minor": 1,
     "patch": 1
   },
@@ -792,7 +792,7 @@
       "chainId": 146
     },
     {
-      "name": "Roundhill SandP500 0DTE Covered Call Strategy ETF Tokenized",
+      "name": "Roundhill SP500 0DTE Covered Call Strategy ETF Tokenized",
       "symbol": "XDTEs",
       "decimals": 18,
       "address": "0x538A82863e2a6F144Ec14720Ccf3Fd794E463e03",
