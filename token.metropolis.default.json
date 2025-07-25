@@ -1,18 +1,23 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-07-25T20:23:45Z",
+  "timestamp": "2025-07-25T20:34:39Z",
   "version": {
-    "major": 136,
+    "major": 137,
     "minor": 1,
     "patch": 1
   },
   "tags": {},
   "logoURI": "https://metropolis.exchange/logo.png",
-  "keywords": ["sonic", "testnet", "metropolis", "default"],
+  "keywords": [
+    "sonic",
+    "testnet",
+    "metropolis",
+    "default"
+  ],
   "tokens": [
     {
-      "name" : "Wrapped Sonic",
-      "symbol" : "wS",
+      "name": "Wrapped Sonic",
+      "symbol": "wS",
       "decimals": 18,
       "address": "0xceebE42DC2336f5483e026F68fe599cEc3E6f114",
       "logoURI": "https://images.metropolis.exchange/wS.svg",
@@ -22,589 +27,589 @@
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
-      "address" : "0x56eaa884F29620fD6914827AaAE9Ee6a5C383149",
+      "address": "0x56eaa884F29620fD6914827AaAE9Ee6a5C383149",
       "logoURI": "https://images.metropolis.exchange/USDC.svg",
       "chainId": 64165
     },
     {
-      "name" : "Coral",
-      "symbol" : "CORAL",
+      "name": "Coral",
+      "symbol": "CORAL",
       "decimals": 18,
       "address": "0xAF93888cbD250300470A1618206e036E11470149",
       "logoURI": "https://images.metropolis.exchange/CORAL.svg",
       "chainId": 64165
     },
     {
-      "name" : "Diamond",
-      "symbol" : "DIAM",
+      "name": "Diamond",
+      "symbol": "DIAM",
       "decimals": 18,
       "address": "0x30BF3761147Ef0c86E2f84c3784FBD89E7954670",
       "logoURI": "https://images.metropolis.exchange/DIAM.svg",
       "chainId": 64165
     },
     {
-      "name" : "Fluorite",
-      "symbol" : "FLE",
+      "name": "Fluorite",
+      "symbol": "FLE",
       "decimals": 18,
       "address": "0x9Fa14D267d331c9E8BB7979bcDC212136915eCE8",
       "logoURI": "https://images.metropolis.exchange/FLE.svg",
       "chainId": 64165
     },
     {
-      "name" : "Malachite",
-      "symbol" : "MACH",
+      "name": "Malachite",
+      "symbol": "MACH",
       "decimals": 18,
       "address": "0x50971F8978C431D560ff658a83a8a03fdf199055",
       "logoURI": "https://images.metropolis.exchange/MACH.svg",
       "chainId": 64165
     },
     {
-      "name" : "Obsidian",
-      "symbol" : "OBS",
+      "name": "Obsidian",
+      "symbol": "OBS",
       "decimals": 18,
       "address": "0x3e6eE2F3f33766294C7148bc85c7d145E70cBD9A",
       "logoURI": "https://images.metropolis.exchange/OBS.svg",
       "chainId": 64165
     },
     {
-      "name" : "Onyx",
-      "symbol" : "ONYX",
+      "name": "Onyx",
+      "symbol": "ONYX",
       "decimals": 18,
       "address": "0xE73c4f6A0A3B0EF8337fD080b76C08172b3eB958",
       "logoURI": "https://images.metropolis.exchange/ONYX.svg",
       "chainId": 64165
     },
     {
-      "name" : "Opal",
-      "symbol" : "OPAL",
+      "name": "Opal",
+      "symbol": "OPAL",
       "decimals": 18,
       "address": "0xdB9a47bB64961E1eE511CB8aB252e6102a1b956C",
       "logoURI": "https://images.metropolis.exchange/OPAL.svg",
       "chainId": 64165
     },
     {
-      "name" : "Quartz",
-      "symbol" : "QUARTZ",
+      "name": "Quartz",
+      "symbol": "QUARTZ",
       "decimals": 18,
       "address": "0x36c420131BC14079C01d12D2EA54E05256C42DEf",
       "logoURI": "https://images.metropolis.exchange/QUARTZ.svg",
       "chainId": 64165
     },
     {
-      "name" : "Ruby",
-      "symbol" : "RUBY",
+      "name": "Ruby",
+      "symbol": "RUBY",
       "decimals": 18,
       "address": "0x75190d6e62B8984b987B2336fD10552eD0e6a538",
       "logoURI": "https://images.metropolis.exchange/RUBY.svg",
       "chainId": 64165
     },
     {
-      "name" : "Topaz",
-      "symbol" : "TOPAZ",
+      "name": "Topaz",
+      "symbol": "TOPAZ",
       "decimals": 18,
       "address": "0x72778BA7c44b3bF218954175A9480D8b8f841C08",
       "logoURI": "https://images.metropolis.exchange/TOPAZ.svg",
       "chainId": 64165
     },
     {
-      "name" : "FantomEco",
-      "symbol" : "ECO",
+      "name": "FantomEco",
+      "symbol": "ECO",
       "decimals": 18,
       "address": "0xBC506F58931472EF840502310cB8e25887999E0b",
       "logoURI": "https://images.metropolis.exchange/ECO.svg",
       "chainId": 64165
     },
     {
-      "name" : "Wrapped Sonic",
-      "symbol" : "WS",
+      "name": "Wrapped Sonic",
+      "symbol": "WS",
       "decimals": 18,
       "address": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
       "logoURI": "https://images.metropolis.exchange/WS.svg",
       "chainId": 146
     },
     {
-      "name" : "USDC",
-      "symbol" : "USDC",
+      "name": "USDC",
+      "symbol": "USDC",
       "decimals": 6,
       "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
       "logoURI": "https://images.metropolis.exchange/USDC.svg",
       "chainId": 146
     },
     {
-      "name" : "Wrapped Ether on Sonic",
-      "symbol" : "WETH",
+      "name": "Wrapped Ether on Sonic",
+      "symbol": "WETH",
       "decimals": 18,
       "address": "0x50c42dEAcD8Fc9773493ED674b675bE577f2634b",
       "logoURI": "https://images.metropolis.exchange/wETH.svg",
       "chainId": 146
     },
     {
-      "name" : "Goggles",
-      "symbol" : "GOGLZ",
+      "name": "Goggles",
+      "symbol": "GOGLZ",
       "decimals": 18,
       "address": "0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564",
       "logoURI": "https://images.metropolis.exchange/GOGLZ.svg",
       "chainId": 146
     },
     {
-      "name" : "Bridged EURC (Sonic Labs)",
-      "symbol" : "EURC.e",
+      "name": "Bridged EURC (Sonic Labs)",
+      "symbol": "EURC.e",
       "decimals": 6,
       "address": "0xe715cbA7B5cCb33790ceBFF1436809d36cb17E57",
       "logoURI": "https://images.metropolis.exchange/EURC.svg",
       "chainId": 146
     },
     {
-      "name" : "Beets Staked Sonic",
-      "symbol" : "stS",
+      "name": "Beets Staked Sonic",
+      "symbol": "stS",
       "decimals": 18,
       "address": "0xE5DA20F15420aD15DE0fa650600aFc998bbE3955",
       "logoURI": "https://images.metropolis.exchange/stS.svg",
       "chainId": 146
     },
     {
-      "name" : "Indi",
-      "symbol" : "INDI",
+      "name": "Indi",
+      "symbol": "INDI",
       "decimals": 18,
       "address": "0x4EEC869d847A6d13b0F6D1733C5DEC0d1E741B4f",
       "logoURI": "https://images.metropolis.exchange/INDI.svg",
       "chainId": 146
     },
     {
-      "name" : "Tin Hat Cat",
-      "symbol" : "THC",
+      "name": "Tin Hat Cat",
+      "symbol": "THC",
       "decimals": 18,
       "address": "0x17Af1Df44444AB9091622e4Aa66dB5BB34E51aD5",
       "logoURI": "https://images.metropolis.exchange/THC.svg",
       "chainId": 146
     },
     {
-      "name" : "DiddyScrotumFree",
-      "symbol" : "MOIST",
+      "name": "DiddyScrotumFree",
+      "symbol": "MOIST",
       "decimals": 18,
       "address": "0x690d956D97d3EEe18AB68ED1A28a89d531734F3d",
       "logoURI": "https://images.metropolis.exchange/MOIST.svg",
       "chainId": 146
     },
     {
-      "name" : "Toona",
-      "symbol" : "toona",
+      "name": "Toona",
+      "symbol": "toona",
       "decimals": 18,
       "address": "0xf4F9C50455C698834Bb645089DbAa89093b93838",
       "logoURI": "https://images.metropolis.exchange/TOONA.svg",
       "chainId": 146
     },
     {
-      "name" : "Hedgy The Hedgehog",
-      "symbol" : "HEDGY",
+      "name": "Hedgy The Hedgehog",
+      "symbol": "HEDGY",
       "decimals": 18,
       "address": "0x6fB9897896Fe5D05025Eb43306675727887D0B7c",
       "logoURI": "https://images.metropolis.exchange/HEDGY.svg",
       "chainId": 146
     },
     {
-      "name" : "Pass The Joint",
-      "symbol" : "JOINT",
+      "name": "Pass The Joint",
+      "symbol": "JOINT",
       "decimals": 18,
       "address": "0xC046dCb16592FBb3F9fA0C629b8D93090dD4cB76",
       "logoURI": "https://images.metropolis.exchange/JOINT.svg",
       "chainId": 146
     },
     {
-      "name" : "Familio",
-      "symbol" : "F",
+      "name": "Familio",
+      "symbol": "F",
       "decimals": 18,
       "address": "0xBe422DD2F451348d5D0979D8ab25B4c6eAAd1eB2",
       "logoURI": "https://images.metropolis.exchange/F.svg",
       "chainId": 146
     },
     {
-      "name" : "Sonic Kings",
-      "symbol" : "K",
+      "name": "Sonic Kings",
+      "symbol": "K",
       "decimals": 18,
       "address": "0x7732Cda61C9f7852c8A016B815f07ccD067A918f",
       "logoURI": "https://images.metropolis.exchange/K.svg",
       "chainId": 146
     },
     {
-      "name" : "Shrimp Token",
-      "symbol" : "SHRIMP",
+      "name": "Shrimp Token",
+      "symbol": "SHRIMP",
       "decimals": 18,
       "address": "0x873e509A21b106937472834201d653Ba62951c7E",
       "logoURI": "https://images.metropolis.exchange/SHRIMP.svg",
       "chainId": 146
     },
     {
-      "name" : "sDOG",
-      "symbol" : "sDOG",
+      "name": "sDOG",
+      "symbol": "sDOG",
       "decimals": 18,
       "address": "0x50Bc6e1DfF8039A4b967c1BF507ba5eA13fa18B6",
       "logoURI": "https://images.metropolis.exchange/sDOG.svg",
       "chainId": 146
     },
     {
-      "name" : "SonicEco",
-      "symbol" : "ECO",
+      "name": "SonicEco",
+      "symbol": "ECO",
       "decimals": 18,
       "address": "0x7A08Bf5304094CA4C7b4132Ef62b5EDc4a3478B7",
       "logoURI": "https://images.metropolis.exchange/ECO.svg",
       "chainId": 146
     },
     {
-      "name" : "Sanic",
-      "symbol" : "SANIC",
+      "name": "Sanic",
+      "symbol": "SANIC",
       "decimals": 18,
       "address": "0xc1aC6D480966CED520Eff0e9B081B8Ec30548790",
       "logoURI": "https://images.metropolis.exchange/SANIC.svg",
       "chainId": 146
     },
     {
-      "name" : "Thank You Sonic God",
-      "symbol" : "TYSG",
+      "name": "Thank You Sonic God",
+      "symbol": "TYSG",
       "decimals": 18,
       "address": "0x56192E94434c4fd3278b4Fa53039293fB00DE3DB",
       "logoURI": "https://images.metropolis.exchange/TYSG.svg",
       "chainId": 146
     },
     {
-      "name" : "Sonic USD (Rings Protocol)",
-      "symbol" : "scUSD",
+      "name": "Sonic USD (Rings Protocol)",
+      "symbol": "scUSD",
       "decimals": 6,
       "address": "0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE",
       "logoURI": "https://images.metropolis.exchange/scUSD.svg",
       "chainId": 146
     },
     {
-      "name" : "Sonic ETH (Rings Protocol)",
-      "symbol" : "scETH",
+      "name": "Sonic ETH (Rings Protocol)",
+      "symbol": "scETH",
       "decimals": 18,
       "address": "0x3bcE5CB273F0F148010BbEa2470e7b5df84C7812",
       "logoURI": "https://images.metropolis.exchange/scETH.svg",
       "chainId": 146
     },
     {
-      "name" : "Atoll ETH",
-      "symbol" : "atETH",
+      "name": "Atoll ETH",
+      "symbol": "atETH",
       "decimals": 18,
       "address": "0x284D81e48fBc782Aa9186a03a226690aEA5cBe0E",
       "logoURI": "https://images.metropolis.exchange/atETH.svg",
       "chainId": 146
     },
     {
-      "name" : "Surv Token",
-      "symbol" : "SURV",
+      "name": "Surv Token",
+      "symbol": "SURV",
       "decimals": 18,
       "address": "0xb161Fe49dEB1BDa8e3A4a484D5CcD927a35A7DDe",
       "logoURI": "https://images.metropolis.exchange/SURV.svg",
       "chainId": 146
     },
     {
-      "name" : "Sonic X",
-      "symbol" : "SonicX",
+      "name": "Sonic X",
+      "symbol": "SonicX",
       "decimals": 18,
       "address": "0x495D3A3A954185b876A63B023f13b7f4B0ce35d2",
       "logoURI": "https://images.metropolis.exchange/SONICX.svg",
       "chainId": 146
     },
     {
-      "name" : "PaintSwap",
-      "symbol" : "BRUSH",
+      "name": "PaintSwap",
+      "symbol": "BRUSH",
       "decimals": 18,
       "address": "0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44",
       "logoURI": "https://images.metropolis.exchange/BRUSH.svg",
       "chainId": 146
     },
     {
-      "name" : "HeyAnon",
-      "symbol" : "ANON",
+      "name": "HeyAnon",
+      "symbol": "ANON",
       "decimals": 18,
       "address": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
       "logoURI": "https://images.metropolis.exchange/ANON.svg",
       "chainId": 146
     },
     {
-      "name" : "Beets",
-      "symbol" : "BEETS",
+      "name": "Beets",
+      "symbol": "BEETS",
       "decimals": 18,
       "address": "0x2D0E0814E62D80056181F5cd932274405966e4f0",
       "logoURI": "https://images.metropolis.exchange/BEETS.svg",
       "chainId": 146
     },
     {
-      "name" : "Ludwig",
-      "symbol" : "LUDWIG",
+      "name": "Ludwig",
+      "symbol": "LUDWIG",
       "decimals": 18,
       "address": "0xe6cc4D855B4fD4A9D02F46B9adae4C5EfB1764B5",
       "logoURI": "https://images.metropolis.exchange/LUDWIG.svg",
       "chainId": 146
     },
     {
-      "name" : "Lazy Bear River",
-      "symbol" : "LBR",
+      "name": "Lazy Bear River",
+      "symbol": "LBR",
       "decimals": 18,
       "address": "0xE96159Ca91a183e727a95568134Ca71566386a40",
       "logoURI": "https://images.metropolis.exchange/LBR.svg",
       "chainId": 146
     },
     {
-      "name" : "Moon Bay",
-      "symbol" : "MOON",
+      "name": "Moon Bay",
+      "symbol": "MOON",
       "decimals": 18,
       "address": "0x486B6Fa0419b33a0c7A6e4698c231D7E2f2D5299",
       "logoURI": "https://images.metropolis.exchange/MOON.svg",
       "chainId": 146
     },
     {
-      "name" : "Solv BTC",
-      "symbol" : "SolvBTC",
+      "name": "Solv BTC",
+      "symbol": "SolvBTC",
       "decimals": 18,
       "address": "0x541FD749419CA806a8bc7da8ac23D346f2dF8B77",
       "logoURI": "https://images.metropolis.exchange/SolvBTC.svg",
       "chainId": 146
     },
     {
-      "name" : "Solv BTC Babylon",
-      "symbol" : "SolvBTC.BBN",
+      "name": "Solv BTC Babylon",
+      "symbol": "SolvBTC.BBN",
       "decimals": 18,
       "address": "0xCC0966D8418d412c599A6421b760a847eB169A8c",
       "logoURI": "https://images.metropolis.exchange/SolvBTC.BBN.svg",
       "chainId": 146
     },
     {
-      "name" : "Sacra Token",
-      "symbol" : "Sacra",
+      "name": "Sacra Token",
+      "symbol": "Sacra",
       "decimals": 18,
       "address": "0x7AD5935EA295c4E743e4f2f5B4CDA951f41223c2",
       "logoURI": "https://images.metropolis.exchange/Sacra.svg",
       "chainId": 146
     },
     {
-      "name" : "Sacra Gem",
-      "symbol" : "SacraGEM",
+      "name": "Sacra Gem",
+      "symbol": "SacraGEM",
       "decimals": 18,
       "address": "0xfC0dd337b92Baa949bC5D25FD9A99Cb3b6873204",
       "logoURI": "https://images.metropolis.exchange/SacraGEM.svg",
       "chainId": 146
     },
     {
-      "name" : "Sonic Kitty",
-      "symbol" : "SKITTY",
+      "name": "Sonic Kitty",
+      "symbol": "SKITTY",
       "decimals": 18,
       "address": "0x387C3a994c715f19050E0E133C97E923B8BA172c",
       "logoURI": "https://images.metropolis.exchange/SKITTY.svg",
       "chainId": 146
     },
     {
-      "name" : "Beanie Zombie",
-      "symbol" : "BZ",
+      "name": "Beanie Zombie",
+      "symbol": "BZ",
       "decimals": 18,
       "address": "0xc48c34fcB7328c443e735F3E7Ac393c703b192aD",
       "logoURI": "https://images.metropolis.exchange/BZ.svg",
       "chainId": 146
     },
     {
-      "name" : "Blur",
-      "symbol" : "BLUR",
+      "name": "Blur",
+      "symbol": "BLUR",
       "decimals": 18,
       "address": "0x9c1380658fE2fDa22A574B269b71E7e066562821",
       "logoURI": "https://images.metropolis.exchange/BLUR.svg",
       "chainId": 146
     },
     {
-      "name" : "Gravity Finance",
-      "symbol" : "GFI",
+      "name": "Gravity Finance",
+      "symbol": "GFI",
       "decimals": 18,
       "address": "0xbF5899166AC476370B3117c9256B7fc45624f4eA",
       "logoURI": "https://images.metropolis.exchange/GFI.svg",
       "chainId": 146
     },
     {
-      "name" : "Metropolis",
-      "symbol" : "METRO",
+      "name": "Metropolis",
+      "symbol": "METRO",
       "decimals": 18,
       "address": "0x71E99522EaD5E21CF57F1f542Dc4ad2E841F7321",
       "logoURI": "https://images.metropolis.exchange/METRO.svg",
       "chainId": 146
     },
     {
-      "name" : "Equalizer",
-      "symbol" : "EQUAL",
+      "name": "Equalizer",
+      "symbol": "EQUAL",
       "decimals": 18,
       "address": "0xddF26B42C1d903De8962d3F79a74a501420d5F19",
       "logoURI": "https://images.metropolis.exchange/EQUAL.svg",
       "chainId": 146
     },
     {
-      "name" : "To The Tits!",
-      "symbol" : "TTT",
+      "name": "To The Tits!",
+      "symbol": "TTT",
       "decimals": 18,
       "address": "0xB5FFB8b1a6832de1ba6b0c484da8541d87987439",
       "logoURI": "https://images.metropolis.exchange/TTT.svg",
       "chainId": 146
     },
     {
-      "name" : "Origin Sonic",
-      "symbol" : "OS",
+      "name": "Origin Sonic",
+      "symbol": "OS",
       "decimals": 18,
       "address": "0xb1e25689D55734FD3ffFc939c4C3Eb52DFf8A794",
       "logoURI": "https://images.metropolis.exchange/OS.svg",
       "chainId": 146
     },
     {
-      "name" : "Bridged USDT (Sonic Labs)",
-      "symbol" : "USDT",
+      "name": "Bridged USDT (Sonic Labs)",
+      "symbol": "USDT",
       "decimals": 6,
       "address": "0x6047828dc181963ba44974801FF68e538dA5eaF9",
       "logoURI": "https://images.metropolis.exchange/USDT.svg",
       "chainId": 146
     },
     {
-      "name" : "Anonymous Andre",
-      "symbol" : "AA",
+      "name": "Anonymous Andre",
+      "symbol": "AA",
       "decimals": 18,
       "address": "0xd94aAb9465C8b203B2c8437ad5AFB879b0c7AFb8",
       "logoURI": "https://images.metropolis.exchange/AA.svg",
       "chainId": 146
     },
     {
-      "name" : "Uppies",
-      "symbol" : "UPPIES",
+      "name": "Uppies",
+      "symbol": "UPPIES",
       "decimals": 18,
       "address": "0x9bCeA390ff97e0d3362bf726820776a4dF8AdD9a",
       "logoURI": "https://images.metropolis.exchange/UPPIES.svg",
       "chainId": 146
     },
     {
-      "name" : "Sonic BTC (Rings Protocol)",
-      "symbol" : "scBTC",
+      "name": "Sonic BTC (Rings Protocol)",
+      "symbol": "scBTC",
       "decimals": 8,
       "address": "0xBb30e76d9Bb2CC9631F7fC5Eb8e87B5Aff32bFbd",
       "logoURI": "https://images.metropolis.exchange/scBTC.svg",
       "chainId": 146
     },
     {
-      "name" : "Ruggie's Pizza",
-      "symbol" : "RUGGIE",
+      "name": "Ruggie's Pizza",
+      "symbol": "RUGGIE",
       "decimals": 18,
       "address": "0xB2a909b8bCce9B30BbC9d4c748fD897d6AD9c285",
       "logoURI": "https://images.metropolis.exchange/RUGGIE.svg",
       "chainId": 146
     },
     {
-      "name" : "Aurum",
-      "symbol" : "AUR",
+      "name": "Aurum",
+      "symbol": "AUR",
       "decimals": 18,
       "address": "0x7F144F8691CbA3d2EfD8e5bcf042f9303EE31a46",
       "logoURI": "https://images.metropolis.exchange/AUR.svg",
       "chainId": 146
     },
     {
-      "name" : "Froq",
-      "symbol" : "FROQ",
+      "name": "Froq",
+      "symbol": "FROQ",
       "decimals": 18,
       "address": "0x131F5AE1CBfEFe8EFbDf93dA23fa4d39F14a817c",
       "logoURI": "https://images.metropolis.exchange/FROQ.svg",
       "chainId": 146
     },
     {
-      "name" : "Jerboa",
-      "symbol" : "JERBOA",
+      "name": "Jerboa",
+      "symbol": "JERBOA",
       "decimals": 18,
       "address": "0x03941cB90CE45A56Ee38fDb73d3e457Dd056ed9c",
       "logoURI": "https://images.metropolis.exchange/JERBOA.svg",
       "chainId": 146
     },
     {
-      "name" : "YE On Chain",
-      "symbol" : "YE",
+      "name": "YE On Chain",
+      "symbol": "YE",
       "decimals": 18,
       "address": "0xf2fC4c21F1B69fd4B633b4be532DEDEd6ab68715",
       "logoURI": "https://images.metropolis.exchange/YE.svg",
       "chainId": 146
     },
     {
-      "name" : "Navi",
-      "symbol" : "NAVI",
+      "name": "Navi",
+      "symbol": "NAVI",
       "decimals": 18,
       "address": "0x6881B80ea7C858E4aEEf63893e18a8A36f3682f3",
       "logoURI": "https://images.metropolis.exchange/NAVI.svg",
       "chainId": 146
     },
     {
-      "name" : "HedgePot",
-      "symbol" : "HPOT",
+      "name": "HedgePot",
+      "symbol": "HPOT",
       "decimals": 18,
       "address": "0x98118a5B3ced2390607c1E1BE46406F0356b069d",
       "logoURI": "https://images.metropolis.exchange/HPOT.svg",
       "chainId": 146
     },
     {
-      "name" : "Stability",
-      "symbol" : "STBL",
+      "name": "Stability",
+      "symbol": "STBL",
       "decimals": 18,
       "address": "0x78a76316F66224CBaCA6e70acB24D5ee5b2Bd2c7",
       "logoURI": "https://images.metropolis.exchange/STBL.svg",
       "chainId": 146
     },
     {
-      "name" : "Audit",
-      "symbol" : "AUDIT",
+      "name": "Audit",
+      "symbol": "AUDIT",
       "decimals": 18,
       "address": "0x57223D89fE4c8C52023D06E7D30aD10cc441F84e",
       "logoURI": "https://images.metropolis.exchange/AUDIT.svg",
       "chainId": 146
     },
     {
-      "name" : "Hedgedoge",
-      "symbol" : "HEDGED",
+      "name": "Hedgedoge",
+      "symbol": "HEDGED",
       "decimals": 9,
       "address": "0xF732a845DC59349004bF8f7BFf414a103d353AEb",
       "logoURI": "https://images.metropolis.exchange/HEDGED.svg",
       "chainId": 146
     },
     {
-      "name" : "Eliteness Network",
-      "symbol" : "ELITE",
+      "name": "Eliteness Network",
+      "symbol": "ELITE",
       "decimals": 18,
       "address": "0x30C8Cf6B46AA4DF3F9fbC2857aca92F10a6cAd7f",
       "logoURI": "https://images.metropolis.exchange/ELITE.svg",
       "chainId": 146
     },
     {
-      "name" : "Usury",
-      "symbol" : "US",
+      "name": "Usury",
+      "symbol": "US",
       "decimals": 18,
       "address": "0x0143B64c5f0B83ebDb227A9C6c655284D1393674",
       "logoURI": "https://images.metropolis.exchange/US.svg",
       "chainId": 146
     },
     {
-      "name" : "Sonic IndeX",
-      "symbol" : "fSIX",
+      "name": "Sonic IndeX",
+      "symbol": "fSIX",
       "decimals": 18,
       "address": "0x94B999e05D1361A802aD6690c1b1aE3426A4e1a6",
       "logoURI": "https://images.metropolis.exchange/FSIX.svg",
       "chainId": 146
     },
     {
-      "name" : "Coal",
-      "symbol" : "COAL",
+      "name": "Coal",
+      "symbol": "COAL",
       "decimals": 18,
       "address": "0xcbFE13919530cB054b9cAbBF9cdA1dd1d811E3e6",
       "logoURI": "https://images.metropolis.exchange/COAL.svg",
       "chainId": 146
     },
     {
-      "name" : "FOMO Fox",
-      "symbol" : "FOMO",
+      "name": "FOMO Fox",
+      "symbol": "FOMO",
       "decimals": 18,
       "address": "0x2DF0fDA6478d625801B95bBFAec12a0f66A9d611",
       "logoURI": "https://images.metropolis.exchange/FOMO.svg",
       "chainId": 146
     },
     {
-      "name" : "Relic",
-      "symbol" : "RELIC",
+      "name": "Relic",
+      "symbol": "RELIC",
       "decimals": 18,
       "address": "0xf2968631D02330Dc5E420373f083b7B4F8B24E17",
       "logoURI": "https://images.metropolis.exchange/RELIC.svg",
@@ -614,7 +619,7 @@
       "name": "Wrapped Bitcoin",
       "symbol": "WBTC",
       "decimals": 8,
-      "address" : "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+      "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
       "logoURI": "https://images.magicsea.finance/wBTC.svg",
       "chainId": 146
     },
@@ -622,7 +627,7 @@
       "name": "Fartcoin",
       "symbol": "Fartcoin",
       "decimals": 18,
-      "address" : "0x9ad04e818f5917e481453FEb62f18455b039A807",
+      "address": "0x9ad04e818f5917e481453FEb62f18455b039A807",
       "logoURI": "https://images.magicsea.finance/Fartcoin.svg",
       "chainId": 146
     },
@@ -630,7 +635,7 @@
       "name": "Yehrold",
       "symbol": "YEH",
       "decimals": 18,
-      "address" : "0x2Ac457d7f225Ac6E89EdB6AC2CB21293D77dDFc9",
+      "address": "0x2Ac457d7f225Ac6E89EdB6AC2CB21293D77dDFc9",
       "logoURI": "https://images.magicsea.finance/YEH.svg",
       "chainId": 146
     },
@@ -638,7 +643,7 @@
       "name": "Wrapped SAFU",
       "symbol": "wSAFU",
       "decimals": 18,
-      "address" : "0xE8C962493104b71F1bf22bC415e02eD3eF685c26",
+      "address": "0xE8C962493104b71F1bf22bC415e02eD3eF685c26",
       "logoURI": "https://images.magicsea.finance/wSAFU.svg",
       "chainId": 146
     },
@@ -646,7 +651,7 @@
       "name": "Shadow",
       "symbol": "SHADOW",
       "decimals": 18,
-      "address" : "0x3333b97138D4b086720b5aE8A7844b1345a33333",
+      "address": "0x3333b97138D4b086720b5aE8A7844b1345a33333",
       "logoURI": "https://images.magicsea.finance/SHADOW.svg",
       "chainId": 146
     },
@@ -654,7 +659,7 @@
       "name": "Infinity",
       "symbol": "8",
       "decimals": 18,
-      "address" : "0x888852d1c63c7b333efEb1c4C5C79E36ce918888",
+      "address": "0x888852d1c63c7b333efEb1c4C5C79E36ce918888",
       "logoURI": "https://images.magicsea.finance/8.svg",
       "chainId": 146
     },
@@ -662,7 +667,7 @@
       "name": "Whale",
       "symbol": "WHALE",
       "decimals": 18,
-      "address" : "0x068e9e009fDa970fA953E1f6a43D982cA991F4bA",
+      "address": "0x068e9e009fDa970fA953E1f6a43D982cA991F4bA",
       "logoURI": "https://images.magicsea.finance/WHALE.svg",
       "chainId": 146
     },
@@ -670,7 +675,7 @@
       "name": "sDeamon",
       "symbol": "sDeamon",
       "decimals": 18,
-      "address" : "0x16a0BfC1C6e331788E0A5096911cDCd9943D2C9c",
+      "address": "0x16a0BfC1C6e331788E0A5096911cDCd9943D2C9c",
       "logoURI": "https://images.magicsea.finance/sDeamon.svg",
       "chainId": 146
     },
@@ -678,7 +683,7 @@
       "name": "Foxify",
       "symbol": "FOX",
       "decimals": 18,
-      "address" : "0x261DFA2528dfa19011F10B168c856E02baaF0eb6",
+      "address": "0x261DFA2528dfa19011F10B168c856E02baaF0eb6",
       "logoURI": "https://images.magicsea.finance/FOX.svg",
       "chainId": 146
     },
@@ -686,7 +691,7 @@
       "name": "Moth",
       "symbol": "MOTH",
       "decimals": 18,
-      "address" : "0xD259C1ae13e4AcD745556913D044f08542418875",
+      "address": "0xD259C1ae13e4AcD745556913D044f08542418875",
       "logoURI": "https://images.magicsea.finance/MOTH.svg",
       "chainId": 146
     },
@@ -694,7 +699,7 @@
       "name": "Andrelio",
       "symbol": "ANDR",
       "decimals": 18,
-      "address" : "0x22Ab0F58D80f7bfEc1D3CF0beeBA54e6bBeF8442",
+      "address": "0x22Ab0F58D80f7bfEc1D3CF0beeBA54e6bBeF8442",
       "logoURI": "https://images.magicsea.finance/ANDR.svg",
       "chainId": 146
     },
@@ -702,7 +707,7 @@
       "name": "Rush",
       "symbol": "RUSH",
       "decimals": 18,
-      "address" : "0x7EAAB999b5924bfDAdDBB3d13281A2aE14Cc365C",
+      "address": "0x7EAAB999b5924bfDAdDBB3d13281A2aE14Cc365C",
       "logoURI": "https://images.magicsea.finance/RUSH.svg",
       "chainId": 146
     },
@@ -710,7 +715,7 @@
       "name": "Blade",
       "symbol": "BLADE",
       "decimals": 18,
-      "address" : "0x9caC81C2ac71615a61d124fe3c4Af632BEA660FE",
+      "address": "0x9caC81C2ac71615a61d124fe3c4Af632BEA660FE",
       "logoURI": "https://images.magicsea.finance/BLADE.svg",
       "chainId": 146
     },
@@ -718,7 +723,7 @@
       "name": "Sundial Token",
       "symbol": "SD",
       "decimals": 18,
-      "address" : "0x40696242Ec04813a8CCbC86dd8E4d09a7179C63c",
+      "address": "0x40696242Ec04813a8CCbC86dd8E4d09a7179C63c",
       "logoURI": "https://images.magicsea.finance/SD.svg",
       "chainId": 146
     },
@@ -726,7 +731,7 @@
       "name": "RWAOne",
       "symbol": "RWAONE",
       "decimals": 18,
-      "address" : "0x9793729C20E53F899f21d42df133Cf88818f2Cf0",
+      "address": "0x9793729C20E53F899f21d42df133Cf88818f2Cf0",
       "logoURI": "https://images.magicsea.finance/RWAONE.svg",
       "chainId": 146
     },
@@ -734,7 +739,7 @@
       "name": "UnRekt",
       "symbol": "REKT",
       "decimals": 9,
-      "address" : "0xc5333ea05c2f64e0749E3c4E8ac9eb3510355617",
+      "address": "0xc5333ea05c2f64e0749E3c4E8ac9eb3510355617",
       "logoURI": "https://images.magicsea.finance/REKT.svg",
       "chainId": 146
     },
@@ -742,7 +747,7 @@
       "name": "Tesla Inc Tokenized By Sailing",
       "symbol": "TSLAs",
       "decimals": 18,
-      "address" : "0xa6057499b23c476E6a5204c7D5A5C014E7921204",
+      "address": "0xa6057499b23c476E6a5204c7D5A5C014E7921204",
       "logoURI": "https://images.magicsea.finance/TSLAs.svg",
       "chainId": 146
     },
@@ -750,7 +755,7 @@
       "name": "MGEM2",
       "symbol": "MGEM2",
       "decimals": 18,
-      "address" : "0x1AE89cc21e1cF2d1E95bA5ebd5b3b1cF89E37A5e",
+      "address": "0x1AE89cc21e1cF2d1E95bA5ebd5b3b1cF89E37A5e",
       "logoURI": "https://images.magicsea.finance/MGEM2.svg",
       "chainId": 146
     },
@@ -758,8 +763,328 @@
       "name": "Wrapped Stability USD",
       "symbol": "wmetaUSD",
       "decimals": 18,
-      "address" : "0xAaAaaAAac311D0572Bffb4772fe985A750E88805",
+      "address": "0xAaAaaAAac311D0572Bffb4772fe985A750E88805",
       "logoURI": "https://images.magicsea.finance/wmetaUSD.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Warner Bros. Discovery Inc Tokenized by Sailing",
+      "symbol": "WBDs",
+      "decimals": 18,
+      "address": "0x7DE6dBa1F72cFEec212D585492656400AB5cC2f3",
+      "logoURI": "https://images.metropolis.exchange/WBDs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "YieldMax Universe Fund of Option Income ETFs Tokenized",
+      "symbol": "YMAXs",
+      "decimals": 18,
+      "address": "0x2e09Da43E9e0a00164c8D8c239Cfc959699ae636",
+      "logoURI": "https://images.metropolis.exchange/YMAXs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "YieldMax Short COIN Option Income Strategy ETF Tokenized",
+      "symbol": "FIATs",
+      "decimals": 18,
+      "address": "0xe7372d303F3087d3341F3359C63e99b590793442",
+      "logoURI": "https://images.metropolis.exchange/FIATs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Roundhill S and P 500 0DTE Covered Call Strategy ETF Tokenized",
+      "symbol": "XDTEs",
+      "decimals": 18,
+      "address": "0x538A82863e2a6F144Ec14720Ccf3Fd794E463e03",
+      "logoURI": "https://images.metropolis.exchange/XDTEs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "NEOS S and P 500 High Income ETF Tokenized by Sailing",
+      "symbol": "SPYIs",
+      "decimals": 18,
+      "address": "0x36b9dF2e1C6d52BD426174c402eDE6d54bc2a9D8",
+      "logoURI": "https://images.metropolis.exchange/SPYIs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "YPF S.A. Tokenized by Sailing",
+      "symbol": "YPFs",
+      "decimals": 18,
+      "address": "0x2D46544b553236Bf2fF5F9066854fa0029F776c3",
+      "logoURI": "https://images.metropolis.exchange/YPFs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Boeing Company Tokenized by Sailing",
+      "symbol": "BAs",
+      "decimals": 18,
+      "address": "0x0A51e4b18D323aC66Bce3058da17B3fa819DF4CF",
+      "logoURI": "https://images.metropolis.exchange/BAs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Lockheed Martin Corporation Tokenized by Sailing",
+      "symbol": "LMTs",
+      "decimals": 18,
+      "address": "0xaE1770407904cE14D998EAe0aA07bCf9a3a2b33a",
+      "logoURI": "https://images.metropolis.exchange/LMTs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Nvidia Corporation Tokenized by Sailing",
+      "symbol": "NVDAs",
+      "decimals": 18,
+      "address": "0xAEBeb25DeA818C7f054c4B87e192A990cc7f70A0",
+      "logoURI": "https://images.metropolis.exchange/NVDAs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "The Goldman Sachs Group Inc Tokenized by Sailing",
+      "symbol": "GSs",
+      "decimals": 18,
+      "address": "0x1fE638eC6eF5F734c91244F36d664f747864EF50",
+      "logoURI": "https://images.metropolis.exchange/GSs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Microsoft Corporation Tokenized by Sailing",
+      "symbol": "MSFTs",
+      "decimals": 18,
+      "address": "0xe9884E8E581461efA562B915FBa21f8Bf69dd9cF",
+      "logoURI": "https://images.metropolis.exchange/MSFTs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "BlackRock Inc Tokenized by Sailing",
+      "symbol": "BLKs",
+      "decimals": 18,
+      "address": "0xd29Ebd340AEfD2fb781B0c856623b3E41E7F8a8b",
+      "logoURI": "https://images.metropolis.exchange/BLKs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Dynatrace Inc Tokenized by Sailing",
+      "symbol": "DTs",
+      "decimals": 18,
+      "address": "0x65A7B513e41708Cd10e803Cf9e364403E11eEffB",
+      "logoURI": "https://images.metropolis.exchange/DTs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Palantir Technologies Inc Tokenized by Sailing",
+      "symbol": "PLTRs",
+      "decimals": 18,
+      "address": "0x135a19149728fB27349f8D3872163c3eB005cF74",
+      "logoURI": "https://images.metropolis.exchange/PLTRs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "MicroStrategy Inc Tokenized by Sailing",
+      "symbol": "MSTRs",
+      "decimals": 18,
+      "address": "0x58a4F4a0fDB10fAECd1C73A1EeB832812489DaBC",
+      "logoURI": "https://images.metropolis.exchange/MSTRs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Coinbase Global Inc Tokenized by Sailing",
+      "symbol": "COINs",
+      "decimals": 18,
+      "address": "0x2CD00602C063f4aFc1672DD0d8BE1d26072056E2",
+      "logoURI": "https://images.metropolis.exchange/COINs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "The Walt Disney Company Tokenized by Sailing",
+      "symbol": "DISs",
+      "decimals": 18,
+      "address": "0x4cD3De31d1301021da5cE0Db33CeC5A73767075E",
+      "logoURI": "https://images.metropolis.exchange/DISs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Upstart Holdings Inc Tokenized by Sailing",
+      "symbol": "UPSTs",
+      "decimals": 18,
+      "address": "0xBca36Ae0090f6d6ACC3784cB3e3f431294820dC4",
+      "logoURI": "https://images.metropolis.exchange/UPSTs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "AMC Entertainment Holdings Inc Tokenized by Sailing",
+      "symbol": "AMCs",
+      "decimals": 18,
+      "address": "0x566Eb609a521aFA6213F046e439037dAD85d9747",
+      "logoURI": "https://images.metropolis.exchange/AMCs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "McDonald's Tokenized by Sailing",
+      "symbol": "MCDs",
+      "decimals": 18,
+      "address": "0xb2748DaBDaA3203EfC486cF7890F7b9A0234480A",
+      "logoURI": "https://images.metropolis.exchange/MCDs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "GameStop Corp Tokenized by Sailing",
+      "symbol": "GMEs",
+      "decimals": 18,
+      "address": "0x425ADBdcb427E8c1bCB99960c8106E3396dC510a",
+      "logoURI": "https://images.metropolis.exchange/GMEs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "YieldMax COIN Option Income Strategy ETF Tokenized",
+      "symbol": "CONYs",
+      "decimals": 18,
+      "address": "0x9a00a4a3ddb6504039825DD621adf75F020696Ba",
+      "logoURI": "https://images.metropolis.exchange/CONYs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Amazon.com Inc Tokenized by Sailing",
+      "symbol": "AMZNs",
+      "decimals": 18,
+      "address": "0x59730C5a1223E5332E45A2959c5D95b2B99218D6",
+      "logoURI": "https://images.metropolis.exchange/AMZNs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Circle Internet Group Inc Tokenized by Sailing",
+      "symbol": "CRCLs",
+      "decimals": 18,
+      "address": "0xB0dfd17DAf23926d618BfD43772A19E7212d34E6",
+      "logoURI": "https://images.metropolis.exchange/CRCLs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Apple Inc Tokenized by Sailing",
+      "symbol": "AAPLs",
+      "decimals": 18,
+      "address": "0xd96eaAe0225Bad65C6Ae90b87C4957D4dbae4B07",
+      "logoURI": "https://images.metropolis.exchange/AAPLs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Meta Platforms Inc Tokenized by Sailing",
+      "symbol": "METAs",
+      "decimals": 18,
+      "address": "0x70a81b2B34e5Cb3ae39e0F05B6A367Deb8cA2F4a",
+      "logoURI": "https://images.metropolis.exchange/METAs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "MercadoLibre Inc. Tokenized by Sailing",
+      "symbol": "MELIs",
+      "decimals": 18,
+      "address": "0xBa021E57Da13Fa03738Bd9E4BF400Ca08A61E353",
+      "logoURI": "https://images.metropolis.exchange/MELIs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Paramount Global Tokenized by Sailing",
+      "symbol": "PARAs",
+      "decimals": 18,
+      "address": "0xC8980Da85BF2954c313c2bE327a16bC67CD168D3",
+      "logoURI": "https://images.metropolis.exchange/PARAs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Grupo Supervielle SA Tokenized by Sailing",
+      "symbol": "SUPVs",
+      "decimals": 18,
+      "address": "0x037d8001C4b218B837E7b1052b6d48517BCA5156",
+      "logoURI": "https://images.metropolis.exchange/SUPVs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "DLocal Ltd Tokenized by Sailing",
+      "symbol": "DLOs",
+      "decimals": 18,
+      "address": "0x3FE8F972767C88726b1efAD0862107CacEfB86E6",
+      "logoURI": "https://images.metropolis.exchange/DLOs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "ARK Innovation ETF Tokenized by Sailing",
+      "symbol": "ARKKs",
+      "decimals": 18,
+      "address": "0xeAA18659783287052D5bAeDc23EEb95a57e651b5",
+      "logoURI": "https://images.metropolis.exchange/ARKKs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Goldman Sachs Physical Gold ETF Tokenized by Sailing",
+      "symbol": "AAAUs",
+      "decimals": 18,
+      "address": "0x5D5cD07D937a63e76C222c90286b6e8522CF26D2",
+      "logoURI": "https://images.metropolis.exchange/AAAUs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Ginkgo Bioworks Inc Tokenized by Sailing",
+      "symbol": "DNAs",
+      "decimals": 18,
+      "address": "0xeB44A2dCB4Ab00494b605deD93afC02C09ac9A62",
+      "logoURI": "https://images.metropolis.exchange/DNAs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Invesco QQQ Trust Tokenized by Sailing",
+      "symbol": "QQQs",
+      "decimals": 18,
+      "address": "0x422247B3be45a35dbC0F60f298Db0cBA06FbAF85",
+      "logoURI": "https://images.metropolis.exchange/QQQs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "SPDR S and P 500 ETF Trust Tokenized by Sailing",
+      "symbol": "SPYs",
+      "decimals": 18,
+      "address": "0xCB0f5C39B2712C1F58c5103C4423990d184B9A7A",
+      "logoURI": "https://images.metropolis.exchange/SPYs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "United States Natural Gas Fund LP Tokenized by Sailing",
+      "symbol": "UNGs",
+      "decimals": 18,
+      "address": "0x71dE4aBF98778876ec9e6c6E7BDa47dbDFae38EC",
+      "logoURI": "https://images.metropolis.exchange/UNGs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Uber Technologies Inc Tokenized by Sailing",
+      "symbol": "UBERs",
+      "decimals": 18,
+      "address": "0x6494eb9cb227EEbAc39be833e4Eb283602A69621",
+      "logoURI": "https://images.metropolis.exchange/UBERs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Airbnb Inc Tokenized by Sailing",
+      "symbol": "ABNBs",
+      "decimals": 18,
+      "address": "0x05D9f784Fda836E7DfB4B929119d2bDF97925fA4",
+      "logoURI": "https://images.metropolis.exchange/ABNBs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "BYD Company Limited Tokenized by Sailing",
+      "symbol": "BYDs",
+      "decimals": 18,
+      "address": "0x0fBB1a89c542EE44b94b2528C96Fe885327303f0",
+      "logoURI": "https://images.metropolis.exchange/BYDs.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Sailing",
+      "symbol": "SAIL",
+      "decimals": 18,
+      "address": "0xb6A222943Bbd717FEf61728461207ec0c6756A85",
+      "logoURI": "https://images.metropolis.exchange/SAIL.svg",
       "chainId": 146
     }
   ]
