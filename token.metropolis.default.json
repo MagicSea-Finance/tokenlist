@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-07-26T07:33:00Z",
+  "timestamp": "2025-07-28T03:37:00Z",
   "version": {
-    "major": 141,
+    "major": 142,
     "minor": 1,
     "patch": 1
   },
@@ -739,7 +739,7 @@
       "chainId": 146
     },
     {
-      "name": "TSLAs Tokenized By Sailing",
+      "name": "TSLA Tokenized By Sailing",
       "symbol": "TSLAs",
       "decimals": 18,
       "address" : "0xa6057499b23c476E6a5204c7D5A5C014E7921204",
@@ -763,7 +763,7 @@
       "chainId": 146
     },
     {
-      "name": "WBDs Tokenized By Sailing",
+      "name": "WBD Tokenized By Sailing",
       "symbol": "WBDs",
       "decimals": 18,
       "address": "0x7DE6dBa1F72cFEec212D585492656400AB5cC2f3",
@@ -771,7 +771,7 @@
       "chainId": 146
     },
     {
-      "name": "YMAXs Tokenized By Sailing",
+      "name": "YMAX Tokenized By Sailing",
       "symbol": "YMAXs",
       "decimals": 18,
       "address": "0x2e09Da43E9e0a00164c8D8c239Cfc959699ae636",
@@ -779,7 +779,7 @@
       "chainId": 146
     },
     {
-      "name": "FIATs Tokenized By Sailing",
+      "name": "FIAT Tokenized By Sailing",
       "symbol": "FIATs",
       "decimals": 18,
       "address": "0xe7372d303F3087d3341F3359C63e99b590793442",
@@ -787,7 +787,7 @@
       "chainId": 146
     },
     {
-      "name": "XDTEs Tokenized By Sailing",
+      "name": "XDTE Tokenized By Sailing",
       "symbol": "XDTEs",
       "decimals": 18,
       "address": "0x538A82863e2a6F144Ec14720Ccf3Fd794E463e03",
@@ -795,7 +795,7 @@
       "chainId": 146
     },
     {
-      "name": "SPYIs Tokenized By Sailing",
+      "name": "SPYI Tokenized By Sailing",
       "symbol": "SPYIs",
       "decimals": 18,
       "address": "0x36b9dF2e1C6d52BD426174c402eDE6d54bc2a9D8",
@@ -803,7 +803,7 @@
       "chainId": 146
     },
     {
-      "name": "YPFs Tokenized By Sailing",
+      "name": "YPF Tokenized By Sailing",
       "symbol": "YPFs",
       "decimals": 18,
       "address": "0x2D46544b553236Bf2fF5F9066854fa0029F776c3",
@@ -811,7 +811,7 @@
       "chainId": 146
     },
     {
-      "name": "BAs Tokenized By Sailing",
+      "name": "BA Tokenized By Sailing",
       "symbol": "BAs",
       "decimals": 18,
       "address": "0x0A51e4b18D323aC66Bce3058da17B3fa819DF4CF",
@@ -819,7 +819,7 @@
       "chainId": 146
     },
     {
-      "name": "LMTs Tokenized By Sailing",
+      "name": "LMT Tokenized By Sailing",
       "symbol": "LMTs",
       "decimals": 18,
       "address": "0xaE1770407904cE14D998EAe0aA07bCf9a3a2b33a",
@@ -827,7 +827,7 @@
       "chainId": 146
     },
     {
-      "name": "NVDAs Tokenized By Sailing",
+      "name": "NVDA Tokenized By Sailing",
       "symbol": "NVDAs",
       "decimals": 18,
       "address": "0xAEBeb25DeA818C7f054c4B87e192A990cc7f70A0",
@@ -835,7 +835,7 @@
       "chainId": 146
     },
     {
-      "name": "GSs Tokenized By Sailing",
+      "name": "GS Tokenized By Sailing",
       "symbol": "GSs",
       "decimals": 18,
       "address": "0x1fE638eC6eF5F734c91244F36d664f747864EF50",
@@ -843,7 +843,7 @@
       "chainId": 146
     },
     {
-      "name": "MSFTs Tokenized By Sailing",
+      "name": "MSFT Tokenized By Sailing",
       "symbol": "MSFTs",
       "decimals": 18,
       "address": "0xe9884E8E581461efA562B915FBa21f8Bf69dd9cF",
@@ -851,7 +851,7 @@
       "chainId": 146
     },
     {
-      "name": "BLKs Tokenized By Sailing",
+      "name": "BLK Tokenized By Sailing",
       "symbol": "BLKs",
       "decimals": 18,
       "address": "0xd29Ebd340AEfD2fb781B0c856623b3E41E7F8a8b",
@@ -859,7 +859,7 @@
       "chainId": 146
     },
     {
-      "name": "DTs Tokenized By Sailing",
+      "name": "DT Tokenized By Sailing",
       "symbol": "DTs",
       "decimals": 18,
       "address": "0x65A7B513e41708Cd10e803Cf9e364403E11eEffB",
@@ -867,7 +867,7 @@
       "chainId": 146
     },
     {
-      "name": "PLTRs Tokenized By Sailing",
+      "name": "PLTR Tokenized By Sailing",
       "symbol": "PLTRs",
       "decimals": 18,
       "address": "0x135a19149728fB27349f8D3872163c3eB005cF74",
@@ -875,7 +875,7 @@
       "chainId": 146
     },
     {
-      "name": "MSTRs Tokenized By Sailing",
+      "name": "MSTR Tokenized By Sailing",
       "symbol": "MSTRs",
       "decimals": 18,
       "address": "0x58a4F4a0fDB10fAECd1C73A1EeB832812489DaBC",
@@ -883,7 +883,7 @@
       "chainId": 146
     },
     {
-      "name": "COINs Tokenized By Sailing",
+      "name": "COIN Tokenized By Sailing",
       "symbol": "COINs",
       "decimals": 18,
       "address": "0x2CD00602C063f4aFc1672DD0d8BE1d26072056E2",
@@ -891,7 +891,7 @@
       "chainId": 146
     },
     {
-      "name": "DISs Tokenized By Sailing",
+      "name": "DIS Tokenized By Sailing",
       "symbol": "DISs",
       "decimals": 18,
       "address": "0x4cD3De31d1301021da5cE0Db33CeC5A73767075E",
@@ -899,7 +899,7 @@
       "chainId": 146
     },
     {
-      "name": "UPSTs Tokenized By Sailing",
+      "name": "UPST Tokenized By Sailing",
       "symbol": "UPSTs",
       "decimals": 18,
       "address": "0xBca36Ae0090f6d6ACC3784cB3e3f431294820dC4",
@@ -907,7 +907,7 @@
       "chainId": 146
     },
     {
-      "name": "AMCs Tokenized By Sailing",
+      "name": "AMC Tokenized By Sailing",
       "symbol": "AMCs",
       "decimals": 18,
       "address": "0x566Eb609a521aFA6213F046e439037dAD85d9747",
@@ -915,7 +915,7 @@
       "chainId": 146
     },
     {
-      "name": "MCDs Tokenized By Sailing",
+      "name": "MCD Tokenized By Sailing",
       "symbol": "MCDs",
       "decimals": 18,
       "address": "0xb2748DaBDaA3203EfC486cF7890F7b9A0234480A",
@@ -923,7 +923,7 @@
       "chainId": 146
     },
     {
-      "name": "GMEs Tokenized By Sailing",
+      "name": "GME Tokenized By Sailing",
       "symbol": "GMEs",
       "decimals": 18,
       "address": "0x425ADBdcb427E8c1bCB99960c8106E3396dC510a",
@@ -931,7 +931,7 @@
       "chainId": 146
     },
     {
-      "name": "CONYs Tokenized By Sailing",
+      "name": "CONY Tokenized By Sailing",
       "symbol": "CONYs",
       "decimals": 18,
       "address": "0x9a00a4a3ddb6504039825DD621adf75F020696Ba",
@@ -939,7 +939,7 @@
       "chainId": 146
     },
     {
-      "name": "AMZNs Tokenized By Sailing",
+      "name": "AMZN Tokenized By Sailing",
       "symbol": "AMZNs",
       "decimals": 18,
       "address": "0x59730C5a1223E5332E45A2959c5D95b2B99218D6",
@@ -947,7 +947,7 @@
       "chainId": 146
     },
     {
-      "name": "CRCLs Tokenized By Sailing",
+      "name": "CRCL Tokenized By Sailing",
       "symbol": "CRCLs",
       "decimals": 18,
       "address": "0xB0dfd17DAf23926d618BfD43772A19E7212d34E6",
@@ -955,7 +955,7 @@
       "chainId": 146
     },
     {
-      "name": "AAPLs Tokenized By Sailing",
+      "name": "AAPL Tokenized By Sailing",
       "symbol": "AAPLs",
       "decimals": 18,
       "address": "0xd96eaAe0225Bad65C6Ae90b87C4957D4dbae4B07",
@@ -963,7 +963,7 @@
       "chainId": 146
     },
     {
-      "name": "METAs Tokenized By Sailing",
+      "name": "META Tokenized By Sailing",
       "symbol": "METAs",
       "decimals": 18,
       "address": "0x70a81b2B34e5Cb3ae39e0F05B6A367Deb8cA2F4a",
@@ -971,7 +971,7 @@
       "chainId": 146
     },
     {
-      "name": "MELIs Tokenized By Sailing",
+      "name": "MELI Tokenized By Sailing",
       "symbol": "MELIs",
       "decimals": 18,
       "address": "0xBa021E57Da13Fa03738Bd9E4BF400Ca08A61E353",
@@ -979,7 +979,7 @@
       "chainId": 146
     },
     {
-      "name": "PARAs Tokenized By Sailing",
+      "name": "PARA Tokenized By Sailing",
       "symbol": "PARAs",
       "decimals": 18,
       "address": "0xC8980Da85BF2954c313c2bE327a16bC67CD168D3",
@@ -987,7 +987,7 @@
       "chainId": 146
     },
     {
-      "name": "SUPVs Tokenized By Sailing",
+      "name": "SUPV Tokenized By Sailing",
       "symbol": "SUPVs",
       "decimals": 18,
       "address": "0x037d8001C4b218B837E7b1052b6d48517BCA5156",
@@ -995,7 +995,7 @@
       "chainId": 146
     },
     {
-      "name": "DLOs Tokenized By Sailing",
+      "name": "DLO Tokenized By Sailing",
       "symbol": "DLOs",
       "decimals": 18,
       "address": "0x3FE8F972767C88726b1efAD0862107CacEfB86E6",
@@ -1003,7 +1003,7 @@
       "chainId": 146
     },
     {
-      "name": "ARKKs Tokenized By Sailing",
+      "name": "ARKK Tokenized By Sailing",
       "symbol": "ARKKs",
       "decimals": 18,
       "address": "0xeAA18659783287052D5bAeDc23EEb95a57e651b5",
@@ -1011,7 +1011,7 @@
       "chainId": 146
     },
     {
-      "name": "AAAUs Tokenized By Sailing",
+      "name": "AAAU Tokenized By Sailing",
       "symbol": "AAAUs",
       "decimals": 18,
       "address": "0x5D5cD07D937a63e76C222c90286b6e8522CF26D2",
@@ -1019,7 +1019,7 @@
       "chainId": 146
     },
     {
-      "name": "DNAs Tokenized By Sailing",
+      "name": "DNA Tokenized By Sailing",
       "symbol": "DNAs",
       "decimals": 18,
       "address": "0xeB44A2dCB4Ab00494b605deD93afC02C09ac9A62",
@@ -1027,7 +1027,7 @@
       "chainId": 146
     },
     {
-      "name": "QQQs Tokenized By Sailing",
+      "name": "QQQ Tokenized By Sailing",
       "symbol": "QQQs",
       "decimals": 18,
       "address": "0x422247B3be45a35dbC0F60f298Db0cBA06FbAF85",
@@ -1035,7 +1035,7 @@
       "chainId": 146
     },
     {
-      "name": "SPYs Tokenized By Sailing",
+      "name": "SPY Tokenized By Sailing",
       "symbol": "SPYs",
       "decimals": 18,
       "address": "0xCB0f5C39B2712C1F58c5103C4423990d184B9A7A",
@@ -1043,7 +1043,7 @@
       "chainId": 146
     },
     {
-      "name": "UNGs Tokenized By Sailing",
+      "name": "UNG Tokenized By Sailing",
       "symbol": "UNGs",
       "decimals": 18,
       "address": "0x71dE4aBF98778876ec9e6c6E7BDa47dbDFae38EC",
@@ -1051,7 +1051,7 @@
       "chainId": 146
     },
     {
-      "name": "UBERs Tokenized By Sailing",
+      "name": "UBER Tokenized By Sailing",
       "symbol": "UBERs",
       "decimals": 18,
       "address": "0x6494eb9cb227EEbAc39be833e4Eb283602A69621",
@@ -1059,7 +1059,7 @@
       "chainId": 146
     },
     {
-      "name": "ABNBs Tokenized By Sailing",
+      "name": "ABNB Tokenized By Sailing",
       "symbol": "ABNBs",
       "decimals": 18,
       "address": "0x05D9f784Fda836E7DfB4B929119d2bDF97925fA4",
@@ -1067,7 +1067,7 @@
       "chainId": 146
     },
     {
-      "name": "BYDs Tokenized By Sailing",
+      "name": "BYD Tokenized By Sailing",
       "symbol": "BYDs",
       "decimals": 18,
       "address": "0x0fBB1a89c542EE44b94b2528C96Fe885327303f0",
