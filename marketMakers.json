@@ -74,5 +74,9 @@
     {
         "address" : "0xDedcd39E4d5f2fCF2fB0C69DCDb133fd1E78a888",
         "name" : "Doc"
+    }, 
+    {
+        "address" : "0xA63C0A7007FFFD9eeDd28f4379b7113d916cD329",
+        "name" : "Metropolis"
     }
 ]
