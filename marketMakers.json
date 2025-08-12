@@ -78,5 +78,9 @@
     {
         "address" : "0xA63C0A7007FFFD9eeDd28f4379b7113d916cD329",
         "name" : "Metropolis"
+    }, 
+    {
+        "address" : "0x5F3c96EF702A38dB9b48A9210414c4893dAa969E",
+        "name" : "Mephisto"
     }
 ]
