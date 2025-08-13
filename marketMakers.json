@@ -29,7 +29,7 @@
     },
     {
         "address" : "0x544291F82fD621E1B76DC9afD17F682b4183E9F5",
-        "name" : "ENVY"
+        "name" : "SIN"
     },
     {
         "address" : "0x01d0762AFD8faF6748554C78a3330A1e17402176",
@@ -45,11 +45,11 @@
     }, 
     {
         "address" : "0xf2c737786326Bc616dEF44E8F9CD4Ec8b0A8924D",
-        "name" : "LUST"
+        "name" : "SIN"
     }, 
     {
         "address" : "0x0F25e8280fB6a342c6bc54AF56d25c6e4ca0dAc0",
-        "name" : "GREED"
+        "name" : "SIN"
     }, 
     {
         "address" : "0xe4d2124c4a711cd8f664a20b997fda442ca63a47",
@@ -69,7 +69,7 @@
     }, 
     {
         "address" : "0xC8E443Fc3FfceB4a3A8811Ae41895a27c96183Ff",
-        "name" : "GLUTTONY"
+        "name" : "SIN"
     }, 
     {
         "address" : "0xDedcd39E4d5f2fCF2fB0C69DCDb133fd1E78a888",
