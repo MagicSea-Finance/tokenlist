@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-07-28T03:37:00Z",
+  "timestamp": "2025-08-15T12:04:00Z",
   "version": {
-    "major": 142,
+    "major": 143,
     "minor": 1,
     "patch": 1
   },
@@ -1080,6 +1080,14 @@
       "decimals": 18,
       "address": "0xb6A222943Bbd717FEf61728461207ec0c6756A85",
       "logoURI": "https://images.metropolis.exchange/SAIL.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "address": "0xB026e4cC9025fA72e7fd68B93c08eEA0948269Fd",
+      "logoURI": "https://images.metropolis.exchange/wstETH.svg",
       "chainId": 146
     }
   ]
