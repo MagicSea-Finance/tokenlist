@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1080 1080">
+  <!-- Generator: Adobe Illustrator 29.5.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 141)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#linear-gradient2);
+      }
+
+      .st1 {
+        fill: url(#linear-gradient1);
+      }
+
+      .st2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-17.61" y1="-42.15" x2="1059.85" y2="1082.74" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c5f1f3"/>
+      <stop offset="1" stop-color="#f0fed6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="198.45" y1="519.16" x2="846.74" y2="562.08" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#41b4ba"/>
+      <stop offset="1" stop-color="#2b817d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient2" x1="206.33" y1="400.22" x2="854.61" y2="443.14" xlink:href="#linear-gradient1"/>
+  </defs>
+  <rect class="st2" x="0" y="0" width="1080" height="1080" rx="540" ry="540"/>
+  <g id="tV2jfs.tif">
+    <g>
+      <path class="st1" d="M666.66,511.51c43.58-8.02,83.42-29.08,121.79-50.23,30.4,3.05-14.53,32.37-24.09,39.31-32.07,23.28-67.28,41.36-103.98,56.24-14.82,49.93-37.09,94.57-67.95,136.42-21.29,28.88-49.92,71.67-91.83,54.52-26.04-10.66-31.79-42.9-43.81-65.76-45.28-86.04-110.39-155.85-192.42-208.01-13.27-8.43-33.62-16.45-44.81-24.75-5.77-4.28-10-10.29-.76-13.1,9.75-2.97,41.54,6.29,52.86,9.53,105.21,30.09,196.41,108.38,252.59,200.57,7.24-5.55,46.44-70.81,43.25-73.67-85.48,4-172.65-76.21-138.72-164.79,20.28-52.96,83.23-86.91,138.81-74.27,77.29,17.57,103.49,108.28,99.09,177.99ZM568.85,406.98c-24.63-24.14-72.74-6.14-80.53,24.46-13.37,52.55,49.6,94.79,96.86,90.72,10.07-32.31,9.34-90-16.33-115.17Z"/>
+      <path class="st0" d="M825.53,427.93c3.29-3.55,16.92-8.19,21.81-8.34,30.3-.93,23.91,46.38-6.69,45.79-15.16-.29-25.3-26.48-15.12-37.46Z"/>
+    </g>
+  </g>
+</svg>
