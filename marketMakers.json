@@ -82,5 +82,9 @@
     {
         "address" : "0x5F3c96EF702A38dB9b48A9210414c4893dAa969E",
         "name" : "Mephisto"
+    }, 
+    {
+        "address" : "0xcf13626968f282bf2cb92157ad07dc3ef5a706a8",
+        "name" : "Capt"
     }
 ]
