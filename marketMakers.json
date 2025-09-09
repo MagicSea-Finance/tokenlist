@@ -90,5 +90,9 @@
     {
         "address" : "0xD3678D44fDD5b0961d8ad11c366a3bC0c1AB8914",
         "name" : "Rosato"
+    },
+        {
+        "address" : "0x56Dc54Ac98Bc3556AD446Fd3Bf3C49962e32eB22",
+        "name" : "Doc"
     }
 ]
