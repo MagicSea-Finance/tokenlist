@@ -1,6 +1,6 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-08-15T12:04:00Z",
+  "timestamp": "2025-09-25T09:25:00Z",
   "version": {
     "major": 143,
     "minor": 1,
@@ -1088,6 +1088,14 @@
       "decimals": 18,
       "address": "0xB026e4cC9025fA72e7fd68B93c08eEA0948269Fd",
       "logoURI": "https://images.metropolis.exchange/wstETH.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Frax USD",
+      "symbol": "frxUSD",
+      "decimals": 18,
+      "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+      "logoURI": "https://images.metropolis.exchange/frxUSD.svg",
       "chainId": 146
     }
   ]
