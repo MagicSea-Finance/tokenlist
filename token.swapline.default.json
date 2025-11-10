@@ -1,8 +1,8 @@
 {
   "name": "Swapline Default",
-  "timestamp": "2025-08-19T12:17:10Z",
+  "timestamp": "2025-11-10T13:18:10Z",
   "version": {
-    "major": 36,
+    "major": 37,
     "minor": 1,
     "patch": 1
   },
@@ -72,6 +72,46 @@
       "decimals" : 18,
       "logoURI" : "https://images.swapline.com/AIXBT.svg",
       "address" : "0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825",
+      "chainId": 8453
+    },
+    {
+      "name": "Sapien",
+      "symbol" : "SAPIEN",
+      "decimals" : 18,
+      "logoURI" : "https://images.swapline.com/SAPIEN.svg",
+      "address" : "0xC729777d0470F30612B1564Fd96E8Dd26f5814E3",
+      "chainId": 8453
+    },
+    {
+      "name": "Regent",
+      "symbol" : "REGENT",
+      "decimals" : 18,
+      "logoURI" : "https://images.swapline.com/REGENT.svg",
+      "address" : "0x6f89bcA4eA5931EdFCB09786267b251DeE752b07",
+      "chainId": 8453
+    },
+    {
+      "name": "Ping",
+      "symbol" : "PING",
+      "decimals" : 18,
+      "logoURI" : "https://images.swapline.com/PING.svg",
+      "address" : "0xd85c31854c2B0Fb40aaA9E2Fc4Da23C21f829d46",
+      "chainId": 8453
+    },
+    {
+      "name": "Fren Finder",
+      "symbol" : "FREN",
+      "decimals" : 18,
+      "logoURI" : "https://images.swapline.com/FREN.svg",
+      "address" : "0x17C5bf36F2053b8050c2919EBAE7d0aBa81E0cD6",
+      "chainId": 8453
+    },
+    {
+      "name": "burd",
+      "symbol" : "BURD",
+      "decimals" : 18,
+      "logoURI" : "https://images.swapline.com/BURD.svg",
+      "address" : "0xe0CC881E977006488D694148223eAdb5eF207275",
       "chainId": 8453
     }
   ]
