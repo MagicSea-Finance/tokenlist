@@ -1,8 +1,8 @@
 {
   "name": "Swapline Default",
-  "timestamp": "2025-11-10T13:18:10Z",
+  "timestamp": "2025-11-13T10:22:10Z",
   "version": {
-    "major": 37,
+    "major": 38,
     "minor": 1,
     "patch": 1
   },
@@ -112,6 +112,14 @@
       "decimals" : 18,
       "logoURI" : "https://images.swapline.com/BURD.svg",
       "address" : "0xe0CC881E977006488D694148223eAdb5eF207275",
+      "chainId": 8453
+    },
+    {
+      "name": "eve69",
+      "symbol" : "eve69",
+      "decimals" : 18,
+      "logoURI" : "https://images.swapline.com/eve69.svg",
+      "address" : "0x46ef58bD72A61023AB6ddC189FABc5FAd5E8c31E",
       "chainId": 8453
     }
   ]
