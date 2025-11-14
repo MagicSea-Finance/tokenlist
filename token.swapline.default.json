@@ -2,7 +2,7 @@
   "name": "Swapline Default",
   "timestamp": "2025-11-14T03:39:18Z",
   "version": {
-    "major": 40,
+    "major": 41,
     "minor": 1,
     "patch": 1
   },
@@ -136,6 +136,22 @@
       "decimals": 18,
       "logoURI": "https://images.swapline.com/DOLAN.svg",
       "address": "0x38A3261Ba90Fe846656C904Cea256969f0d1A179",
+      "chainId": 8453
+    },
+    {
+      "name": "tokenbot",
+      "symbol": "CLANKER",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/CLANKER.svg",
+      "address": "0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb",
+      "chainId": 8453
+    },
+    {
+      "name": "Liquid Sonic Drop",
+      "symbol": "LSD",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/LSD.svg",
+      "address": "0x4c7E7371e40B3F8c74DdA97E967A47eee6b0b38f",
       "chainId": 8453
     }   
   ]
