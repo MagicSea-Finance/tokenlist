@@ -153,6 +153,54 @@
       "logoURI": "https://images.swapline.com/LSD.svg",
       "address": "0x4c7E7371e40B3F8c74DdA97E967A47eee6b0b38f",
       "chainId": 8453
-    }   
+    },
+    {
+      "name": "Degen",
+      "symbol": "DEGEN",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/DEGEN.svg",
+      "address": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
+      "chainId": 8453
+    },
+    {
+      "name": "TOSHI",
+      "symbol": "TOSHI",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/TOSHI.svg",
+      "address": "0xac1bd2486aaf3b5c0fc3fd868558b082a531b2b4",
+      "chainId": 8453
+    },
+    {
+      "name": "Brett",
+      "symbol": "BRETT",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/BRETT.svg",
+      "address": "0x532f27101965dd16442e59d40670faf5ebb142e4",
+      "chainId": 8453
+    },
+    {
+      "name": "doginme",
+      "symbol": "doginme",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/doginme.svg",
+      "address": "0x6921b130d297cc43754afba22e5eac0fbf8db75b",
+      "chainId": 8453
+    },
+    {
+      "name": "noice",
+      "symbol": "noice",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/noice.svg",
+      "address": "0x9cb41fd9dc6891bae8187029461bfaadf6cc0c69",
+      "chainId": 8453
+    },
+    {
+      "name": "Keyboard Cat",
+      "symbol": "KEYCAT",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/KEYCAT.svg",
+      "address": "0x9a26f5433671751c3276a065f57e5a02d2817973",
+      "chainId": 8453
+    }
   ]
 }
