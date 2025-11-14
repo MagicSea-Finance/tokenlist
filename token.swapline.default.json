@@ -1,8 +1,8 @@
 {
   "name": "Swapline Default",
-  "timestamp": "2025-11-13T10:22:10Z",
+  "timestamp": "2025-11-14T03:10:01Z",
   "version": {
-    "major": 38,
+    "major": 39,
     "minor": 1,
     "patch": 1
   },
@@ -120,6 +120,14 @@
       "decimals" : 18,
       "logoURI" : "https://images.swapline.com/eve69.svg",
       "address" : "0x46ef58bD72A61023AB6ddC189FABc5FAd5E8c31E",
+      "chainId": 8453
+    },
+    {
+      "name": "Zora",
+      "symbol" : "ZORA",
+      "decimals" : 18,
+      "logoURI" : "https://images.swapline.com/ZORA.svg",
+      "address" : "0x1111111111166b7FE7bd91427724B487980aFc69",
       "chainId": 8453
     }
   ]
