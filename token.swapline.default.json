@@ -1,8 +1,8 @@
 {
   "name": "Swapline Default",
-  "timestamp": "2025-11-14T03:10:01Z",
+  "timestamp": "2025-11-14T03:39:18Z",
   "version": {
-    "major": 39,
+    "major": 40,
     "minor": 1,
     "patch": 1
   },
@@ -129,6 +129,14 @@
       "logoURI" : "https://images.swapline.com/ZORA.svg",
       "address" : "0x1111111111166b7FE7bd91427724B487980aFc69",
       "chainId": 8453
-    }
+    },
+    {
+      "name": "Dolan meme",
+      "symbol": "DOLAN",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/DOLAN.svg",
+      "address": "0x38A3261Ba90Fe846656C904Cea256969f0d1A179",
+      "chainId": 8453
+    }   
   ]
 }
