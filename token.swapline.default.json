@@ -1,8 +1,8 @@
 {
   "name": "Swapline Default",
-  "timestamp": "2025-11-18T20:00:30Z",
+  "timestamp": "2025-11-18T21:02:30Z",
   "version": {
-    "major": 46,
+    "major": 47,
     "minor": 1,
     "patch": 1
   },
@@ -219,7 +219,7 @@
       "chainId": 8453
     },
     {
-      "name": "Solana (Universal)",
+      "name": "Universal Wrapped Solana",
       "symbol": "uSOL",
       "decimals": 18,
       "logoURI": "https://images.swapline.com/uSOL.svg",
