@@ -1,8 +1,8 @@
 {
   "name": "Swapline Default",
-  "timestamp": "2025-11-15T05:57:30Z",
+  "timestamp": "2025-11-18T20:00:30Z",
   "version": {
-    "major": 45,
+    "major": 46,
     "minor": 1,
     "patch": 1
   },
@@ -217,7 +217,14 @@
       "logoURI": "https://images.swapline.com/AUDIT.svg",
       "address": "0xb17a7581c9A006E8B5fDA85506cFD3448ed75746",
       "chainId": 8453
+    },
+    {
+      "name": "Solana (Universal)",
+      "symbol": "uSOL",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/uSOL.svg",
+      "address": "0x9B8Df6E244526ab5F6e6400d331DB28C8fdDdb55",
+      "chainId": 8453
     }
-    
   ]
 }
