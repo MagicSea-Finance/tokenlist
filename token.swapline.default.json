@@ -1,6 +1,6 @@
 {
   "name": "Swapline Default",
-  "timestamp": "2025-11-18T21:02:30Z",
+  "timestamp": "2025-11-18T20:00:30Z",
   "version": {
     "major": 47,
     "minor": 1,
@@ -225,6 +225,15 @@
       "logoURI": "https://images.swapline.com/uSOL.svg",
       "address": "0x9B8Df6E244526ab5F6e6400d331DB28C8fdDdb55",
       "chainId": 8453
+    },
+    {
+      "name": "jesse",
+      "symbol": "jesse",
+      "decimals": 18,
+      "logoURI": "https://images.swapline.com/jesse.svg",
+      "address": "0x50F88fe97f72CD3E75b9Eb4f747F59BcEBA80d59",
+      "chainId": 8453
     }
+    
   ]
 }
