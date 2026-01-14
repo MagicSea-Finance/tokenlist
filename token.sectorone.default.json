@@ -1,0 +1,38 @@
+{
+  "name": "SectorOne Default",
+  "timestamp": "2026-01-14T20:32:00.760Z",
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://sectorone.xyz/logo.png",
+  "keywords": ["megaeth", "default"],
+  "tokens": [
+    {
+      "name": "Wrapped Ether",
+      "symbol" : "WETH",
+      "decimals" : 18,
+      "logoURI" : "https://images.sectorone.xyz/WETH.svg",
+      "address" : "0x4200000000000000000000000000000000000006",
+      "chainId": 4326
+    },
+    {
+      "name": "USDT0",
+      "symbol" : "USDT0",
+      "decimals" : 6,
+      "logoURI" : "https://images.sectorone.xyz/USDT0.svg",
+      "address" : "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+      "chainId": 4326
+    },
+    {
+      "name": "USDm",
+      "symbol" : "USDm",
+      "decimals" : 18,
+      "logoURI" : "https://images.sectorone.xyz/USDm.svg",
+      "address" : "0xFAfDdbb3FC7688494971a79cc65DCa3EF82079E7",
+      "chainId": 4326
+    }
+  ]
+}
