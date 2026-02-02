@@ -102,5 +102,9 @@
     {
         "address" : "0x9D152D78B05f31EA6979061d432110c8664cA1a7",
         "name" : "BREAD"
+    },
+    {
+        "address" : "0x7c615e12d1163fc0dddaa01b51922587034f5c93",
+        "name" : "Tulipa Capital"
     }
 ]
