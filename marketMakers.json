@@ -91,12 +91,16 @@
         "address" : "0xD3678D44fDD5b0961d8ad11c366a3bC0c1AB8914",
         "name" : "Rosato"
     },
-        {
+    {
         "address" : "0x56Dc54Ac98Bc3556AD446Fd3Bf3C49962e32eB22",
         "name" : "Skyline Capital"
     },
-        {
+    {
         "address" : "0x415D1538DDa464fDd772Ec91461C21ba9aE0cA41",
         "name" : "Blueberry"
+    },
+    {
+        "address" : "0x9D152D78B05f31EA6979061d432110c8664cA1a7",
+        "name" : "BREAD"
     }
 ]
