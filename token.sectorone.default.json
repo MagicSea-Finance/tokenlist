@@ -1,8 +1,8 @@
 {
   "name": "SectorOne Default",
-  "timestamp": "2026-01-26T20:44:00.760Z",
+  "timestamp": "2026-02-09T15:50:14Z",
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 1,
     "patch": 1
   },
@@ -48,6 +48,14 @@
       "decimals" : 8,
       "logoURI" : "https://images.sectorone.xyz/BTCb.svg",
       "address" : "0xB0F70C0bD6FD87dbEb7C10dC692a2a6106817072",
+      "chainId": 4326
+    },
+    {
+      "name": "Duck Token",
+      "symbol" : "DUCK",
+      "decimals" : 18,
+      "logoURI" : "https://images.sectorone.xyz/DUCK.svg",
+      "address" : "0x021ee124cF23D302A7f725AE7a01B77A8ce9782B",
       "chainId": 4326
     }
   ]
