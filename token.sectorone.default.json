@@ -1,10 +1,6 @@
 {
   "name": "SectorOne Default",
-<<<<<<< Updated upstream
   "timestamp": "2026-02-09T15:50:14Z",
-=======
-  "timestamp": "2026-02-10T20:06:50.760Z",
->>>>>>> Stashed changes
   "version": {
     "major": 4,
     "minor": 1,
@@ -12,137 +8,46 @@
   },
   "tags": {},
   "logoURI": "https://sectorone.xyz/logo.png",
-  "keywords": [
-    "megaeth",
-    "default"
-  ],
+  "keywords": ["megaeth", "default"],
   "tokens": [
     {
       "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://images.sectorone.xyz/WETH.svg",
-      "address": "0x4200000000000000000000000000000000000006",
+      "symbol" : "WETH",
+      "decimals" : 18,
+      "logoURI" : "https://images.sectorone.xyz/WETH.svg",
+      "address" : "0x4200000000000000000000000000000000000006",
       "chainId": 4326
     },
     {
       "name": "USDT0",
-      "symbol": "USDT0",
-      "decimals": 6,
-      "logoURI": "https://images.sectorone.xyz/USDT0.svg",
-      "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+      "symbol" : "USDT0",
+      "decimals" : 6,
+      "logoURI" : "https://images.sectorone.xyz/USDT0.svg",
+      "address" : "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
       "chainId": 4326
     },
     {
       "name": "USDm",
-      "symbol": "USDm",
-      "decimals": 18,
-      "logoURI": "https://images.sectorone.xyz/USDm.svg",
-      "address": "0xFAfDdbb3FC7688494971a79cc65DCa3EF82079E7",
+      "symbol" : "USDm",
+      "decimals" : 18,
+      "logoURI" : "https://images.sectorone.xyz/USDm.svg",
+      "address" : "0xFAfDdbb3FC7688494971a79cc65DCa3EF82079E7",
       "chainId": 4326
     },
     {
       "name": "Cap USD",
-      "symbol": "cUSD",
-      "decimals": 18,
-      "logoURI": "https://images.sectorone.xyz/cUSD.svg",
-      "address": "0xcCcc62962d17b8914c62D74FfB843d73B2a3cccC",
+      "symbol" : "cUSD",
+      "decimals" : 18,
+      "logoURI" : "https://images.sectorone.xyz/cUSD.svg",
+      "address" : "0xcCcc62962d17b8914c62D74FfB843d73B2a3cccC",
       "chainId": 4326
     },
     {
       "name": "Bitcoin",
-      "symbol": "BTC.b",
-      "decimals": 8,
-      "logoURI": "https://images.sectorone.xyz/BTCb.svg",
-      "address": "0xB0F70C0bD6FD87dbEb7C10dC692a2a6106817072",
-      "chainId": 4326
-    },
-    {
-      "name": "Ether",
-      "symbol": "ETH",
-      "decimals": 18,
-      "logoURI": "https://images.sectorone.xyz/ETH.svg",
-      "address": "0x0000000000000000000000000000000000000000",
-      "chainId": 4326
-    },
-    {
-      "name": "Renzo Restaked ETH",
-      "symbol": "ezETH",
-      "decimals": 18,
-      "logoURI": "https://images.sectorone.xyz/ezETH.svg",
-      "address": "0x09601A65e7de7BC8A19813D263dD9E98bFdC3c57",
-      "chainId": 4326
-    },
-    {
-      "name": "MEGA",
-      "symbol": "MEGA",
-      "decimals": 18,
-      "logoURI": "https://images.sectorone.xyz/MEGA.svg",
-      "address": "0x28B7E77f82B25B95953825F1E3eA0E36c1c29861",
-      "chainId": 4326
-    },
-    {
-      "name": "Synthetics Implemented Right",
-      "symbol": "MegaSIR",
-      "decimals": 12,
-      "logoURI": "https://images.sectorone.xyz/MegaSIR.svg",
-      "address": "0x9367A0c482703d8d9bda995B03f8E71056a72500",
-      "chainId": 4326
-    },
-    {
-      "name": "KelpDao Restaked ETH",
-      "symbol": "rsETH",
-      "decimals": 18,
-      "logoURI": "https://images.sectorone.xyz/rsETH.svg",
-      "address": "0xc3eACf0612346366Db554C991D7858716db09f58",
-      "chainId": 4326
-    },
-    {
-      "name": "Staked Cap USD",
-      "symbol": "STCUSD",
-      "decimals": 18,
-      "logoURI": "https://images.sectorone.xyz/STCUSD.png",
-      "address": "0x88887bE419578051FF9F4eb6C858A951921D8888",
-      "chainId": 4326
-    },
-    {
-      "name": "Staked USDe",
-      "symbol": "sUSDe",
-      "decimals": 18,
-      "logoURI": "https://images.sectorone.xyz/sUSDe.svg",
-      "address": "0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2",
-      "chainId": 4326
-    },
-    {
-      "name": "USDe",
-      "symbol": "USDe",
-      "decimals": 18,
-      "logoURI": "https://images.sectorone.xyz/USDe.svg",
-      "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
-      "chainId": 4326
-    },
-    {
-      "name": "USDm Yield",
-      "symbol": "USDmY",
-      "decimals": 18,
-      "logoURI": "https://images.sectorone.xyz/USDmY.svg",
-      "address": "0x2eA493384F42d7Ea78564F3EF4C86986eAB4a890",
-      "chainId": 4326
-    },
-    {
-      "name": "rsETHWrapper",
-      "symbol": "wrsETH",
-      "decimals": 18,
-      "logoURI": "https://images.sectorone.xyz/wrsETH.svg",
-      "address": "0x4Fc44BE15e9B6E30C1E774E2C87A21D3E8b5403F",
-      "chainId": 4326
-    },
-    {
-      "name": "Wrapped liquid staked Ether 2.0",
-      "symbol": "wstETH",
-      "decimals": 18,
-      "logoURI": "https://images.sectorone.xyz/wstETH.svg",
-      "address": "0x601aC63637933D88285A025C685AC4e9a92a98dA",
+      "symbol" : "BTC.b",
+      "decimals" : 8,
+      "logoURI" : "https://images.sectorone.xyz/BTCb.svg",
+      "address" : "0xB0F70C0bD6FD87dbEb7C10dC692a2a6106817072",
       "chainId": 4326
     },
     {
