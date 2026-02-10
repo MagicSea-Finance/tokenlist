@@ -73,7 +73,7 @@
       "name": "Staked Cap USD",
       "symbol": "STCUSD",
       "decimals": 18,
-      "logoURI": "https://images.sectorone.xyz/STCUSD.png",
+      "logoURI": "https://images.sectorone.xyz/stcUSD.svg",
       "address": "0x88887bE419578051FF9F4eb6C858A951921D8888",
       "chainId": 4326
     },
