@@ -1,8 +1,8 @@
-<svg width="111" height="177" viewBox="0 0 111 177" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M55.3091 0V65.4298L110.611 90.1411L55.3091 0Z" fill="white"/>
-<path d="M55.3092 0L0 90.1411L55.3092 65.4298V0Z" fill="white"/>
-<path d="M55.3091 132.542V177L110.648 100.439L55.3091 132.542Z" fill="white"/>
-<path d="M55.3092 177V132.535L0 100.439L55.3092 177Z" fill="white"/>
-<path d="M55.3091 122.251L110.611 90.1409L55.3091 65.4443V122.251Z" fill="white"/>
-<path d="M0 90.1409L55.3092 122.251V65.4443L0 90.1409Z" fill="white"/>
+<svg width="220" height="220" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M110.309 21V86.4298L165.611 111.141L110.309 21Z" fill="white"/>
+<path d="M110.309 21L55 111.141L110.309 86.4298V21Z" fill="white"/>
+<path d="M110.309 153.542V198L165.648 121.439L110.309 153.542Z" fill="white"/>
+<path d="M110.309 198V153.535L55 121.439L110.309 198Z" fill="white"/>
+<path d="M110.309 143.251L165.611 111.141L110.309 86.4443V143.251Z" fill="white"/>
+<path d="M55 111.141L110.309 143.251V86.4443L55 111.141Z" fill="white"/>
 </svg>
