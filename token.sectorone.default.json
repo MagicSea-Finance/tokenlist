@@ -1,14 +1,15 @@
 {
   "name": "SectorOne Default",
-  "timestamp": "2026-02-10T20:29:38.760Z",
+  "timestamp": "2026-02-25T06:27:38.760Z",
   "version": {
-    "major": 5,
+    "major": 6,
     "minor": 1,
     "patch": 1
   },
   "tags": {},
   "logoURI": "https://sectorone.xyz/logo.png",
   "keywords": [
+    "base",
     "megaeth",
     "default"
   ],
@@ -140,6 +141,38 @@
       "logoURI": "https://images.sectorone.xyz/MEGA.svg",
       "address": "0x28B7E77f82B25B95953825F1E3eA0E36c1c29861",
       "chainId": 4326
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://images.sectorone.xyz/USDC.svg",
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "chainId": 8453
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://images.sectorone.xyz/USDT.svg",
+      "address": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2",
+      "chainId": 8453
+    },
+    {
+      "name": "EURC",
+      "symbol": "EURC",
+      "decimals": 6,
+      "logoURI": "https://images.sectorone.xyz/EURC.svg",
+      "address": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+      "chainId": 8453
+    },
+    {
+      "name": "Coinbase Wrapped BTC",
+      "symbol": "cbBTC",
+      "decimals": 8,
+      "logoURI": "https://images.sectorone.xyz/cbBTC.svg",
+      "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
+      "chainId": 8453
     }
   ]
 }
