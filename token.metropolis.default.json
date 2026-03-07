@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2025-10-10T08:53:00Z",
+  "timestamp": "2026-03-07T17:00:00Z",
   "version": {
-    "major": 144,
+    "major": 145,
     "minor": 1,
     "patch": 1
   },
@@ -1104,6 +1104,14 @@
       "decimals": 18,
       "address": "0x9C5100BA377e3E9DB247f6d4bc7FFc9C24b59d08",
       "logoURI": "https://images.metropolis.exchange/ZUPA.svg",
+      "chainId": 146
+    },
+    {
+      "name": "US Sonic Dollar",
+      "symbol": "USSD",
+      "decimals": 18,
+      "address": "0x000000000eCcFf26B795F73fb0A70d48da657fEf",
+      "logoURI": "https://images.metropolis.exchange/USSD.svg",
       "chainId": 146
     }
   ]
