@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2026-03-07T17:00:00Z",
+  "timestamp": "2026-03-13T13:41:00Z",
   "version": {
-    "major": 145,
+    "major": 146,
     "minor": 1,
     "patch": 1
   },
@@ -1112,6 +1112,22 @@
       "decimals": 18,
       "address": "0x000000000eCcFf26B795F73fb0A70d48da657fEf",
       "logoURI": "https://images.metropolis.exchange/USSD.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Flying Tulip",
+      "symbol": "FT",
+      "decimals": 18,
+      "address": "0x5DD1A7A369e8273371d2DBf9d83356057088082c",
+      "logoURI": "https://images.metropolis.exchange/FT.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Flying Tulip USD",
+      "symbol": "ftUSD",
+      "decimals": 6,
+      "address": "0xF7D85EC4E7710f71992752eac2111312e73E9C9C",
+      "logoURI": "https://images.metropolis.exchange/ftUSD.svg",
       "chainId": 146
     }
   ]
