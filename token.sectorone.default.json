@@ -1,8 +1,8 @@
 {
   "name": "SectorOne Default",
-  "timestamp": "2026-02-25T06:27:38.760Z",
+  "timestamp": "2026-03-16T13:36:38.760Z",
   "version": {
-    "major": 6,
+    "major": 7,
     "minor": 1,
     "patch": 1
   },
@@ -173,6 +173,14 @@
       "logoURI": "https://images.sectorone.xyz/cbBTC.svg",
       "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
       "chainId": 8453
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://images.sectorone.xyz/USDC.svg",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "chainId": 1
     }
   ]
 }
