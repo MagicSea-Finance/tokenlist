@@ -1,8 +1,8 @@
 {
   "name": "SectorOne Default",
-  "timestamp": "2026-03-16T13:36:38.760Z",
+  "timestamp": "2026-03-16T13:53:38.760Z",
   "version": {
-    "major": 7,
+    "major": 8,
     "minor": 1,
     "patch": 1
   },
@@ -180,6 +180,38 @@
       "decimals": 6,
       "logoURI": "https://images.sectorone.xyz/USDC.svg",
       "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "chainId": 1
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/WETH.svg",
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "chainId": 1
+    },
+    {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://images.sectorone.xyz/WBTC.svg",
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "chainId": 1
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://images.sectorone.xyz/USDT.svg",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "chainId": 1
+    },
+    {
+      "name": "Coinbase Wrapped BTC",
+      "symbol": "cbBTC",
+      "decimals": 8,
+      "logoURI": "https://images.sectorone.xyz/cbBTC.svg",
+      "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
       "chainId": 1
     }
   ]
