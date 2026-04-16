@@ -1,6 +1,6 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2026-03-13T13:41:00Z",
+  "timestamp": "2026-04-16T08:08:00Z",
   "version": {
     "major": 146,
     "minor": 1,
@@ -1128,6 +1128,14 @@
       "decimals": 6,
       "address": "0xF7D85EC4E7710f71992752eac2111312e73E9C9C",
       "logoURI": "https://images.metropolis.exchange/ftUSD.svg",
+      "chainId": 146
+    },
+    {
+      "name": "CRONJe",
+      "symbol": "CRONJe",
+      "decimals": 18,
+      "address": "0xC36cc0594106090bd13f3b4166A552994186A7FB",
+      "logoURI": "https://images.metropolis.exchange/CRONJe.svg",
       "chainId": 146
     }
   ]
