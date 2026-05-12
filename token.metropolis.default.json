@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2026-04-16T11:27:00Z",
+  "timestamp": "2026-05-12T08:08:00Z",
   "version": {
-    "major": 147,
+    "major": 148,
     "minor": 1,
     "patch": 1
   },
@@ -1136,6 +1136,14 @@
       "decimals": 18,
       "address": "0xC36cc0594106090bd13f3b4166A552994186A7FB",
       "logoURI": "https://images.metropolis.exchange/CRONJe.svg",
+      "chainId": 146
+    },
+    {
+      "name": "FUCKMULTI",
+      "symbol": "fMULTI",
+      "decimals": 18,
+      "address": "0x39838b880BA948C49aaB7253f61Ce1e00C30c014",
+      "logoURI": "https://images.metropolis.exchange/fMULTI.svg",
       "chainId": 146
     }
   ]
