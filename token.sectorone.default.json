@@ -1,8 +1,8 @@
 {
   "name": "SectorOne Default",
-  "timestamp": "2026-03-16T13:53:38.760Z",
+  "timestamp": "2026-05-13T05:40:38.760Z",
   "version": {
-    "major": 8,
+    "major": 9,
     "minor": 1,
     "patch": 1
   },
@@ -213,6 +213,14 @@
       "logoURI": "https://images.sectorone.xyz/cbBTC.svg",
       "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
       "chainId": 1
+    },
+    {
+      "name": "DungeonClaw",
+      "symbol": "DCLAW",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/DCLAW.svg",
+      "address": "0xb7965A38552E0f7D5B728BAd1Ef2817ca7AE0B68",
+      "chainId": 8453
     }
   ]
 }
