@@ -1,8 +1,8 @@
 {
   "name": "SectorOne Default",
-  "timestamp": "2026-05-13T05:40:38.760Z",
+  "timestamp": "2026-05-13T08:28:38.760Z",
   "version": {
-    "major": 9,
+    "major": 10,
     "minor": 1,
     "patch": 1
   },
@@ -220,6 +220,30 @@
       "decimals": 18,
       "logoURI": "https://images.sectorone.xyz/DCLAW.svg",
       "address": "0xb7965A38552E0f7D5B728BAd1Ef2817ca7AE0B68",
+      "chainId": 8453
+    },
+    {
+      "name": "flETH",
+      "symbol": "flETH",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/flETH.svg",
+      "address": "0x000000000D564D5be76f7f0d28fE52605afC7Cf8",
+      "chainId": 8453
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "decimals": 9,
+      "logoURI": "https://images.sectorone.xyz/SOL.svg",
+      "address": "0x311935Cd80B76769bF2ecC9D8Ab7635b2139cf82",
+      "chainId": 8453
+    },
+    {
+      "name": "LienFi",
+      "symbol": "LFI",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/LFI.svg",
+      "address": "0x3722264aB15a1dfCe5a5af89e6547F7949A8ABA3",
       "chainId": 8453
     }
   ]
