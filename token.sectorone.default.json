@@ -1,8 +1,8 @@
 {
   "name": "SectorOne Default",
-  "timestamp": "2026-05-13T08:28:38.760Z",
+  "timestamp": "2026-05-16T10:57:38.760Z",
   "version": {
-    "major": 10,
+    "major": 11,
     "minor": 1,
     "patch": 1
   },
@@ -244,6 +244,14 @@
       "decimals": 18,
       "logoURI": "https://images.sectorone.xyz/LFI.svg",
       "address": "0x3722264aB15a1dfCe5a5af89e6547F7949A8ABA3",
+      "chainId": 8453
+    },
+    {
+      "name": "BankrCoin",
+      "symbol": "BNKR",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/BNKR.svg",
+      "address": "0x22aF33FE49fD1Fa80c7149773dDe5890D3c76F3b",
       "chainId": 8453
     }
   ]
