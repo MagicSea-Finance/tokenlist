@@ -1,8 +1,8 @@
 {
   "name": "SectorOne Default",
-  "timestamp": "2026-05-16T10:57:38.760Z",
+  "timestamp": "2026-05-20T07:45:38.760Z",
   "version": {
-    "major": 11,
+    "major": 12,
     "minor": 1,
     "patch": 1
   },
@@ -252,6 +252,14 @@
       "decimals": 18,
       "logoURI": "https://images.sectorone.xyz/BNKR.svg",
       "address": "0x22aF33FE49fD1Fa80c7149773dDe5890D3c76F3b",
+      "chainId": 8453
+    },
+    {
+      "name": "gitlawb",
+      "symbol": "GITLAWB",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/GITLAWB.svg",
+      "address": "0x5F980Dcfc4c0fa3911554cf5ab288ed0eb13DBa3",
       "chainId": 8453
     }
   ]
