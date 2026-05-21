@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2026-05-12T08:08:00Z",
+  "timestamp": "2026-05-21T08:38:00Z",
   "version": {
-    "major": 148,
+    "major": 149,
     "minor": 1,
     "patch": 1
   },
@@ -1144,6 +1144,14 @@
       "decimals": 18,
       "address": "0x39838b880BA948C49aaB7253f61Ce1e00C30c014",
       "logoURI": "https://images.metropolis.exchange/fMULTI.svg",
+      "chainId": 146
+    },
+    {
+      "name": "JEFE TOKEN",
+      "symbol": "JEFE",
+      "decimals": 9,
+      "address": "0x70e7f1d907E30efb18FE1DD8A1d75c09A98177d3",
+      "logoURI": "https://images.metropolis.exchange/JEFE.svg",
       "chainId": 146
     }
   ]
