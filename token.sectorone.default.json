@@ -1,8 +1,8 @@
 {
   "name": "SectorOne Default",
-  "timestamp": "2026-05-20T07:45:38.760Z",
+  "timestamp": "2026-05-22T11:39:38.760Z",
   "version": {
-    "major": 12,
+    "major": 13,
     "minor": 1,
     "patch": 1
   },
@@ -260,6 +260,14 @@
       "decimals": 18,
       "logoURI": "https://images.sectorone.xyz/GITLAWB.svg",
       "address": "0x5F980Dcfc4c0fa3911554cf5ab288ed0eb13DBa3",
+      "chainId": 8453
+    },
+    {
+      "name": "ClawBank",
+      "symbol": "ClawBank",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/ClawBank.svg",
+      "address": "0x16332535E2c27da578bC2e82bEb09Ce9d3C8EB07",
       "chainId": 8453
     }
   ]
