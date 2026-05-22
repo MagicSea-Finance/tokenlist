@@ -1,8 +1,8 @@
 {
   "name": "Metropolis Default",
-  "timestamp": "2026-05-21T08:38:00Z",
+  "timestamp": "2026-05-22T18:16:00Z",
   "version": {
-    "major": 149,
+    "major": 150,
     "minor": 1,
     "patch": 1
   },
@@ -1152,6 +1152,14 @@
       "decimals": 9,
       "address": "0x70e7f1d907E30efb18FE1DD8A1d75c09A98177d3",
       "logoURI": "https://images.metropolis.exchange/JEFE.svg",
+      "chainId": 146
+    },
+    {
+      "name": "Shadow Liquid Staking Token",
+      "symbol": "x33",
+      "decimals": 18,
+      "address": "0x3333111A391cC08fa51353E9195526A70b333333",
+      "logoURI": "https://images.metropolis.exchange/x33.svg",
       "chainId": 146
     }
   ]
