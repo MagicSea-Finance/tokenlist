@@ -293,6 +293,15 @@
       "logoURI": "https://images.sectorone.xyz/uNEAR.svg",
       "address": "0x5ed25E305E08F58AFD7995EaC72563E6BE65A617",
       "chainId": 8453
+    },
+    {
+      "name": "USDe",
+      "symbol": "USDe",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/USDe.svg",
+      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "chainId": 4663
     }
+    
   ]
 }
