@@ -1,8 +1,8 @@
 {
   "name": "SectorOne Default",
-  "timestamp": "2026-07-24T15:58:38.760Z",
+  "timestamp": "2026-07-31T15:58:38.760Z",
   "version": {
-    "major": 15,
+    "major": 16,
     "minor": 1,
     "patch": 1
   },
@@ -301,7 +301,38 @@
       "logoURI": "https://images.sectorone.xyz/USDe.svg",
       "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
       "chainId": 4663
+    },
+    {
+      "name": "TSLA",
+      "symbol": "TSLA",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/TSLA.svg",
+      "address": "0x322f0929c4625ed5bad873c95208d54e1c003b2d",
+      "chainId": 4663
+    },
+    {
+      "name": "SPCX",
+      "symbol": "SPCX",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/SPCX.svg",
+      "address": "0x4a0e65a3eccec6dbe60ae065f2e7bb85fae35eea",
+      "chainId": 4663
+    },
+    {
+      "name": "flETH",
+      "symbol": "flETH",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/flETH.svg",
+      "address": "0x000000000d564d5be76f7f0d28fe52605afc7cf8",
+      "chainId": 4663
+    },
+    {
+      "name": "HOOJA",
+      "symbol": "HOOJA",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/HOOJA.svg",
+      "address": "0x64459a5592723ffbaceaff5799f4a9edac579c6c",
+      "chainId": 4663
     }
-    
   ]
 }
