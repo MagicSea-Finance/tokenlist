@@ -1,8 +1,8 @@
 {
   "name": "SectorOne Default",
-  "timestamp": "2026-07-31T15:58:38.760Z",
+  "timestamp": "2026-08-11T15:58:38.760Z",
   "version": {
-    "major": 16,
+    "major": 17,
     "minor": 1,
     "patch": 1
   },
@@ -332,6 +332,14 @@
       "decimals": 18,
       "logoURI": "https://images.sectorone.xyz/HOOJA.svg",
       "address": "0x64459a5592723ffbaceaff5799f4a9edac579c6c",
+      "chainId": 4663
+    },
+    {
+      "name": "HOODBOT",
+      "symbol": "HOODBOT",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/HOODBOT.svg",
+      "address": "0x56783630CB8543E24e567AB05b98752250ce7451",
       "chainId": 4663
     }
   ]
