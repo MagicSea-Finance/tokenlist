@@ -341,6 +341,14 @@
       "logoURI": "https://images.sectorone.xyz/HOODBOT.svg",
       "address": "0x56783630CB8543E24e567AB05b98752250ce7451",
       "chainId": 4663
+    },
+    {
+      "name": "APU",
+      "symbol": "APU",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/APU.svg",
+      "address": "0xBa996feDDd47a80375DB84A6bd947F8fa1A64E10",
+      "chainId": 4663
     }
   ]
 }
