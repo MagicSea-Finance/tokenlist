@@ -357,6 +357,14 @@
       "logoURI": "https://images.sectorone.xyz/sushicat.svg",
       "address": "0x0ab8d01664d4bB625705f9F3c595a8a19B3dCFb0",
       "chainId": 4663
+    },
+    {
+      "name": "PURR",
+      "symbol": "PURR",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/PURR.svg",
+      "address": "0xD928A068d2B90798373a470c9D9bA562322ACdeF",
+      "chainId": 4663
     }
   ]
 }
