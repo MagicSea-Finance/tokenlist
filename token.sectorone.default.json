@@ -365,6 +365,14 @@
       "logoURI": "https://images.sectorone.xyz/PURR.svg",
       "address": "0xD928A068d2B90798373a470c9D9bA562322ACdeF",
       "chainId": 4663
+    },
+    {
+      "name": "KPEPE",
+      "symbol": "KPEPE",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/KPEPE.svg",
+      "address": "0x9B08423da6b1d9209419cfBbC46b8147E6eb7955",
+      "chainId": 4663
     }
   ]
 }
