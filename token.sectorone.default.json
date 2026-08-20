@@ -382,5 +382,14 @@
       "address": "0x7FE995a80075dF3Dc8Ae11A9b82c7FE4202CD87f",
       "chainId": 4663
     }
+    ,
+    {
+      "name": "DRALLIO",
+      "symbol": "DRALLIO",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/DRALLIO.svg",
+      "address": "0x92A4D1e964466AB67446d5B0efbEc0CA217408cc",
+      "chainId": 4663
+    }
   ]
 }
