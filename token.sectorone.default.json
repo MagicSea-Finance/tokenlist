@@ -373,6 +373,14 @@
       "logoURI": "https://images.sectorone.xyz/KPEPE.svg",
       "address": "0x9B08423da6b1d9209419cfBbC46b8147E6eb7955",
       "chainId": 4663
+    },
+    {
+      "name": "HMM",
+      "symbol": "HMM",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/HMM.svg",
+      "address": "0x7FE995a80075dF3Dc8Ae11A9b82c7FE4202CD87f",
+      "chainId": 4663
     }
   ]
 }
