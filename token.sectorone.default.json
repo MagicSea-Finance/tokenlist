@@ -405,6 +405,30 @@
       "logoURI": "https://images.sectorone.xyz/GOOGL.svg",
       "address": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
       "chainId": 4663
+    },
+    {
+      "name": "NVIDIA",
+      "symbol": "NVDA",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/NVDA.svg",
+      "address": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
+      "chainId": 4663
+    },
+    {
+      "name": "APPLE",
+      "symbol": "AAPL",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/AAPL.svg",
+      "address": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
+      "chainId": 4663
+    },
+    {
+      "name": "META",
+      "symbol": "META",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/META.svg",
+      "address": "0xc0D6457C16Cc70d6790Dd43521C899C87ce02f35",
+      "chainId": 4663
     }
   ]
 }
