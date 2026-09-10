@@ -381,14 +381,21 @@
       "logoURI": "https://images.sectorone.xyz/HMM.svg",
       "address": "0x7FE995a80075dF3Dc8Ae11A9b82c7FE4202CD87f",
       "chainId": 4663
-    }
-    ,
+    },
     {
       "name": "DRALLIO",
       "symbol": "DRALLIO",
       "decimals": 18,
       "logoURI": "https://images.sectorone.xyz/DRALLIO.svg",
       "address": "0x92A4D1e964466AB67446d5B0efbEc0CA217408cc",
+      "chainId": 4663
+    },
+    {
+      "name": "Tin Hat Cat",
+      "symbol": "THC",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/THC.svg",
+      "address": "0x11fDdcAc2c8B3dF9a06730cA888adD8Ba07Ea27d",
       "chainId": 4663
     }
   ]
