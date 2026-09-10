@@ -397,6 +397,14 @@
       "logoURI": "https://images.sectorone.xyz/THC.svg",
       "address": "0x11fDdcAc2c8B3dF9a06730cA888adD8Ba07Ea27d",
       "chainId": 4663
+    },
+    {
+      "name": "Google",
+      "symbol": "GOOGL",
+      "decimals": 18,
+      "logoURI": "https://images.sectorone.xyz/GOOGL.svg",
+      "address": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+      "chainId": 4663
     }
   ]
 }
