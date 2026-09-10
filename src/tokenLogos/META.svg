@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 300 300">
+  <!-- Generator: Adobe Illustrator 30.7.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 114)  -->
+  <defs>
+    <clipPath id="clippath">
+      <rect x="53.57" y="85.71" width="192.86" height="128.57" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="82.91" y1="195.23" x2="115.06" y2="128.26" gradientTransform="translate(0 302) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0064e0"/>
+      <stop offset="1" stop-color="#0082fb"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="231.59" y1="140.85" x2="175.34" y2="162.28" gradientTransform="translate(0 302) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0181fa"/>
+      <stop offset="1" stop-color="#0967df"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient2" x1="120.77" y1="152.75" x2="262.73" y2="147.39" gradientTransform="translate(0 302) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0082fb"/>
+      <stop offset="1" stop-color="#0180f9"/>
+    </linearGradient>
+  </defs>
+  <circle cx="150" cy="150" r="150" fill="#f0f3fa"/>
+  <g clip-path="url(#clippath)">
+    <g>
+      <path d="M152.66,112.78s-.04.04-.05.06c-15.37-19.64-28.23-27.13-43.61-27.13-31.38,0-55.42,40.96-55.42,84.33,0,27.13,13.08,44.24,35,44.24,15.78,0,27.12-7.46,47.29-42.82,0,0,8.36-14.81,14.14-25.07v-.41l2.66-33.2ZM89.36,193.35c9.1,0,14.76-5.75,31.12-31.47,0,0,7.43-11.84,19.69-30.74-12.91-18.56-21.36-24.41-31.46-24.41-18.65,0-34.3,32.2-34.3,63.66,0,14.71,5.57,22.97,14.95,22.97h0Z" fill="url(#linear-gradient)" fill-rule="evenodd"/>
+      <path d="M150.08,146.37l2.6-31.19-.19-2.49.12.16c11.2-15.18,23.56-27.13,39.37-27.13,29.86,0,54.44,38.13,54.45,83.53,0,27.7-11.88,45.04-33.23,45.04-18.61,0-28.87-10.49-47.29-41.41l-9.46-15.96c-2.1-3.54-4.22-7.05-6.38-10.55h0ZM170.88,139.73l11.3,18.91c17.68,28.55,22.13,34.71,31.45,34.73,9.72,0,14.41-8.34,14.41-22.7,0-37.69-16.61-68.36-37.39-68.36-10,0-18.4,7.87-28.59,23.65,3.03,4.53,5.97,9.13,8.82,13.78Z" fill="url(#linear-gradient1)" fill-rule="evenodd"/>
+      <path d="M152.61,112.84c11.2-15.18,23.56-27.13,39.37-27.13,29.86,0,54.44,38.13,54.45,83.53l-18.39,1.41c0-37.69-16.61-68.36-37.38-68.36-10,0-18.4,7.87-28.59,23.65l-12.02,20.36c-4.73,8.39-9.45,16.77-14.19,25.15-20.17,35.37-31.51,42.82-47.29,42.82l.79-20.93c9.1,0,14.76-5.76,31.12-31.47,0,0,7.43-11.84,19.69-30.74l12.43-18.29h0Z" fill="url(#linear-gradient2)"/>
+      <path d="M170.88,139.73c-24.51-40-40.84-54.01-61.9-54.01l-.27,21.01c13.79,0,24.48,10.9,47.72,50.18l1.43,2.39,13.02-19.57Z" fill="#0466e0"/>
+    </g>
+  </g>
+</svg>
